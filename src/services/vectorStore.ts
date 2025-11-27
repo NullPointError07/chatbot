@@ -16,7 +16,7 @@ export class VectorStore {
 
   constructor(ollamaService: OllamaService) {
     this.ollamaService = ollamaService;
-    this.embeddingCachePath = path.join(process.cwd(), 'data', 'embeddings_cache.json');
+    this.embeddingCachePath = path.join(process.cwd(), 'cache', 'embeddings.json');
   }
 
   async loadData(dataDir: string) {
