@@ -1,0 +1,281 @@
+[{
+  "_id": {
+    "$oid": "68e1f11f8c9f43ad16790c69"
+  },
+  "title": "Full Length Paid #1",
+  "category": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "exam": [
+    {
+      "$oid": "68dce14f165ab27c7751617c"
+    },
+    {
+      "$oid": "68dcd50f165ab27c77516173"
+    },
+    {
+      "$oid": "68dd082f165ab27c77516188"
+    },
+    {
+      "$oid": "68dd065d165ab27c77516184"
+    }
+  ],
+  "studentType": "student",
+  "description": "",
+  "shortDescription": "Full Length Free #1 is a comprehensive exam set designed to give learners a complete test experience across four major skill areas.",
+  "generalInstruction": "<p><strong>Full Length Free #1</strong> is a comprehensive exam set designed to give learners a complete test experience across four major skill areas. It includes <strong>four full-length exams from four different categories</strong>, allowing you to assess your overall proficiency and identify areas for improvement. Each exam follows a realistic test format, helping you build confidence, improve time management, and understand question patterns. Whether you’re preparing for academic purposes or personal skill development, this set offers a balanced and effective practice opportunity — all in one place and completely free.</p><p><br></p>",
+  "pricing": {
+    "type": "paid",
+    "price": 499
+  },
+  "cover": {
+    "$oid": "68cfeee73957040b4923593f"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "accessDuration": 1296000,
+  "setType": "full length",
+  "url": "full-length-paid-1",
+  "active": true,
+  "setDuration": 0,
+  "createdAt": {
+    "$date": "2025-10-05T04:16:31.897Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T04:16:36.178Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e1fffc8c9f43ad16791e43"
+  },
+  "title": "Partial Paid #1",
+  "category": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "exam": [
+    {
+      "$oid": "68dd084c165ab27c77516189"
+    },
+    {
+      "$oid": "68dce174165ab27c7751617d"
+    },
+    {
+      "$oid": "68dcd5c0165ab27c77516174"
+    }
+  ],
+  "studentType": "student",
+  "description": "",
+  "shortDescription": "Partial Free #1 is a focused practice collection featuring three core exams — Reading, Writing, and Listening.",
+  "generalInstruction": "<ul><li>Read all questions carefully before answering.</li><li>Follow the specific word limits and instructions for each section.</li><li>Write your answers clearly in the provided spaces or answer sheets.</li><li>Manage your time wisely — do not spend too long on a single question.</li><li>For the <strong>Listening</strong> section, check your spelling and grammar before submitting.</li><li>In the <strong>Reading</strong> section, base all answers strictly on the given text.</li><li>During the <strong>Writing</strong> section, plan your ideas before you start writing.</li><li>Use only a pen or pencil for written answers.</li><li>Do not use dictionaries, mobile phones, or any external help during the test.</li><li>Stay calm and focused throughout — accuracy and consistency are key.</li></ul>",
+  "pricing": {
+    "type": "paid",
+    "price": 300
+  },
+  "cover": {
+    "$oid": "68c95b3ae4348dbc8a4580c8"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "accessDuration": 1296000,
+  "setType": "partial",
+  "url": "partial-free-1",
+  "active": true,
+  "setDuration": 0,
+  "createdAt": {
+    "$date": "2025-10-05T05:19:56.050Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T05:19:59.351Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e2016a8c9f43ad16791ffb"
+  },
+  "title": "Practice Set #1",
+  "category": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "exam": [
+    {
+      "$oid": "68dce193165ab27c7751617e"
+    },
+    {
+      "$oid": "68dcd5ee165ab27c77516175"
+    },
+    {
+      "$oid": "68dd0899165ab27c7751618a"
+    },
+    {
+      "$oid": "68dd06d8165ab27c77516186"
+    }
+  ],
+  "studentType": "student",
+  "description": "<p>This <strong>Practice Set</strong> by <strong>Ekkademy</strong> is designed to help you strengthen your skills through targeted exercises. It includes a variety of questions and tasks modeled after real exam formats, allowing you to test your knowledge, improve accuracy, and build confidence. Use this set on <strong>Ekkademy</strong> to track your progress, identify areas for improvement, and prepare effectively for full-length exams.</p>",
+  "shortDescription": "This Practice Set by Ekkademy is designed to help you strengthen your skills through targeted exercises.",
+  "generalInstruction": "<ul><li>This <strong>Practice Set by Ekkademy</strong> includes exams from all four categories — <strong>Listening, Reading, Writing, and Speaking</strong>.</li><li>Read each question carefully and follow the given instructions.</li><li>Manage your time wisely across all sections.</li><li>For <strong>Listening</strong>, pay close attention to the audio and write clear, accurate answers.</li><li>In <strong>Reading</strong>, base your answers only on the information provided in the passages.</li><li>During <strong>Writing</strong>, organize your ideas before you start and check grammar and spelling after finishing.</li><li>For <strong>Speaking</strong>, express your thoughts clearly and confidently — focus on fluency, pronunciation, and coherence.</li><li>Avoid using external resources such as dictionaries, phones, or notes.</li><li>Review your answers before submitting each section.</li><li>Stay calm, focused, and treat this practice as a real exam to get the best results.</li></ul>",
+  "pricing": {
+    "type": "free"
+  },
+  "cover": {
+    "$oid": "68862d9aeeee0dc97dbbd433"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "accessDuration": 2592000,
+  "setType": "practice",
+  "url": "practice-set-1",
+  "active": true,
+  "setDuration": 0,
+  "createdAt": {
+    "$date": "2025-10-05T05:26:02.193Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T05:26:05.016Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e3508ab6b1bae4853a51c4"
+  },
+  "title": "Practice set #2 for testing marker type",
+  "category": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "exam": [
+    {
+      "$oid": "68e35057aa9aa9b162b2cc0d"
+    }
+  ],
+  "studentType": "student",
+  "description": "",
+  "shortDescription": "testing marker type",
+  "generalInstruction": "<p>&nbsp;testing marker type</p>",
+  "pricing": {
+    "type": "free"
+  },
+  "cover": {
+    "$oid": "68e00cf58c9f43ad1676c759"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "accessDuration": 2592000,
+  "setType": "practice",
+  "url": "practice-set-2-for-testing-marker-type",
+  "active": false,
+  "setDuration": 0,
+  "createdAt": {
+    "$date": "2025-10-06T05:15:54.275Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-06T10:48:10.241Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f87605faa689434d6521b3"
+  },
+  "title": "test exam set for testing offer price",
+  "category": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "exam": [
+    {
+      "$oid": "68dd084c165ab27c77516189"
+    }
+  ],
+  "studentType": "student",
+  "description": "",
+  "shortDescription": "test",
+  "generalInstruction": "<p>test</p>",
+  "pricing": {
+    "type": "paid",
+    "offerPrice": 9,
+    "price": 213
+  },
+  "cover": {
+    "$oid": "68f721c47b64cf56349f9ba7"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "accessDuration": 86400,
+  "setType": "partial",
+  "url": "test-exam-set-for-testing-offer-price",
+  "active": false,
+  "setDuration": 1800,
+  "createdAt": {
+    "$date": "2025-10-22T06:13:25.483Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-22T06:14:25.370Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "690705db73576b8c72f6437e"
+  },
+  "title": "test exam set to test duration",
+  "category": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "exam": [
+    {
+      "$oid": "68dd065d165ab27c77516184"
+    },
+    {
+      "$oid": "68dce14f165ab27c7751617c"
+    },
+    {
+      "$oid": "68dcd50f165ab27c77516173"
+    },
+    {
+      "$oid": "68dd082f165ab27c77516188"
+    }
+  ],
+  "studentType": "student",
+  "description": "<p>Let me know which validation library you're using (e.g., Zod, Joi, Yup, etc.), and I can give you a precise fix!</p>",
+  "shortDescription": "Let me know which validation library you're using (e.g., Zod, Joi, Yup, etc.), and I can give you a precise fix! Ok!",
+  "generalInstruction": "<p>Let me know which validation library you're using (e.g., Zod, Joi, Yup, etc.), and I can give you a precise fix!</p>",
+  "pricing": {
+    "type": "paid",
+    "offerPrice": 999,
+    "price": 1999
+  },
+  "cover": {
+    "$oid": "6906fe3d73576b8c72f63509"
+  },
+  "banner": {
+    "$oid": "6906fe3d73576b8c72f63509"
+  },
+  "accessDuration": 2592000,
+  "setType": "full length",
+  "url": "test-exam-set-to-test-duration",
+  "active": true,
+  "setDuration": 10800,
+  "createdAt": {
+    "$date": "2025-11-02T07:18:51.744Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-02T08:38:08.063Z"
+  },
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2025-11-04T12:10:03.674Z"
+  }
+}]

@@ -1,0 +1,2600 @@
+[{
+  "_id": {
+    "$oid": "68dfc8368c9f43ad16763520"
+  },
+  "title": "Introduction (EEFP)",
+  "shortDescription": "Start building confident, everyday English for school, home, and community life. In this short kickoff, you’ll learn simple phrases for parent–teacher talks, WhatsApp/notice replies, and daily routines—plus quick pronunciation tips and a mini practice task to use with your child today.",
+  "summary": "<p>This kickoff lesson orients parents to the course goals and shows how to use simple, practical English in daily family and school situations. Learners review key phrases for greetings, scheduling, parent–teacher messages, and WhatsApp/notice replies; practice clear pronunciation of names, dates, and numbers; and learn polite question forms (“Could you…?”, “Would you mind…?”). A short role-play and a mini writing task (a message to a teacher) build confidence. By the end, parents can introduce themselves, confirm times, ask for help or clarification, and support their child’s routines using clear, polite English. A quick self-check list and take-home practice card help them apply the language immediately.</p><p><br></p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "free"
+  },
+  "topics": [
+    "Why using English at home benefits both parents and children.",
+    "How to overcome fear of speaking imperfect English.",
+    "The power of small, consistent daily practice.",
+    "How this course will help you step-by-step.",
+    "The importance of starting, not being perfect."
+  ],
+  "faq": [
+    {
+      "title": "Do I need to know English to start this course?",
+      "answer": "<p>No, this course is made for absolute beginners.</p>"
+    },
+    {
+      "title": "Is it okay if I make mistakes?",
+      "answer": "<p>Absolutely. Making mistakes is part of learning.</p>"
+    }
+  ],
+  "url": "introduction-eefp",
+  "section": [
+    {
+      "title": "Video 1: Introduction and Motivation",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68a166e7b06726864d07b732"
+      },
+      "promptExam": [],
+      "freePreview": {
+        "available": true,
+        "previewStart": 101,
+        "previewEnd": 120
+      },
+      "_id": {
+        "$oid": "68dfc8368c9f43ad1676351f"
+      }
+    }
+  ],
+  "difficultyLevel": "intermediate",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-03T12:57:26.870Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-03T12:57:32.770Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68dfdee28c9f43ad1676508c"
+  },
+  "title": "Introduction (IRQS)",
+  "shortDescription": "This is a short description for the introduction section of IELTS Reading Quick Strategies course.",
+  "summary": "<p>This is the summary part for the introduction section of IELTS Reading Quick Strategies course.&nbsp;</p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "free"
+  },
+  "topics": [],
+  "faq": [],
+  "url": "introduction-irqs",
+  "section": [
+    {
+      "title": "What is IELTS",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "6890417867ec42775f28cba0"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68dfdee28c9f43ad1676508a"
+      }
+    },
+    {
+      "title": "Introduction to IELTS General Training",
+      "displayOrder": 1,
+      "type": "video",
+      "media": {
+        "$oid": "6857bb86d22d5d2470f00638"
+      },
+      "_id": {
+        "$oid": "68dfdee28c9f43ad1676508b"
+      }
+    }
+  ],
+  "difficultyLevel": "beginner",
+  "category": [
+    {
+      "$oid": "683d5084f4a9bf6b14989156"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-03T14:34:10.013Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-03T14:34:11.973Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68dff59c8c9f43ad16767487"
+  },
+  "title": "Reading Strategies (IRQS)",
+  "shortDescription": "This is a short description for a lesson associated with a course named 'IELTS Reading Quick Strategies'",
+  "summary": "<p>This is a summary for a lesson associated with a course named 'IELTS Reading Quick Strategies'</p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "paid",
+    "price": 125,
+    "offerPrice": 120
+  },
+  "topics": [
+    "Skimming",
+    "Scanning"
+  ],
+  "faq": [],
+  "url": "reading-strategies-irqs",
+  "section": [
+    {
+      "title": "Important Tips and Tricks",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68dff3768c9f43ad16766941"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68edf2f7255094fdbca52746"
+      }
+    },
+    {
+      "title": "Reading Exam",
+      "displayOrder": 1,
+      "type": "exam",
+      "exam": {
+        "$oid": "68e220988c9f43ad16794ccb"
+      },
+      "_id": {
+        "$oid": "68edf2f7255094fdbca52747"
+      }
+    }
+  ],
+  "difficultyLevel": "beginner",
+  "category": [
+    {
+      "$oid": "683d5084f4a9bf6b14989156"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-03T16:11:08.295Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-14T06:51:35.442Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68dffaa58c9f43ad167694d5"
+  },
+  "title": "Common Writing Mistakes (IWCM)",
+  "shortDescription": "This is a short description for a lesson associated with the course 'IELTS Writing Common Mistakes'",
+  "summary": "<p>This is the summary section for a lesson associated with the course 'IELTS Writing Common Mistakes'</p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [],
+  "url": "common-writing-mistakes",
+  "section": [
+    {
+      "title": "Task 1 Common Mistakes",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68dff75b8c9f43ad167676a5"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68e0014c8c9f43ad16769cef"
+      }
+    },
+    {
+      "title": "Task 2 Common Mistakes",
+      "displayOrder": 1,
+      "type": "video",
+      "media": {
+        "$oid": "68dff75d8c9f43ad167676ab"
+      },
+      "_id": {
+        "$oid": "68e0014c8c9f43ad16769cf0"
+      }
+    }
+  ],
+  "difficultyLevel": "advanced",
+  "category": [
+    {
+      "$oid": "66c577ea7b59fe8218f645c8"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-03T16:32:37.229Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-03T17:01:00.456Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68dffaed8c9f43ad1676952b"
+  },
+  "title": "Common Mistakes - Part: 2",
+  "shortDescription": "This is a short description for a lesson associated with the course 'IELTS Writing Common Mistakes'",
+  "summary": "<p><span style=\"color: rgb(17, 24, 28);\">This is the summary section for a lesson associated with the course 'IELTS Writing Common Mistakes'</span></p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [],
+  "url": "common-mistakes---part-2",
+  "section": [
+    {
+      "title": "Task 2 Common Mistakes",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68dff75d8c9f43ad167676ab"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68dffaed8c9f43ad1676952a"
+      }
+    }
+  ],
+  "difficultyLevel": "advanced",
+  "category": [
+    {
+      "$oid": "66c577ea7b59fe8218f645c8"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-03T16:33:49.793Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-03T16:33:52.207Z"
+  },
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2025-10-03T16:54:36.577Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e000968c9f43ad16769c14"
+  },
+  "title": "Important IELTS Vocabularies (IWCM)",
+  "shortDescription": "This is a short description for a lesson that is associated with the course 'IELTS Writing Common Mistakes & Solutions'",
+  "summary": "<p>This is the summary section for a lesson that is associated with the course 'IELTS Writing Common Mistakes &amp; Solutions'</p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [],
+  "url": "important-ielts-vocabularies",
+  "section": [
+    {
+      "title": "10 Important Vocabs",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68903e2667ec42775f28ba5b"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68e001548c9f43ad16769cfc"
+      }
+    }
+  ],
+  "difficultyLevel": "advanced",
+  "category": [
+    {
+      "$oid": "66c577ea7b59fe8218f645c8"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-03T16:57:58.331Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-03T17:01:08.773Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e007ee8c9f43ad1676c125"
+  },
+  "title": "Speaking Daily Practice (ISDP)",
+  "shortDescription": "This is a short description for a lesson associated with the course 'IELTS Speaking Daily Practice'",
+  "summary": "<p>This is the summary section for a lesson associated with the course 'IELTS Speaking Daily Practice'</p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [],
+  "url": "speaking-daily-practice-isdp",
+  "section": [
+    {
+      "title": "Boost Your Fluency, Vocabulary & Confidence!",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68e003ff8c9f43ad1676a03d"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68e007ee8c9f43ad1676c124"
+      }
+    }
+  ],
+  "difficultyLevel": "beginner",
+  "category": [
+    {
+      "$oid": "66e2a16fc3b390df7ba4950b"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-03T17:29:18.135Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-03T17:29:20.344Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e00b3d8c9f43ad1676c53b"
+  },
+  "title": "Foundation Techniques (ILFT)",
+  "shortDescription": "This is a short description for a lesson associated with the course 'IELTS Listening Foundation Techniques'",
+  "summary": "<p>This is the summary section for a lesson associated with the course 'IELTS Listening Foundation Techniques'</p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "paid",
+    "price": 50,
+    "offerPrice": 20
+  },
+  "topics": [],
+  "faq": [],
+  "url": "foundation-techniques-ilft",
+  "section": [
+    {
+      "title": "Focus is the main key!",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68e004008c9f43ad1676a045"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68e00b3d8c9f43ad1676c53a"
+      }
+    }
+  ],
+  "difficultyLevel": "intermediate",
+  "category": [
+    {
+      "$oid": "66c577ec7b59fe8218f645ce"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-03T17:43:25.361Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-03T17:43:27.193Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e1f5848c9f43ad167911b1"
+  },
+  "title": "Greeting & Routine Talk (EEFP)",
+  "shortDescription": "Learn to use English for morning routines and daily greetings with your child.",
+  "summary": "<p>This lesson helps parents use clear, polite English for everyday interactions at school and home. You’ll practice friendly greetings, small talk, and quick check-ins (hello, introducing yourself, confirming your child’s name/class). We cover routine topics—drop-off/pick-up times, homework reminders, absence/late notes, and arranging a short meeting—with simple model sentences and polite question forms (“Could we…?”, “Would it be okay if…?”). A pronunciation mini focuses on names, dates, and times. You’ll role-play a parent–teacher chat, send a short WhatsApp-style message, and complete a mini checklist to personalize phrases for your child’s routine. By the end, you can start and end conversations naturally, ask for clarification, and confirm next steps with confidence.</p><p><br></p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "free"
+  },
+  "topics": [
+    "Simple morning greetings and phrases.",
+    "English commands used during school preparation.",
+    "How to say common instructions naturally.",
+    "How repetition improves fluency.",
+    "Building habit through consistent morning use."
+  ],
+  "faq": [
+    {
+      "title": "Can I use these phrases with toddlers?",
+      "answer": "<p>Yes, the phrases are simple and suitable for all ages.</p>"
+    },
+    {
+      "title": "What if my child replies in Bangla?",
+      "answer": "<p>That’s okay. Keep speaking English, they’ll pick it up gradually.</p>"
+    }
+  ],
+  "url": "greeting-routine-talk-eefp",
+  "section": [
+    {
+      "title": "Some Common Greetings and Routine Words",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68aeb80dcb339d2e8ccf716c"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68e1f5848c9f43ad167911b0"
+      }
+    }
+  ],
+  "difficultyLevel": "beginner",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-05T04:35:16.965Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T04:35:21.395Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e206ee8c9f43ad16792756"
+  },
+  "title": "Meals & Kitchen Talk (EEFP)",
+  "shortDescription": "Use meal times as a natural opportunity to speak English at home.",
+  "summary": "<p>In this lesson, you'll learn how to turn everyday mealtimes into fun and natural opportunities to speak English at home. We’ll cover useful phrases for breakfast, lunch, and dinner, how to encourage healthy eating in English, and simple ways to ask about food preferences.</p><p><br></p><p>You’ll discover how to build daily routines using repeated phrases like “Time to eat!” or “Do you want more?” and how to include English in cooking and meal prep. Even if extended family is present, you can still use 1–2 simple English sentences each day to make steady progress.</p><p><br></p><p>By the end, you’ll know how to make the kitchen a language-rich space where your child can learn and practice English every day.</p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "free"
+  },
+  "topics": [
+    "Useful phrases for breakfast, lunch, and dinner.",
+    "Encouraging your child to eat healthy using English.",
+    "Asking meal preferences in English.",
+    "Building routine through repeated phrases.",
+    "Making English part of everyday kitchen conversations.",
+    "How to practice during meal prep and dining."
+  ],
+  "faq": [
+    {
+      "title": "Can I use English if we eat with extended family?",
+      "answer": "<p>Yes, you can start with simple phrases regardless of who is present.</p>"
+    },
+    {
+      "title": "Do I need to translate everything?",
+      "answer": "<p>No, just try using 1–2 new English sentences each day.</p>"
+    }
+  ],
+  "url": "meals-kitchen-talk",
+  "section": [
+    {
+      "title": "Meals & Kitchen Talk - Practical English for Home & School",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68aed103cb339d2e8ccf9d38"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68e206fb8c9f43ad16792773"
+      }
+    }
+  ],
+  "difficultyLevel": "beginner",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-05T05:49:34.022Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T05:49:47.937Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e208a98c9f43ad16792b94"
+  },
+  "title": "Study Time Support (EEFP)",
+  "shortDescription": "Support your child’s education by speaking encouraging phrases in English.",
+  "summary": "<p>Help your child study with clear, simple English. This lesson covers phrases for starting study time, setting goals, and giving step-by-step instructions. </p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "free"
+  },
+  "topics": [
+    "Sentences for homework and study motivation.",
+    "Expressing encouragement in English.",
+    "Correcting gently using positive language.",
+    "Turning study time into a bonding moment.",
+    "Boosting your child’s self-esteem through language.",
+    "Using calm tone and clarity."
+  ],
+  "faq": [
+    {
+      "title": "How can I help if I don’t understand the homework?",
+      "answer": "<p>Just use the supportive phrases. It shows emotional support, not just academic help.</p>"
+    },
+    {
+      "title": "Is it okay to mix Bangla and English?",
+      "answer": "<p>Yes. Use English where you can, and gradually increase it.</p>"
+    }
+  ],
+  "url": "study-time-support-eefp",
+  "section": [
+    {
+      "title": "Simple English to Guide Study Time",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68aed1fccb339d2e8ccfa087"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68e208a98c9f43ad16792b93"
+      }
+    }
+  ],
+  "difficultyLevel": "beginner",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-05T05:56:57.878Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T05:56:59.832Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e20a0c8c9f43ad16792e5a"
+  },
+  "title": "Emotions & Encouragement (EEFP)",
+  "shortDescription": "Learn to express love, pride, and care for your child using comforting English phrases.",
+  "summary": "<p>This lesson focuses on using English to express love, care, and emotional support for your child. You'll learn comforting phrases that show encouragement, pride, and belief, as well as gentle ways to respond to your child’s feelings like sadness, anger, or stress.</p><p>By modeling calm, respectful communication, you help your child build emotional intelligence and feel safe. Even if they don’t fully understand at first, repeated kind words in English will create strong emotional and language connections over time.</p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [
+    {
+      "$oid": "68ea25608263f07e7b21bbc2"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "topics": [
+    "Phrases to comfort and support your child emotionally.",
+    "How to show pride and belief in your child.",
+    "Managing sadness, anger, or stress with kind words.",
+    "Teaching emotional intelligence through language.",
+    "Role modeling calm, respectful communication.",
+    "Creating a safe space through words."
+  ],
+  "faq": [
+    {
+      "title": "What if my child doesn’t understand emotional phrases in English?",
+      "answer": "<p>Keep using them gently over time, they’ll understand and respond.</p>"
+    },
+    {
+      "title": "Why use English for emotions?",
+      "answer": "<p>It helps children connect emotion with language, supporting bilingual growth.</p>"
+    }
+  ],
+  "url": "emotions-encouragement-eefp",
+  "section": [
+    {
+      "title": "Calm Words, Strong Kids: Talking About Feelings",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68aec13acb339d2e8ccf82dd"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68ea25ae8263f07e7b21bc23"
+      }
+    }
+  ],
+  "difficultyLevel": "beginner",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-05T06:02:52.872Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-11T09:38:54.345Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e20e988c9f43ad16793444"
+  },
+  "title": "Family Time Conversations (EEFP)",
+  "shortDescription": "Turn family moments into chances to talk and bond in English.",
+  "summary": "<p>In this lesson, you’ll learn how to use everyday family moments to build English skills and stronger connections. Discover simple phrases to talk about your child’s day, discuss school, and enjoy fun conversations together.</p><p><br></p><p>We’ll show you how to create meaningful exchanges in easy English, improve listening and speaking habits, and make language learning a shared family experience, one small step at a time.</p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "free"
+  },
+  "topics": [
+    "English phrases for family discussions and fun.",
+    "Asking your child about their day in English.",
+    "Talking about school experiences.",
+    "Creating meaningful conversations in simple English.",
+    "Improving listening and speaking habits.",
+    "Strengthening family bonds through language."
+  ],
+  "faq": [
+    {
+      "title": "How often should I speak English during family time?",
+      "answer": "<p>Start small, once a day is enough. Consistency matters more than quantity.</p>"
+    },
+    {
+      "title": "What if my partner doesn’t speak English?",
+      "answer": "<p>You can still use these phrases with your child. Every bit helps.</p>"
+    }
+  ],
+  "url": "family-time-conversations-eefp",
+  "section": [
+    {
+      "title": "Simple English for Smooth Family Routines",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68aecf75cb339d2e8ccf963c"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68e20e988c9f43ad16793443"
+      }
+    }
+  ],
+  "difficultyLevel": "beginner",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-05T06:22:16.303Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T06:22:18.328Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e20fec8c9f43ad167935de"
+  },
+  "title": "Giving Instructions Politely (EEFP)",
+  "shortDescription": "Learn to give respectful and polite instructions using English.",
+  "summary": "<p>Guide children clearly without sounding strict. This lesson teaches simple, polite instruction frames—“Please + action,” “Let’s + action,” “Could you…?”—and when to use each. You’ll practice. step-by-step directions for common routines (getting ready, homework, chores)</p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "free"
+  },
+  "topics": [
+    "Phrases to guide children with kindness.",
+    "Using “please,” “could you,” and polite requests.",
+    "Encouraging respectful behavior through example.",
+    "Teaching discipline without shouting.",
+    "Making requests instead of demands.",
+    "Creating a positive home environment."
+  ],
+  "faq": [
+    {
+      "title": "Is it okay to repeat the same phrase every day?",
+      "answer": "<p>Yes! Repetition helps you and your child internalize language.</p>"
+    },
+    {
+      "title": "How can I make politeness a habit?",
+      "answer": "<p>Use polite English consistently, your child will follow your lead.</p>"
+    }
+  ],
+  "url": "giving-instructions-politely-eefp",
+  "section": [
+    {
+      "title": "Polite Instructions at Home",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68aed057cb339d2e8ccf9a03"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68e20fec8c9f43ad167935dd"
+      }
+    }
+  ],
+  "difficultyLevel": "beginner",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-05T06:27:56.359Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T06:27:58.521Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e210ec8c9f43ad16793719"
+  },
+  "title": "Discipline with Love (EEFP)",
+  "shortDescription": "Handle your child’s mistakes gently and teach better behavior using English.",
+  "summary": "<p>You’ll practice short, steady scripts for common situations (sibling conflict, screen-time limits, bedtime delays), and learn emotion-regulation language for parents (“I’m taking a breath; then we’ll talk”) to model self-control.</p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [
+    {
+      "$oid": "68eb6f031a506818baca5cf5"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "topics": [
+    "English phrases for correcting gently.",
+    "Teaching values and rules with compassion.",
+    "Expressing disapproval without harshness.",
+    "Encouraging better choices.",
+    "Communicating respect even when guiding."
+  ],
+  "faq": [
+    {
+      "title": "Can discipline still be effective in English if I’m unsure of my words?",
+      "answer": "<p>Yes. Your calm tone and intention matter more than perfect grammar.</p>"
+    },
+    {
+      "title": "Should I correct behavior immediately?",
+      "answer": "<p>Yes, gently and clearly, using phrases from this lesson.</p>"
+    }
+  ],
+  "url": "discipline-with-love-eefp",
+  "section": [
+    {
+      "title": "Firm & Kind: Setting Rules",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68aec085cb339d2e8ccf7f82"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68eb6fa71a506818baca5dbd"
+      }
+    }
+  ],
+  "difficultyLevel": "beginner",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-05T06:32:12.064Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-12T09:06:47.335Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e211cd8c9f43ad16793829"
+  },
+  "title": "Talking to Others About Family (EEFP)",
+  "shortDescription": "Learn to speak confidently about your family in English with friends or relatives.",
+  "summary": "<p>This lesson helps you speak confidently about your family in English during casual chats with friends, relatives, or teachers. You'll learn simple sentences to describe your children, home, routines, and what your family enjoys.</p><p><br></p><p>With practice tips like speaking in front of a mirror, you’ll feel more prepared for everyday conversations and proud to share about your loved ones in English.</p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "free"
+  },
+  "topics": [
+    "Basic English sentences about your family.",
+    "Talking about your children’s age, school, and habits.",
+    "Saying where you live or what your family enjoys.",
+    "Speaking with pride and confidence.",
+    "Practicing these sentences in front of a mirror.",
+    "Preparing for casual conversations in social settings."
+  ],
+  "faq": [
+    {
+      "title": "Is it okay to memorize sentences?",
+      "answer": "<p>Yes! Memorization is helpful at the beginning of your learning journey.</p>"
+    },
+    {
+      "title": "Can I use these in parent-teacher meetings?",
+      "answer": "<p>Yes. These phrases will help you express key details confidently.</p>"
+    }
+  ],
+  "url": "talking-to-others-about-family-eefp",
+  "section": [
+    {
+      "title": "Family Introductions & Updates",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68aed221cb339d2e8ccfa0fe"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68e211cd8c9f43ad16793828"
+      }
+    }
+  ],
+  "difficultyLevel": "beginner",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-05T06:35:57.934Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T06:35:59.950Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e2144d8c9f43ad16793b2b"
+  },
+  "title": "Review & Practice Tips (EEFP)",
+  "shortDescription": "Wrap up your learning journey and discover daily tips to keep improving your English.",
+  "summary": "<p>Wrap up your learning with a simple plan you can actually follow at home. This lesson reviews the most useful phrases from the course (greetings, routine requests, polite instructions, emotions &amp; encouragement) and shows you how to keep practicing in 5–10 minutes a day.</p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "free"
+  },
+  "topics": [
+    "A recap of the key phrases from all lessons.",
+    "How to practice English in just 5 minutes a day.",
+    "Use of flashcards and visual reminders.",
+    "Watching cartoons or videos with your child in English.",
+    "Playing English word games at home.",
+    "Staying motivated and consistent."
+  ],
+  "faq": [
+    {
+      "title": "What should I do after finishing this course?",
+      "answer": "<p>Keep practicing daily. You’ll also be invited to an advanced course with more tools.</p>"
+    },
+    {
+      "title": "Will my English really improve in 1 month?",
+      "answer": "<p>Yes, if you speak a little every day. Small steps = big change.</p>"
+    }
+  ],
+  "url": "review-practice-tips",
+  "section": [
+    {
+      "title": "10-Minute Daily English Plan",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68aec023cb339d2e8ccf7db4"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68e214d18c9f43ad16793bc8"
+      }
+    }
+  ],
+  "difficultyLevel": "beginner",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-05T06:46:37.410Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T06:48:49.711Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e24a9f78315e8514893bde"
+  },
+  "title": "Lesson With Assignment Test #1",
+  "shortDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "summary": "<p class=\"ql-align-justify\"><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [
+    {
+      "$oid": "68e25d4f32da8132ab43866b"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [],
+  "url": "lesson-with-assignment-test-1",
+  "section": [
+    {
+      "title": "Lecture #1",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68e004008c9f43ad1676a045"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68e24a9f78315e8514893bdd"
+      }
+    }
+  ],
+  "difficultyLevel": "beginner",
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-05T10:38:23.014Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T10:38:25.780Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e622f1fb0179761e15881d"
+  },
+  "title": "test lesson",
+  "shortDescription": "test short description",
+  "summary": "<p>test</p>",
+  "difficultyLevel": "beginner",
+  "assignment": [],
+  "category": [
+    {
+      "$oid": "66c577e97b59fe8218f645c5"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [
+    "test"
+  ],
+  "faq": [],
+  "url": "test-lesson",
+  "section": [
+    {
+      "title": "test title",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68e004008c9f43ad1676a045"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68e622f1fb0179761e15881c"
+      }
+    }
+  ],
+  "teacher": [
+    {
+      "$oid": "67cd1839f3019dccb5e9a642"
+    }
+  ],
+  "active": false,
+  "createdAt": {
+    "$date": "2025-10-08T08:38:09.014Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-08T08:38:09.014Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e75373bf94189d0338379a"
+  },
+  "title": "Lesson for testing lesson section - Video, Audio and exam",
+  "shortDescription": "Lesson for testing lesson section - Video, Audio and exam",
+  "summary": "<p>Lesson for testing lesson section - Video, Audio and exam</p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [
+    {
+      "$oid": "68e74ab1a7d835e42664a6dc"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "topics": [],
+  "faq": [],
+  "url": "lesson-for-testing-lesson-section---video-audio-and-exam",
+  "section": [
+    {
+      "title": "Test Video",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68dff75b8c9f43ad167676a5"
+      },
+      "promptExam": [
+        {
+          "exam": {
+            "$oid": "68e752fcc86060314b47836a"
+          },
+          "promptTime": 186,
+          "seekBackTime": 130
+        }
+      ],
+      "_id": {
+        "$oid": "68e75691bf94189d03383bb8"
+      }
+    },
+    {
+      "title": "Test Audio",
+      "displayOrder": 1,
+      "type": "audio",
+      "media": {
+        "$oid": "68da53648e8d63ef9e260a54"
+      },
+      "_id": {
+        "$oid": "68e75691bf94189d03383bb9"
+      }
+    },
+    {
+      "title": "Test Exam",
+      "displayOrder": 2,
+      "type": "exam",
+      "exam": {
+        "$oid": "68e220988c9f43ad16794ccb"
+      },
+      "_id": {
+        "$oid": "68e75691bf94189d03383bba"
+      }
+    }
+  ],
+  "difficultyLevel": "beginner",
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-09T06:17:23.861Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-09T06:30:41.350Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e75511bf94189d03383995"
+  },
+  "title": "Lesson for testing lesson section - Text, image and reading material",
+  "shortDescription": "Test description",
+  "summary": "<p>Test summary</p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [
+    {
+      "$oid": "68e25d4f32da8132ab43866b"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "topics": [],
+  "faq": [],
+  "url": "lesson-for-testing-lesson-section---text-image-and-reading-material",
+  "section": [
+    {
+      "title": "Test Text",
+      "displayOrder": 0,
+      "type": "text",
+      "text": "<h3><strong>Dhaka Cityscape</strong></h3><p>Except Old Dhaka, which is an old bazaar-style neighbourhood, the layout of the city follows a grid pattern with organic development influenced by traditional South Asian as well as Middle Eastern and Western patterns. Growth of the city is largely unplanned and is focused on the northern regions and around the city centre, where many of the more affluent neighbourhoods may be found. Most of the construction in the city consists of concrete high-rise buildings. Middle-class and upper-class housing, along with commercial and industrial areas, occupy most of the city. However, nearly one third of Dhaka's population lives in slums, as of 2016.</p><p><br></p><p>Dhaka does not have a well-defined central business district. Old Dhaka is the historic commercial centre, but most development has moved to the north. In 1985, the area around Motijheel was considered the \"modern\" CBD, while by 2005 Gulshan was considered the \"newest\" part of the CBD. Many Bangladeshi government institutions can be found in Motijheel, Segunbagicha, Tejgaon, Karwan Bazar, and Sher-e-Bangla Nagar.</p><p><br></p><p>Much activity is centred around a few large roads, where road laws are rarely obeyed and street vendors and beggars are frequently encountered.</p><p><br></p><p>For much of recent history, Dhaka was characterized by roadside markets and small shops that sold a wide variety of goods. Recent years have seen the widespread construction of shopping malls. Two of the largest shopping malls in the city and the wider South Asian region are the Jamuna Future Park and Bashundhara City.</p>",
+      "promptExam": [],
+      "_id": {
+        "$oid": "68e75511bf94189d03383992"
+      }
+    },
+    {
+      "title": "Test Image",
+      "displayOrder": 1,
+      "type": "image",
+      "media": {
+        "$oid": "6888b172d77f48c9346857b2"
+      },
+      "_id": {
+        "$oid": "68e75511bf94189d03383993"
+      }
+    },
+    {
+      "title": "Test reading material",
+      "displayOrder": 2,
+      "type": "readingMaterial",
+      "media": {
+        "$oid": "68e75509bf94189d03383983"
+      },
+      "_id": {
+        "$oid": "68e75511bf94189d03383994"
+      }
+    }
+  ],
+  "difficultyLevel": "intermediate",
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-09T06:24:17.338Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-09T06:24:20.725Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68eb3712823868c54e9aacb3"
+  },
+  "title": "Lesson For Testing Assignment Submissions",
+  "shortDescription": "Test SD",
+  "summary": "<p>Test Summary \t</p>",
+  "difficultyLevel": "beginner",
+  "assignment": [
+    {
+      "$oid": "68e74ab1a7d835e42664a6dc"
+    },
+    {
+      "$oid": "68ea25608263f07e7b21bbc2"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "66e2a16fc3b390df7ba4950b"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "topics": [],
+  "faq": [],
+  "url": "lesson-for-testing-assignment-submissions",
+  "section": [
+    {
+      "title": "Test Video",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68e004008c9f43ad1676a045"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68eb3712823868c54e9aacb2"
+      }
+    }
+  ],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-12T05:05:22.004Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-12T05:05:34.260Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f5bfa582c0b33b3d42dd60"
+  },
+  "title": "Introducing Yourself and Your Family",
+  "shortDescription": "Learn how to speak English fluently when introducing yourself and your family at social events.",
+  "summary": "<ul><li>Self-introduction and family descriptions in English.</li><li>Polite greetings and small talk.</li><li>Asking and answering simple personal questions.</li><li>Saying goodbye politely.</li></ul>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [
+    {
+      "$oid": "68f752017b64cf56349fde6e"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [
+    {
+      "title": "Can I use these sentences in real life?",
+      "answer": "<p>Yes, they’re designed for everyday introductions.</p>"
+    },
+    {
+      "title": "Is grammar important here?",
+      "answer": "<p>No, focus on clear, natural communication.</p>"
+    }
+  ],
+  "url": "introducing-yourself-and-your-family",
+  "section": [
+    {
+      "title": "Speaking About Family: A Beginner’s Guide",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68f5b52bdb6ecadedc54e767"
+      },
+      "promptExam": [
+        {
+          "exam": {
+            "$oid": "68f5d78495fc82365e4cda99"
+          },
+          "promptTime": 340,
+          "seekBackTime": 310
+        },
+        {
+          "exam": {
+            "$oid": "68f5fb812cf61d29b45fa7b2"
+          },
+          "promptTime": 492,
+          "seekBackTime": 462
+        }
+      ],
+      "_id": {
+        "$oid": "690afcb5bfccf2bf5cc43f1d"
+      }
+    },
+    {
+      "title": "Lesson 1 Handout",
+      "displayOrder": 1,
+      "type": "readingMaterial",
+      "media": {
+        "$oid": "68f751a47b64cf56349fddf1"
+      },
+      "_id": {
+        "$oid": "690afcb5bfccf2bf5cc43f1e"
+      }
+    }
+  ],
+  "difficultyLevel": "intermediate",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-20T04:50:45.508Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-05T07:28:53.295Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f5c04482c0b33b3d42de22"
+  },
+  "title": "At the Doctor’s Office",
+  "shortDescription": "Learn how to ask questions, explain problems, and comprehend medical advice in English.",
+  "summary": "<ul><li>Explaining health problems and symptoms.</li><li>Understanding doctor’s questions and instructions.</li><li>Asking for medicine or follow-up visits.</li><li>Expressing concern and care for your child.</li></ul>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [
+    {
+      "$oid": "68f758527b64cf56349fe722"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [
+    {
+      "title": "What if I forget a word?",
+      "answer": "<p>Use gestures and simple words because communication matters most.</p>"
+    },
+    {
+      "title": "Can my child learn too?",
+      "answer": "<p>Yes! Practice doctor-patient role-play together.</p>"
+    }
+  ],
+  "url": "at-the-doctor’s-office",
+  "section": [
+    {
+      "title": "Speaking English at the Clinic or Doctor’s Office",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68f4b7199170edb4bdabb1e0"
+      },
+      "promptExam": [
+        {
+          "exam": {
+            "$oid": "68f5ea7a2cf61d29b45f9227"
+          },
+          "promptTime": 276,
+          "seekBackTime": 0
+        },
+        {
+          "exam": {
+            "$oid": "68f5fc852cf61d29b45fa8ec"
+          },
+          "promptTime": 343,
+          "seekBackTime": 0
+        }
+      ],
+      "_id": {
+        "$oid": "68f75d8698156b74705ec319"
+      }
+    },
+    {
+      "title": "Lesson 2 Handout",
+      "displayOrder": 1,
+      "type": "readingMaterial",
+      "media": {
+        "$oid": "68f75d7798156b74705ec2f5"
+      },
+      "_id": {
+        "$oid": "68f75d8698156b74705ec31a"
+      }
+    }
+  ],
+  "difficultyLevel": "intermediate",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-20T04:53:24.209Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-21T10:16:38.000Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f5c0c982c0b33b3d42ded3"
+  },
+  "title": "At the Grocery Store or Bazaar",
+  "shortDescription": "Practice your English when you're in the grocery store or local market.",
+  "summary": "<ul><li>Asking for quantities and prices.</li><li>Bargaining politely in English.</li><li>Talking about fruits, vegetables, and other items.</li><li>Making payments and asking for change.</li></ul>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [
+    {
+      "$oid": "68f7664c98156b74705ecef1"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [
+    {
+      "title": "Do I need to use full sentences?",
+      "answer": "<p>No, short clear phrases are enough.</p>"
+    },
+    {
+      "title": "Is bargaining in English possible?",
+      "answer": "<p>Yes, we’ll teach you natural examples.</p>"
+    }
+  ],
+  "url": "at-the-grocery-store-or-bazaar",
+  "section": [
+    {
+      "title": "Grocery Shopping: Simple Phrases You Can Use",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68f4beab9170edb4bdabd95d"
+      },
+      "promptExam": [
+        {
+          "exam": {
+            "$oid": "68f60b500bb119e7a217017d"
+          },
+          "promptTime": 346,
+          "seekBackTime": 0
+        }
+      ],
+      "_id": {
+        "$oid": "68f7665b98156b74705ecf04"
+      }
+    },
+    {
+      "title": "Lesson 3 Handout",
+      "displayOrder": 1,
+      "type": "readingMaterial",
+      "media": {
+        "$oid": "68f7627698156b74705eca2b"
+      },
+      "_id": {
+        "$oid": "68f7665b98156b74705ecf05"
+      }
+    }
+  ],
+  "difficultyLevel": "intermediate",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-20T04:55:37.741Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-21T10:54:19.346Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f5c15a82c0b33b3d42df83"
+  },
+  "title": "School Communication",
+  "shortDescription": "Learn to speak with teachers confidently during meetings or phone calls.",
+  "summary": "<ul><li>Talking about attendance and illness.</li><li>Asking about academic progress.</li><li>Using polite and clear communication with teachers.</li><li>Making short phone calls in English.</li></ul>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [
+    {
+      "$oid": "68f89f789bea090fff6e3a38"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [
+    {
+      "title": "What if I feel nervous speaking to teachers?",
+      "answer": "<p>The dialogues will help you prepare confidently.</p>"
+    },
+    {
+      "title": "Can I use these phrases for parent meetings?",
+      "answer": "<p>Yes, that’s exactly what they’re made for.</p>"
+    }
+  ],
+  "url": "school-communication",
+  "section": [
+    {
+      "title": "Talking to Teachers and School Staff",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68f5ab97db6ecadedc549e96"
+      },
+      "promptExam": [
+        {
+          "exam": {
+            "$oid": "68f872fd98156b7470601cc9"
+          },
+          "promptTime": 261,
+          "seekBackTime": 0
+        },
+        {
+          "exam": {
+            "$oid": "68f8838dfbeacf135dbf6a0f"
+          },
+          "promptTime": 315,
+          "seekBackTime": 0
+        }
+      ],
+      "_id": {
+        "$oid": "68f8a1849bea090fff6e3ccd"
+      }
+    },
+    {
+      "title": "Lesson 4 Handout",
+      "displayOrder": 1,
+      "type": "readingMaterial",
+      "media": {
+        "$oid": "68f8a11b9bea090fff6e3c44"
+      },
+      "_id": {
+        "$oid": "68f8a1849bea090fff6e3cce"
+      }
+    }
+  ],
+  "difficultyLevel": "intermediate",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-20T04:58:02.102Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-22T09:22:50.832Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "status": null
+},
+{
+  "_id": {
+    "$oid": "68f5c1df82c0b33b3d42e03d"
+  },
+  "title": "Daily Routines",
+  "shortDescription": "Learn how to talk about your daily activities and your child’s schedule in English.",
+  "summary": "<ul><li>Describing daily routines from morning to night.</li><li>Talking about habits, time, and chores.</li><li>Giving simple commands to children in English.</li></ul>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [
+    {
+      "$oid": "68f89fdd9bea090fff6e3ab7"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [
+    {
+      "title": "Can I mix Bangla and English?",
+      "answer": "<p>Yes! Start small, then increase English gradually.</p>"
+    },
+    {
+      "title": "Do I need to memorize sentences?",
+      "answer": "<p>Repetition will make it natural.</p>"
+    }
+  ],
+  "url": "daily-routines",
+  "section": [
+    {
+      "title": "Talking About Your Daily Routine in English",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68f4c11a9170edb4bdabe7bd"
+      },
+      "promptExam": [
+        {
+          "exam": {
+            "$oid": "68f885bbfbeacf135dbf6cb0"
+          },
+          "promptTime": 420,
+          "seekBackTime": 0
+        }
+      ],
+      "_id": {
+        "$oid": "68f8c2289bea090fff6e7e9b"
+      }
+    },
+    {
+      "title": "Lesson 5 Handout",
+      "displayOrder": 1,
+      "type": "readingMaterial",
+      "media": {
+        "$oid": "68f8a11c9bea090fff6e3c45"
+      },
+      "_id": {
+        "$oid": "68f8c2289bea090fff6e7e9c"
+      }
+    }
+  ],
+  "difficultyLevel": "intermediate",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-20T05:00:15.780Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-22T11:38:16.143Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "status": null
+},
+{
+  "_id": {
+    "$oid": "68f5c26f82c0b33b3d42e0f8"
+  },
+  "title": "Using Public Transport",
+  "shortDescription": "When traveling, whether in rickshaws, buses, or on the road, speak English.",
+  "summary": "<ul><li>Asking for tickets or fares.</li><li>Asking for directions.</li><li>Talking about destinations politely.</li><li>Practicing safety and real-life travel English.</li></ul>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [
+    {
+      "$oid": "68f9bcac886123378240aafa"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [
+    {
+      "title": "Can I practice this without traveling?",
+      "answer": "<p>Yes, just act out the dialogues with your child.</p>"
+    },
+    {
+      "title": "What if I forget vocabulary?",
+      "answer": "<p>Make your own vocabulary bank as you finish each video lesson.&nbsp;</p>"
+    }
+  ],
+  "url": "using-public-transport",
+  "section": [
+    {
+      "title": "Public Transport: Simple Phrases for Daily Travel",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68f4d924237c497b95853961"
+      },
+      "promptExam": [
+        {
+          "exam": {
+            "$oid": "68f9ab099bea090fff6f996e"
+          },
+          "promptTime": 346,
+          "seekBackTime": 0
+        }
+      ],
+      "_id": {
+        "$oid": "68f9bec4886123378240ada6"
+      }
+    },
+    {
+      "title": "Lesson 6 Handout",
+      "displayOrder": 1,
+      "type": "readingMaterial",
+      "media": {
+        "$oid": "68f9bdfa886123378240aca3"
+      },
+      "_id": {
+        "$oid": "68f9bec4886123378240ada7"
+      }
+    }
+  ],
+  "difficultyLevel": "intermediate",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-20T05:02:39.328Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-23T05:40:19.694Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "status": null
+},
+{
+  "_id": {
+    "$oid": "68f5c30b82c0b33b3d42e1c9"
+  },
+  "title": "Talking on the Phone",
+  "shortDescription": "Learn to speak English confidently and politely over the phone.",
+  "summary": "<ul><li>Answering and making calls.</li><li>Speaking to teachers, doctors, and friends.</li><li>Using polite phone openings and closings.</li><li>Practicing real-life role plays.</li></ul>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [
+    {
+      "$oid": "68f9bd42886123378240abbb"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [
+    {
+      "title": "What if I don’t understand the caller?",
+      "answer": "<p>Use phrases like “Can you repeat, please?”</p>"
+    },
+    {
+      "title": "Are these phrases useful for work too?",
+      "answer": "<p>Yes, they’re helpful for all polite calls.</p>"
+    }
+  ],
+  "url": "talking-on-the-phone",
+  "section": [
+    {
+      "title": "Phone Calls: Phrases and Etiquettes",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68f5ab97db6ecadedc549e9a"
+      },
+      "promptExam": [
+        {
+          "exam": {
+            "$oid": "68f9ab7f9bea090fff6f99fb"
+          },
+          "promptTime": 436,
+          "seekBackTime": 0
+        }
+      ],
+      "_id": {
+        "$oid": "68f9c028886123378240af8e"
+      }
+    },
+    {
+      "title": "Lesson 7 Handout",
+      "displayOrder": 1,
+      "type": "readingMaterial",
+      "media": {
+        "$oid": "68f9bf09886123378240adfd"
+      },
+      "_id": {
+        "$oid": "68f9c028886123378240af8f"
+      }
+    }
+  ],
+  "difficultyLevel": "intermediate",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-20T05:05:15.805Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-23T05:42:00.982Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "status": null
+},
+{
+  "_id": {
+    "$oid": "68f5c44882c0b33b3d42e348"
+  },
+  "title": "Talking About Weather and Seasons",
+  "shortDescription": "Discuss weather and seasons naturally in English with your child.",
+  "summary": "<ul><li>Describing sunny, rainy, and cold days.</li><li>Talking about favorite seasons.</li><li>Using weather-related small talk.</li><li>Building vocabulary through observation.</li></ul>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [
+    {
+      "$oid": "68f9a27c9bea090fff6f8ea9"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [
+    {
+      "title": "Can I practice daily?",
+      "answer": "<p>Yes, talk about weather each morning with your child.</p>"
+    },
+    {
+      "title": "Why learn weather phrases?",
+      "answer": "<p>They help build natural conversation habits.</p>"
+    }
+  ],
+  "url": "talking-about-weather-and-seasons",
+  "section": [
+    {
+      "title": "Weather: Sunny, Rainy, Cold & More",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68f4d923237c497b9585395e"
+      },
+      "promptExam": [
+        {
+          "exam": {
+            "$oid": "68f9a4769bea090fff6f9113"
+          },
+          "promptTime": 318,
+          "seekBackTime": 0
+        }
+      ],
+      "_id": {
+        "$oid": "68f9cce6489f5ecd8dd4ac1c"
+      }
+    },
+    {
+      "title": "Lesson 8 Handout",
+      "displayOrder": 1,
+      "type": "readingMaterial",
+      "media": {
+        "$oid": "68f9be5f886123378240ad1e"
+      },
+      "_id": {
+        "$oid": "68f9cce6489f5ecd8dd4ac1d"
+      }
+    }
+  ],
+  "difficultyLevel": "intermediate",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-20T05:10:32.936Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-23T06:36:22.438Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f5c9f295fc82365e4cc8d3"
+  },
+  "title": "In the Kitchen or Market (Food & Cooking)",
+  "shortDescription": "Speak English naturally while cooking or shopping for food.",
+  "summary": "<ul><li>Naming vegetables, fruits, and spices in English.</li><li>Talking about recipes and cooking steps.</li><li>Asking for help and ingredients.</li><li>Using English in the kitchen and at the bazaar.</li></ul>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [
+    {
+      "$oid": "68f9a2f79bea090fff6f8f42"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [
+    {
+      "title": "What if my child doesn’t understand?",
+      "answer": "<p>Keep repeating, they’ll learn by hearing.</p>"
+    },
+    {
+      "title": "Can I teach vocabulary this way?",
+      "answer": "<p>Yes, this lesson helps both learning and bonding.</p>"
+    }
+  ],
+  "url": "in-the-kitchen-or-market-food-cooking",
+  "section": [
+    {
+      "title": "Talking About Food, Cooking, and Shopping",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68f4ce129170edb4bdac008f"
+      },
+      "promptExam": [
+        {
+          "exam": {
+            "$oid": "68f9a4de9bea090fff6f9193"
+          },
+          "promptTime": 318,
+          "seekBackTime": 0
+        }
+      ],
+      "_id": {
+        "$oid": "68f9a86a9bea090fff6f961a"
+      }
+    },
+    {
+      "title": "Lesson 9 Handout",
+      "displayOrder": 1,
+      "type": "readingMaterial",
+      "media": {
+        "$oid": "68f9a79f9bea090fff6f9518"
+      },
+      "_id": {
+        "$oid": "68f9a86a9bea090fff6f961b"
+      }
+    }
+  ],
+  "difficultyLevel": "intermediate",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-20T05:34:42.533Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-23T04:00:42.900Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f5cab495fc82365e4cc9d2"
+  },
+  "title": "Asking for Help / Emergencies",
+  "shortDescription": "Learn important English phrases for emergencies or when you need help.",
+  "summary": "<ul><li>Asking for help if someone is sick or lost.</li><li>Explaining emergencies clearly.</li><li>Requesting medicine at a pharmacy.</li><li>Staying calm and speaking clearly in urgent situations.</li></ul>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [
+    {
+      "$oid": "68f9a3b99bea090fff6f902d"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [
+    {
+      "title": "Why is this lesson important?",
+      "answer": "<p>It prepares you and your child for real-life safety.</p>"
+    },
+    {
+      "title": "Can I use these phrases abroad?",
+      "answer": "<p>Yes, they’re globally understandable.</p>"
+    }
+  ],
+  "url": "asking-for-help-emergencies",
+  "section": [
+    {
+      "title": "Ask for Help During Emergencies",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68f5aa25db6ecadedc549590"
+      },
+      "promptExam": [
+        {
+          "exam": {
+            "$oid": "68f9a6dd9bea090fff6f9423"
+          },
+          "promptTime": 279,
+          "seekBackTime": 0
+        }
+      ],
+      "_id": {
+        "$oid": "68f9a8419bea090fff6f95e8"
+      }
+    },
+    {
+      "title": "Lesson 10 Handout",
+      "displayOrder": 1,
+      "type": "readingMaterial",
+      "media": {
+        "$oid": "68f9a8219bea090fff6f95c0"
+      },
+      "_id": {
+        "$oid": "68f9a8419bea090fff6f95e9"
+      }
+    }
+  ],
+  "difficultyLevel": "intermediate",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-20T05:37:56.475Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-23T04:00:01.934Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f5cb3695fc82365e4cca83"
+  },
+  "title": "Conclusion",
+  "shortDescription": "Celebrate completing your English Communication for Parents course! Review what you’ve learned and take your final assessment test.",
+  "summary": "<ul><li>Review of all lessons and key communication skills learned.</li><li>Encouragement to keep using English every day with your family.</li><li>Tips for continuing your English learning journey (reading, practicing, listening).</li><li>Appreciation for your effort and consistency.</li></ul>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [
+    {
+      "title": "What if I’m not confident yet?",
+      "answer": "<p>Keep practicing with your child and reviewing videos—you’ll improve daily.</p>"
+    },
+    {
+      "title": "Where do I find the test?",
+      "answer": "<p>It’s available right after this final video in your course dashboard.</p>"
+    }
+  ],
+  "url": "conclusion",
+  "section": [
+    {
+      "title": "Finishing Strong: Summary and Final Tips",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68f4a0855d14407dbca6466f"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68f9f193489f5ecd8dd4e016"
+      }
+    },
+    {
+      "title": "Final Test",
+      "displayOrder": 1,
+      "type": "exam",
+      "exam": {
+        "$oid": "68f9f109489f5ecd8dd4df61"
+      },
+      "_id": {
+        "$oid": "68f9f193489f5ecd8dd4e017"
+      }
+    }
+  ],
+  "difficultyLevel": "intermediate",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-20T05:40:06.343Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-23T09:12:51.117Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f5cb9395fc82365e4ccafb"
+  },
+  "title": "Introduction",
+  "shortDescription": "Start your journey to confident English speaking! This video introduces the course, the lessons you’ll complete, and what you’ll achieve by the end.",
+  "summary": "<ul><li>Overview of the video lessons and what you’ll learn in each.</li><li>How the course will help you speak English confidently at home, school, and in the community.</li><li>Tips on how to use the lessons: watch, repeat, and practice with your child.</li><li>Encouragement to focus on communication not grammar.</li><li>Table of contents of all lessons.</li><li>Explanation of the learning method (story-based, simple English, family-focused).</li><li>Motivation from the instructor about how English can support your child’s future.</li></ul><p><br></p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [
+    {
+      "title": "Do I need to prepare anything before starting?",
+      "answer": "<p>Just bring your curiosity and willingness to practice.</p>"
+    },
+    {
+      "title": "Can I skip lessons?",
+      "answer": "<p>You can, but completing them in order helps your confidence grow naturally.</p>"
+    }
+  ],
+  "url": "introduction",
+  "section": [
+    {
+      "title": "Welcome to the Course",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68f4a0835d14407dbca6466e"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68f5cb9395fc82365e4ccafa"
+      }
+    }
+  ],
+  "difficultyLevel": "intermediate",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-20T05:41:39.433Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-20T05:44:29.099Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f5cc2595fc82365e4ccbae"
+  },
+  "title": "Facts & Techniques",
+  "shortDescription": "This lesson introduces parents to two powerful communication strategies that can transform how they interact with their children and approach English learning. Through insightful video content, parents will discover why purposeful communication matters and how to start building their English vocabulary step by step — one word at a time.",
+  "summary": "<p>Golden Circle Rule for Parent Communication</p><ul><li>Understand the “Why → How → What” framework for effective communication with children.</li><li>Learn how purpose-driven language builds trust, motivation, and better emotional connection.</li><li>Practical examples of applying the Golden Circle when giving instructions or encouragement.</li></ul><p><br></p><p>One Word, One Day – Start Your Journey</p><ul><li>Encourages parents to begin their English learning journey in small, consistent steps.</li><li>Introduces the concept of learning just one word a day to build confidence and routine.</li><li>Shows how small habits can lead to long-term language improvement — especially for busy parents.</li></ul>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [
+    {
+      "title": "Is this method easy to follow?",
+      "answer": "<p>Yes, it uses simple English and real-life examples parents can apply at home.</p>"
+    },
+    {
+      "title": "Why should I learn this framework?",
+      "answer": "<p>It helps you communicate with purpose and build stronger family bonds.</p>"
+    },
+    {
+      "title": "Do I need to memorize the phrases?",
+      "answer": "<p>No, practice them regularly and they’ll become part of your natural speech.</p>"
+    }
+  ],
+  "url": "facts-techniques",
+  "section": [
+    {
+      "title": "Golden Circle for Parent Communication",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68f4b1d69170edb4bdab90fc"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "68f9d695489f5ecd8dd4b9a5"
+      }
+    },
+    {
+      "title": "One Word, One Day- Start Your Journey",
+      "displayOrder": 1,
+      "type": "video",
+      "media": {
+        "$oid": "68f4b1d59170edb4bdab90fb"
+      },
+      "_id": {
+        "$oid": "68f9d695489f5ecd8dd4b9a6"
+      }
+    }
+  ],
+  "difficultyLevel": "intermediate",
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-20T05:44:05.293Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-23T07:17:41.561Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6906fe38d7c1b05b5ff8ffab"
+  },
+  "title": "test lesson for testing short description",
+  "shortDescription": "What is Lorem / asd asdsa asdasd aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "summary": "<p>test</p>",
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "free"
+  },
+  "topics": [],
+  "faq": [],
+  "url": "test-lesson-for-testing-short-description",
+  "section": [
+    {
+      "title": "test",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68f5ab97db6ecadedc549e9a"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "6906fe95d7c1b05b5ff9001e"
+      }
+    }
+  ],
+  "difficultyLevel": "beginner",
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "active": false,
+  "createdAt": {
+    "$date": "2025-11-02T06:46:16.430Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-02T06:47:49.756Z"
+  },
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2025-11-02T06:48:01.940Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69071768d7c1b05b5ff91bce"
+  },
+  "title": "test lesson for testing short description",
+  "shortDescription": "500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but",
+  "summary": "<p>test</p>",
+  "difficultyLevel": "beginner",
+  "assignment": [],
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "topics": [
+    "test"
+  ],
+  "faq": [],
+  "url": "test-lesson-for-testing-short-description1",
+  "section": [
+    {
+      "title": "test",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "68f5ab97db6ecadedc549e9a"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "69071768d7c1b05b5ff91bcd"
+      }
+    }
+  ],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "active": false,
+  "createdAt": {
+    "$date": "2025-11-02T08:33:44.221Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-02T08:33:44.221Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "69196d52d794badd476f600d"
+  },
+  "title": "Test lesson to check media upload",
+  "shortDescription": "Test lesson to check media upload  refactor",
+  "summary": "<p>Test lesson to check media upload&nbsp;&nbsp;refactor</p>",
+  "teacher": [
+    {
+      "$oid": "67cd1839f3019dccb5e9a642"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [],
+  "url": "test-lesson-to-check-media-upload",
+  "section": [
+    {
+      "title": "Test video",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "6919778906790fc8fe042ba7"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "691977c606790fc8fe042bf3"
+      }
+    }
+  ],
+  "difficultyLevel": "beginner",
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "active": false,
+  "createdAt": {
+    "$date": "2025-11-16T06:21:06.001Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-16T07:15:00.241Z"
+  },
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2025-11-16T07:15:04.600Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69197c371e663d65076de6f2"
+  },
+  "title": "test lesson to test media upload",
+  "shortDescription": "test lesson to test media upload truncating server url from m3u8 and vtt files",
+  "summary": "<p>test lesson to test media upload truncating server url from m3u8 and vtt files</p>",
+  "teacher": [
+    {
+      "$oid": "67cd1839f3019dccb5e9a642"
+    }
+  ],
+  "assignment": [],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "topics": [],
+  "faq": [],
+  "url": "test-lesson-to-test-media-upload",
+  "section": [
+    {
+      "title": "Test video to test media upload refactor",
+      "displayOrder": 0,
+      "type": "video",
+      "media": {
+        "$oid": "69197bc71e663d65076de65a"
+      },
+      "promptExam": [],
+      "_id": {
+        "$oid": "69197c371e663d65076de6f1"
+      }
+    }
+  ],
+  "difficultyLevel": "beginner",
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "active": false,
+  "createdAt": {
+    "$date": "2025-11-16T07:24:39.690Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-16T07:36:31.868Z"
+  },
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2025-11-16T07:37:02.912Z"
+  }
+}]

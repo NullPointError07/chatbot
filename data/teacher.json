@@ -1,0 +1,266 @@
+[{
+  "_id": {
+    "$oid": "67cd1839f3019dccb5e9a642"
+  },
+  "name": "Shariar Raz (Teacher)",
+  "expertise": [
+    "66c577e67b59fe8218f645bf",
+    "66c577e67b59fe8218f645c0",
+    "66c577e97b59fe8218f645c5",
+    "66c577e97b59fe8218f645c6",
+    "66c577ed7b59fe8218f645d0"
+  ],
+  "category": [
+    {
+      "$oid": "66c577e67b59fe8218f645be"
+    },
+    {
+      "$oid": "66c577ea7b59fe8218f645c8"
+    },
+    {
+      "$oid": "66c577ec7b59fe8218f645ce"
+    }
+  ],
+  "phone": "+8801534581780",
+  "email": "fahim.justanx@gmail.com",
+  "education": {
+    "IELTSBandScore": "7",
+    "result": "fdfdfd",
+    "passingYear": "2021",
+    "institution": "BRAC University",
+    "level": "graduate"
+  },
+  "employmentType": [
+    "partTime",
+    "fullTime"
+  ],
+  "workSite": [
+    "online",
+    "hybrid",
+    "onsite"
+  ],
+  "currentOccupation": {
+    "position": "Instructor",
+    "teachingExperience": "2"
+  },
+  "address": {
+    "address1": "Dhaka",
+    "address2": "Dhaka",
+    "city": "Dhaka"
+  },
+  "phoneVerified": true,
+  "emailVerified": true,
+  "active": true,
+  "profileVerified": false,
+  "image": {
+    "$oid": "68beba4e84e3fb5485490632"
+  },
+  "createdAt": {
+    "$date": "2025-03-09T04:25:29.013Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-07T06:16:13.445Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "review": {
+    "rating": 3.6,
+    "count": 10
+  },
+  "teacherType": "teacher"
+},
+{
+  "_id": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "name": "Humaira Kabir (Teacher)",
+  "expertise": [
+    "66c577e67b59fe8218f645bf",
+    "66c577e67b59fe8218f645c0",
+    "66c577e77b59fe8218f645c2",
+    "66c577e77b59fe8218f645c1",
+    "66c577e97b59fe8218f645c5",
+    "66c577e97b59fe8218f645c6",
+    "66c577eb7b59fe8218f645ca",
+    "66c577e97b59fe8218f645c7",
+    "66c577eb7b59fe8218f645cb",
+    "66c577eb7b59fe8218f645cc",
+    "66c577ec7b59fe8218f645cd"
+  ],
+  "category": [
+    {
+      "$oid": "66c577ea7b59fe8218f645c8"
+    },
+    {
+      "$oid": "66c577e67b59fe8218f645be"
+    },
+    {
+      "$oid": "66e2a16fc3b390df7ba4950b"
+    },
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "phone": "+8801828032422",
+  "email": "humaira.shebainnovations@gmail.com",
+  "education": {
+    "IELTSBandScore": "7.5",
+    "passingYear": 2025,
+    "institution": "University Of Liberal Arts Bangladesh",
+    "level": "graduate"
+  },
+  "employmentType": [
+    "fullTime"
+  ],
+  "workSite": [
+    "hybrid"
+  ],
+  "currentOccupation": {
+    "position": "Program Specialist",
+    "teachingExperience": "5"
+  },
+  "address": {
+    "address1": "8/3 shantibag dhaka",
+    "address2": "118 shantinagar dhaka",
+    "city": "dhaka"
+  },
+  "phoneVerified": true,
+  "emailVerified": true,
+  "active": true,
+  "profileVerified": false,
+  "image": {
+    "$oid": "68bec68e8f5a1660c6d30fcc"
+  },
+  "createdAt": {
+    "$date": "2025-05-28T06:08:01.216Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-15T07:20:58.873Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "review": {
+    "rating": 4.5,
+    "count": 1
+  },
+  "teacherType": "teacher"
+},
+{
+  "_id": {
+    "$oid": "686e562ec41f0df15692fd90"
+  },
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "name": "Anas Bin Numan (Moderator)",
+  "phone": "+8801670818647",
+  "email": "anas.bin.numan@gmail.com",
+  "education": {
+    "IELTSBandScore": "7.5",
+    "result": "C",
+    "passingYear": "2008",
+    "institution": "Brindabon Govt. College",
+    "level": "hsc"
+  },
+  "employmentType": [
+    "fullTime"
+  ],
+  "workSite": [
+    "onsite"
+  ],
+  "image": null,
+  "teacherType": "moderator",
+  "profileVerified": false,
+  "active": true,
+  "createdAt": {
+    "$date": "2025-07-09T11:44:46.145Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-07-09T11:49:29.726Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6894567be6cca531fab86ca6"
+  },
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "name": "Fahim (Moderator)",
+  "phone": "+8801534581785",
+  "email": "randomproductguy@gmail.com",
+  "education": {
+    "IELTSBandScore": "6.5",
+    "result": "a",
+    "passingYear": "2025",
+    "institution": "BRAC University",
+    "level": "graduate"
+  },
+  "employmentType": [
+    "fullTime"
+  ],
+  "workSite": [
+    "onsite"
+  ],
+  "image": null,
+  "teacherType": "moderator",
+  "profileVerified": false,
+  "active": true,
+  "createdAt": {
+    "$date": "2025-08-07T07:32:11.881Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-08-07T07:32:22.197Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6914c249666069831c63ffe4"
+  },
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    },
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "name": "Md. Mosheul Islam Maruf",
+  "phone": "+8801716665574",
+  "email": "maruf.sil.cio@gmail.com",
+  "education": {
+    "IELTSBandScore": "8",
+    "result": "fdfdfd",
+    "passingYear": "2012",
+    "institution": "NSU",
+    "level": "postgraduate"
+  },
+  "employmentType": [
+    "fullTime"
+  ],
+  "workSite": [
+    "onsite"
+  ],
+  "image": {
+    "$oid": "69199e980398e06c4f479830"
+  },
+  "teacherType": "teacher",
+  "profileVerified": false,
+  "active": true,
+  "createdAt": {
+    "$date": "2025-11-12T17:22:17.112Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-16T09:51:21.750Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+}]

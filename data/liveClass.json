@@ -1,0 +1,1070 @@
+[{
+  "_id": {
+    "$oid": "68dffd8f8c9f43ad1676986c"
+  },
+  "title": "Writing: Common Mistakes and How to Avoid Those",
+  "shortDescription": "This is a short description for a live class that is associated with the course 'IELTS Writing Common Mistakes & Solutions'",
+  "description": "<p>This is a description for a live class that is associated with the course 'IELTS Writing Common Mistakes &amp; Solutions'</p>",
+  "time": {
+    "$date": "2025-10-27T10:00:00.000Z"
+  },
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "seatLimit": 39,
+  "cover": {
+    "$oid": "68c116a6170efe97b0af61d2"
+  },
+  "banner": {
+    "$oid": "68c116a6170efe97b0af61d2"
+  },
+  "topics": [
+    "Common Mistakes",
+    "Solutions"
+  ],
+  "faq": [],
+  "status": "scheduled",
+  "moderator": {
+    "$oid": "6894567be6cca531fab86ca6"
+  },
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "active": true,
+  "url": "writing-common-mistakes-and-how-to-avoid-those",
+  "createdAt": {
+    "$date": "2025-10-03T16:45:03.694Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-20T06:32:55.080Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "isRecorded": false,
+  "recordedBy": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "recordedMedia": {
+    "$oid": "68dffd8f8c9f43ad1676986c"
+  },
+  "assignment": []
+},
+{
+  "_id": {
+    "$oid": "68e009c38c9f43ad1676c372"
+  },
+  "title": "Speaking Practice Routine",
+  "shortDescription": "This is the short description section for a live class that is associated with the 'IELTS Speaking Daily Practice' course.",
+  "description": "<p>This is the short description section for a live class that is associated with the 'IELTS Speaking Daily Practice' course.&nbsp;</p>",
+  "time": {
+    "$date": "2025-10-27T10:00:00.000Z"
+  },
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "paid",
+    "price": 400,
+    "offerPrice": 350
+  },
+  "seatLimit": 50,
+  "cover": {
+    "$oid": "68c116a6170efe97b0af61d2"
+  },
+  "banner": {
+    "$oid": "68c116a6170efe97b0af61d2"
+  },
+  "topics": [
+    "Fluency",
+    "Pronunciation",
+    "Coherence",
+    "Vocabulary Usage"
+  ],
+  "faq": [],
+  "status": "scheduled",
+  "moderator": {
+    "$oid": "6894567be6cca531fab86ca6"
+  },
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "active": true,
+  "url": "speaking-practice-routine",
+  "createdAt": {
+    "$date": "2025-10-03T17:37:07.634Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-23T04:46:26.383Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "assignment": [],
+  "isRecorded": false,
+  "recordedBy": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "recordedMedia": {
+    "$oid": "68e009c38c9f43ad1676c372"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e493afde4dea7d61605285"
+  },
+  "title": "Test live class for testing rescheduling",
+  "shortDescription": "test",
+  "description": "<p>test</p>",
+  "time": {
+    "$date": "2025-10-27T10:00:00.000Z"
+  },
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "seatLimit": 7,
+  "cover": {
+    "$oid": "68e00cf58c9f43ad1676c759"
+  },
+  "banner": {
+    "$oid": "68e00cec8c9f43ad1676c746"
+  },
+  "topics": [
+    "test topics"
+  ],
+  "faq": [],
+  "status": "scheduled",
+  "url": "test-live-class-for-testing-rescheduling",
+  "moderator": null,
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-07T04:14:39.882Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-13T10:13:21.593Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "isRecorded": false,
+  "assignment": []
+},
+{
+  "_id": {
+    "$oid": "68e49468de4dea7d61605364"
+  },
+  "title": "test live class for testing rescheduling 2",
+  "shortDescription": "test",
+  "description": "<p>test</p>",
+  "time": {
+    "$date": "2025-10-27T10:00:00.000Z"
+  },
+  "teacher": [
+    {
+      "$oid": "686ba84fe80e5f7ed1f0ad6c"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "seatLimit": 8,
+  "cover": {
+    "$oid": "68e382bf72c6f6e7e0808b59"
+  },
+  "banner": {
+    "$oid": "68e3795372c6f6e7e0807f8d"
+  },
+  "topics": [
+    "test"
+  ],
+  "faq": [],
+  "status": "scheduled",
+  "url": "test-live-class-for-testing-rescheduling-2",
+  "moderator": null,
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "active": false,
+  "createdAt": {
+    "$date": "2025-10-07T04:17:44.843Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-07T04:53:17.985Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "isRecorded": false,
+  "assignment": []
+},
+{
+  "_id": {
+    "$oid": "68e4a10ede4dea7d61606290"
+  },
+  "title": "test live class for testing rescheduling",
+  "shortDescription": "test",
+  "description": "<p>test</p>",
+  "time": {
+    "$date": "2025-10-27T10:00:00.000Z"
+  },
+  "pricing": {
+    "type": "free"
+  },
+  "seatLimit": 5,
+  "cover": {
+    "$oid": "68e3795372c6f6e7e0807f8d"
+  },
+  "banner": {
+    "$oid": "68e3583ab6b1bae4853a5b3a"
+  },
+  "topics": [
+    "test"
+  ],
+  "faq": [],
+  "status": "scheduled",
+  "moderator": {
+    "$oid": "686dea1eb3fb7cf6c3f27510"
+  },
+  "teacher": [
+    {
+      "$oid": "67cd1839f3019dccb5e9a642"
+    }
+  ],
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "active": false,
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "url": "test-live-class-for-testing-rescheduling1",
+  "createdAt": {
+    "$date": "2025-10-07T05:11:42.212Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-08T08:06:20.019Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "isRecorded": false,
+  "assignment": []
+},
+{
+  "_id": {
+    "$oid": "68e667f08181b054a11df347"
+  },
+  "title": "Webinar on IELTS",
+  "shortDescription": "ielts webinar",
+  "description": "<p>This webinar live class is created for notification testing</p>",
+  "time": {
+    "$date": "2025-10-27T10:00:00.000Z"
+  },
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "seatLimit": 20,
+  "cover": {
+    "$oid": "68e6352c2217a08418d35afb"
+  },
+  "banner": {
+    "$oid": "68e3795372c6f6e7e0807f8d"
+  },
+  "topics": [
+    "webiner",
+    "ielts"
+  ],
+  "faq": [],
+  "status": "scheduled",
+  "moderator": {
+    "$oid": "686e562ec41f0df15692fd90"
+  },
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "active": true,
+  "url": "webinar-on-ielts",
+  "createdAt": {
+    "$date": "2025-10-08T13:32:32.864Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-14T13:19:08.407Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "isRecorded": false,
+  "assignment": []
+},
+{
+  "_id": {
+    "$oid": "68ec9ceda674bdd6e605489a"
+  },
+  "title": "In Course LiveClass",
+  "shortDescription": "live class recording test for in course live class",
+  "description": "<p>etc</p>",
+  "time": {
+    "$date": "2025-10-27T10:00:00.000Z"
+  },
+  "teacher": [
+    {
+      "$oid": "67cd1839f3019dccb5e9a642"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "seatLimit": 19,
+  "cover": {
+    "$oid": "68ea23f98263f07e7b21ba08"
+  },
+  "banner": {
+    "$oid": "68ea23f98263f07e7b21ba08"
+  },
+  "topics": [
+    "test"
+  ],
+  "faq": [],
+  "status": "scheduled",
+  "moderator": {
+    "$oid": "686e562ec41f0df15692fd90"
+  },
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "active": true,
+  "url": "in-course-liveclass",
+  "createdAt": {
+    "$date": "2025-10-13T06:32:13.331Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-13T06:35:40.802Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "isRecorded": false,
+  "recordedBy": {
+    "$oid": "67cd1839f3019dccb5e9a642"
+  },
+  "recordedMedia": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "assignment": []
+},
+{
+  "_id": {
+    "$oid": "68eccf25a674bdd6e605866c"
+  },
+  "title": "Live Class- Session Recording Test",
+  "shortDescription": "Test",
+  "description": "<p>Test</p>",
+  "time": {
+    "$date": "2025-10-27T10:00:00.000Z"
+  },
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "seatLimit": 40,
+  "cover": {
+    "$oid": "68ea48bb823868c54e998d07"
+  },
+  "banner": {
+    "$oid": "68ea48bb823868c54e998d07"
+  },
+  "topics": [
+    "How to say common instructions naturally."
+  ],
+  "faq": [],
+  "status": "scheduled",
+  "url": "live-class--session-recording-test",
+  "moderator": {
+    "$oid": "6894567be6cca531fab86ca6"
+  },
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-13T10:06:29.815Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-13T10:06:29.815Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "isRecorded": false,
+  "assignment": []
+},
+{
+  "_id": {
+    "$oid": "68edddac2ba343a780ccad3f"
+  },
+  "title": "Record Test",
+  "shortDescription": "Test",
+  "description": "<p>Test</p>",
+  "time": {
+    "$date": "2025-10-27T10:00:00.000Z"
+  },
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "seatLimit": 20,
+  "cover": {
+    "$oid": "68ea48bb823868c54e998d07"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "topics": [
+    "How to say common instructions naturally."
+  ],
+  "faq": [],
+  "status": "ongoing",
+  "url": "record-test",
+  "moderator": {
+    "$oid": "6894567be6cca531fab86ca6"
+  },
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-14T05:20:44.787Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-06T06:01:13.701Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "assignment": [],
+  "isRecorded": true,
+  "recordedBy": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "recordedMedia": {
+    "$oid": "68edddac2ba343a780ccad3f"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f0761841410e21b7120174"
+  },
+  "title": "Live Class for testing web compose",
+  "shortDescription": "This is a test short description.",
+  "description": "<p>This is a test description.</p>",
+  "time": {
+    "$date": "2025-10-27T10:00:00.000Z"
+  },
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "seatLimit": 35,
+  "cover": {
+    "$oid": "68e78f4aab5e397e75e1e929"
+  },
+  "banner": {
+    "$oid": "68e78f4aab5e397e75e1e929"
+  },
+  "topics": [
+    "How to say common instructions naturally."
+  ],
+  "faq": [],
+  "status": "scheduled",
+  "moderator": {
+    "$oid": "6894567be6cca531fab86ca6"
+  },
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "active": true,
+  "url": "live-class-for-testing-web-compose",
+  "createdAt": {
+    "$date": "2025-10-16T04:35:36.219Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-16T05:58:41.400Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "isRecorded": false,
+  "recordedBy": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "recordedMedia": {
+    "$oid": "68f0761841410e21b7120174"
+  },
+  "assignment": []
+},
+{
+  "_id": {
+    "$oid": "68f5d3f495fc82365e4cd5af"
+  },
+  "title": "Let’s Practice English Together",
+  "shortDescription": "A fun and friendly live session for parents to practice speaking English through real-life conversations about hobbies, home life, family, and more.",
+  "description": "<p>In this session, we’ll practice real conversations that are easy, useful, and fun — helping you speak more confidently at home, in the market, or with friends and family.</p><p>Together, we’ll explore these simple but powerful topics:</p><ol><li>Talking About Hobbies and Free Time – Learn to express what you enjoy doing and ask others about their interests.</li><li>Describing Your Home – Practice how to describe your house and different rooms in English.</li><li>Talking About Your Child’s Day – Speak about school routines, subjects, and daily activities.</li><li>Making Plans with Friends or Neighbors – Learn phrases to suggest plans or invite someone politely.</li><li>Polite Requests and Offers – Use English to ask for help or offer something kindly.</li><li>Sharing Good News – Learn how to celebrate achievements and respond positively in English.</li></ol><p><br></p><p>This class will include speaking practice, roleplay, teacher feedback, and simple vocabulary support. No pressure, no tests — just real English for real life.</p><p><br></p><p>Let’s speak, smile, and support each other as we learn together!</p>",
+  "time": {
+    "$date": "2025-10-27T09:45:00.000Z"
+  },
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "seatLimit": 30,
+  "cover": {
+    "$oid": "68c116a6170efe97b0af61d2"
+  },
+  "banner": {
+    "$oid": "68c116a6170efe97b0af61d2"
+  },
+  "topics": [
+    "Talking About Hobbies and Free Time",
+    "Describing Your Home",
+    "Talking About Your Child’s Day",
+    "Making Plans with Friends or Neighbors",
+    "Polite Requests and Offers",
+    "Sharing Good News"
+  ],
+  "faq": [
+    {
+      "title": "Who is this live class for?",
+      "answer": "<p>This class is specially designed for parents who are learning basic spoken English. If you want to improve your everyday communication skills — whether at home, in the community, or with your children — this class is for you.</p>"
+    },
+    {
+      "title": "Do I need to speak English fluently to join?",
+      "answer": "<p>Not at all! This class is for beginners and early learners. You will learn through simple sentences, real-life topics, and guided practice. Your teacher will help you step by step.</p>"
+    },
+    {
+      "title": "What will I learn in this class?",
+      "answer": "<p>You’ll practice speaking English about:</p><ul><li>Your hobbies and free time</li><li>Describing your home</li><li>Talking about your child’s day</li><li>Making polite requests and offers</li><li>Making plans with others</li><li>Sharing good news and happy moments</li></ul><p>These are real conversations that you can use in your daily life.</p>"
+    },
+    {
+      "title": "Will there be group activities?",
+      "answer": "<p>Yes! You will take part in group speaking practice, roleplays, and simple interactive tasks. You don’t need to perform or be perfect — just try your best, and the teacher will guide and support you.</p>"
+    },
+    {
+      "title": "Do I need a microphone or camera?",
+      "answer": "<p>A microphone is strongly recommended so you can practice speaking. A camera is optional, but turning it on can help make the session more interactive and personal.</p>"
+    },
+    {
+      "title": "Will there be materials after the class?",
+      "answer": "<p>Yes. After the class, you may receive:</p><ul><li>A short vocabulary sheet</li><li>Speaking practice examples</li><li>Optional practice activities you can do at home</li></ul><p><br></p>"
+    }
+  ],
+  "status": "expired",
+  "moderator": {
+    "$oid": "686e562ec41f0df15692fd90"
+  },
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "active": true,
+  "url": "let’s-practice-english-together",
+  "createdAt": {
+    "$date": "2025-10-20T06:17:24.380Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-27T09:50:34.981Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "assignment": [
+    {
+      "$oid": "68e1ee848c9f43ad16790944"
+    }
+  ],
+  "isRecorded": true,
+  "recordedBy": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "recordedMedia": {
+    "$oid": "68f5d3f495fc82365e4cd5af"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f87d65faa689434d652a91"
+  },
+  "title": "test live class for testing offer price",
+  "shortDescription": "yrdy",
+  "description": "<p>test</p>",
+  "time": {
+    "$date": "2025-10-27T10:00:00.000Z"
+  },
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "paid",
+    "price": 34,
+    "offerPrice": 10
+  },
+  "seatLimit": 13,
+  "cover": {
+    "$oid": "68f721c47b64cf56349f9ba7"
+  },
+  "banner": {
+    "$oid": "68f7217a7b64cf56349f9b20"
+  },
+  "topics": [
+    "test"
+  ],
+  "faq": [],
+  "status": "scheduled",
+  "url": "test-live-class-for-testing-offer-price",
+  "moderator": null,
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "active": false,
+  "createdAt": {
+    "$date": "2025-10-22T06:44:53.891Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-22T07:06:52.764Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "assignment": []
+},
+{
+  "_id": {
+    "$oid": "68f89ff98474452700570de0"
+  },
+  "title": "test live class for testing offerprice",
+  "shortDescription": "test",
+  "description": "<p>test</p>",
+  "time": {
+    "$date": "2025-10-27T10:00:00.000Z"
+  },
+  "pricing": {
+    "type": "paid",
+    "price": 4
+  },
+  "seatLimit": 2,
+  "cover": {
+    "$oid": "68f721c47b64cf56349f9ba7"
+  },
+  "banner": {
+    "$oid": "68f7217a7b64cf56349f9b20"
+  },
+  "topics": [],
+  "faq": [],
+  "status": "scheduled",
+  "moderator": null,
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "active": false,
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "url": "test-live-class-for-testing-offerprice",
+  "createdAt": {
+    "$date": "2025-10-22T09:12:25.411Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-22T09:12:39.442Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "assignment": []
+},
+{
+  "_id": {
+    "$oid": "68f8a0398474452700570e2f"
+  },
+  "title": "test live class for testing offerprice",
+  "shortDescription": "test",
+  "description": "<p>test</p>",
+  "time": {
+    "$date": "2025-10-27T10:00:00.000Z"
+  },
+  "pricing": {
+    "type": "paid",
+    "price": 4
+  },
+  "seatLimit": 1,
+  "cover": {
+    "$oid": "68f721c47b64cf56349f9ba7"
+  },
+  "banner": {
+    "$oid": "68f7217a7b64cf56349f9b20"
+  },
+  "topics": [],
+  "faq": [],
+  "status": "scheduled",
+  "moderator": null,
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "active": false,
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "url": "test-live-class-for-testing-offerprice1",
+  "createdAt": {
+    "$date": "2025-10-22T09:13:29.501Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-22T09:13:48.003Z"
+  },
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2025-10-22T09:13:55.568Z"
+  },
+  "assignment": []
+},
+{
+  "_id": {
+    "$oid": "68fdaf68b3024ffed0170add"
+  },
+  "title": "ABN Paget Live Class #1",
+  "shortDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+  "description": "<p><strong style=\"color: rgb(0, 0, 0);\">Lorem Ipsum</strong><span style=\"color: rgb(0, 0, 0);\">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>",
+  "time": {
+    "$date": "2025-10-27T12:40:00.000Z"
+  },
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "inCourse"
+  },
+  "seatLimit": 1,
+  "cover": {
+    "$oid": "68fa1a711fec07a49b2e0437"
+  },
+  "banner": {
+    "$oid": "68fa1a711fec07a49b2e0437"
+  },
+  "topics": [
+    "Locked lesson after attending live class"
+  ],
+  "faq": [],
+  "status": "expired",
+  "moderator": {
+    "$oid": "686e562ec41f0df15692fd90"
+  },
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "active": true,
+  "url": "abn-paget-live-class-1",
+  "createdAt": {
+    "$date": "2025-10-26T05:19:36.573Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-27T12:47:48.215Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "assignment": [
+    {
+      "$oid": "68e1ee848c9f43ad16790944"
+    },
+    {
+      "$oid": "68e1ee2f8c9f43ad167908dd"
+    }
+  ],
+  "isRecorded": true,
+  "recordedBy": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "recordedMedia": {
+    "$oid": "68fdaf68b3024ffed0170add"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ff37a989f6ba8d14953159"
+  },
+  "title": "test live class for testing video banner",
+  "shortDescription": "testte",
+  "description": "<p>test</p>",
+  "time": {
+    "$date": "2025-10-27T10:00:00.000Z"
+  },
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "seatLimit": 20,
+  "cover": {
+    "$oid": "68f721c47b64cf56349f9ba7"
+  },
+  "banner": {
+    "$oid": "68c820cdefcb88d0c62bab06"
+  },
+  "topics": [
+    "test"
+  ],
+  "faq": [],
+  "status": "scheduled",
+  "url": "test-live-class-for-testing-video-banner",
+  "moderator": null,
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "active": false,
+  "createdAt": {
+    "$date": "2025-10-27T09:13:13.159Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-27T09:54:00.505Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "assignment": []
+},
+{
+  "_id": {
+    "$oid": "68ff417489f6ba8d14953d1c"
+  },
+  "title": "test live class for testing video banner",
+  "shortDescription": "test",
+  "description": "<p>test</p>",
+  "time": {
+    "$date": "2025-10-30T09:54:00.000Z"
+  },
+  "pricing": {
+    "type": "free"
+  },
+  "seatLimit": 8,
+  "cover": {
+    "$oid": "68f721c47b64cf56349f9ba7"
+  },
+  "banner": {
+    "$oid": "68f4d923237c497b9585395e"
+  },
+  "topics": [],
+  "faq": [],
+  "status": "scheduled",
+  "moderator": null,
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "active": false,
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "url": "test-live-class-for-testing-video-banner1",
+  "createdAt": {
+    "$date": "2025-10-27T09:55:00.044Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-27T09:55:11.639Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "69009631f5dc75325f9a18d0"
+  },
+  "title": "Ed Room Recent Fixes Testing",
+  "shortDescription": "Test",
+  "description": "<p>Test</p>",
+  "time": {
+    "$date": "2025-10-28T10:10:00.000Z"
+  },
+  "teacher": [
+    {
+      "$oid": "67cd1839f3019dccb5e9a642"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "seatLimit": 5,
+  "cover": {
+    "$oid": "68c116a6170efe97b0af61d2"
+  },
+  "banner": {
+    "$oid": "68c116a6170efe97b0af61d2"
+  },
+  "topics": [
+    "How to say common instructions naturally."
+  ],
+  "faq": [],
+  "status": "scheduled",
+  "moderator": null,
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "active": true,
+  "url": "ed-room-recent-fixes-testing",
+  "createdAt": {
+    "$date": "2025-10-28T10:08:49.661Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-28T10:09:20.375Z"
+  },
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2025-10-28T10:14:29.620Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69009839f5dc75325f9a1b93"
+  },
+  "title": "Ed Room Recent Fixes Testing",
+  "shortDescription": "Test",
+  "description": "<p>Test</p>",
+  "time": {
+    "$date": "2025-10-28T10:20:00.000Z"
+  },
+  "pricing": {
+    "type": "free"
+  },
+  "seatLimit": 4,
+  "cover": {
+    "$oid": "68c116a6170efe97b0af61d2"
+  },
+  "banner": {
+    "$oid": "68c116a6170efe97b0af61d2"
+  },
+  "topics": [],
+  "faq": [],
+  "status": "expired",
+  "moderator": null,
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "active": true,
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "url": "ed-room-recent-fixes-testing1",
+  "createdAt": {
+    "$date": "2025-10-28T10:17:29.239Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-28T10:38:59.777Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "assignment": [
+    {
+      "$oid": "68e1ee848c9f43ad16790944"
+    }
+  ],
+  "isRecorded": true,
+  "recordedBy": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "recordedMedia": {
+    "$oid": "69009839f5dc75325f9a1b93"
+  }
+},
+{
+  "_id": {
+    "$oid": "69070018d7c1b05b5ff901ed"
+  },
+  "title": "test live class for testing short desc",
+  "shortDescription": "What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's",
+  "description": "<p>test</p>",
+  "time": {
+    "$date": "2025-11-03T06:52:00.000Z"
+  },
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "seatLimit": 4,
+  "cover": {
+    "$oid": "6906f26535cc6857b7612f8d"
+  },
+  "banner": {
+    "$oid": "6906f26535cc6857b7612f8d"
+  },
+  "topics": [
+    "test"
+  ],
+  "faq": [],
+  "status": "scheduled",
+  "moderator": null,
+  "meetLink": "https://edroom.dev.shikkhasheba.net",
+  "requirement": [],
+  "category": [],
+  "artifacts": null,
+  "active": false,
+  "url": "test-live-class-for-testing-short-desc",
+  "createdAt": {
+    "$date": "2025-11-02T06:54:16.872Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-02T06:59:22.981Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+}]

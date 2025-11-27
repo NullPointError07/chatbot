@@ -1,0 +1,1463 @@
+[{
+  "_id": {
+    "$oid": "68dfc9888c9f43ad167636d2"
+  },
+  "title": "Everyday English For Parents",
+  "shortDescription": "Build your confidence and bond with your child by learning simple, everyday English phrases for home use.",
+  "description": "<p>Do you have anxiety about using English at home as a parent?</p><p><br></p><p>This easy-to-learn course is specifically made for Bangladeshi parents who wish to encourage their children's acquisition of English by incorporating simple, everyday expressions into their interactions. Learn how to speak English fluently during everyday tasks like getting your child up, assisting with schoolwork, controlling your emotions, and more with these ten captivating lessons.</p><p><br></p><p>Start with brief but meaningful statements; flawless grammar is not necessary. The first step in enhancing your English and improving your relationship with your child is this course.</p>",
+  "hasLiveClass": false,
+  "hasRecordedClass": true,
+  "displayOrder": 5,
+  "topics": [
+    "Speak English in daily routines like mornings, meals, and study time.",
+    "Encourage your child’s learning and confidence with supportive phrases.",
+    "Use polite instructions and guide your child with kindness.",
+    "Communicate emotions and discipline positively in English.",
+    "Talk about your family and experiences using simple English.",
+    "Practice English daily using real-life situations at home."
+  ],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "liveClass": [],
+  "lesson": [
+    {
+      "$oid": "68dfc8368c9f43ad16763520"
+    },
+    {
+      "$oid": "68e1f5848c9f43ad167911b1"
+    },
+    {
+      "$oid": "68e206ee8c9f43ad16792756"
+    },
+    {
+      "$oid": "68e208a98c9f43ad16792b94"
+    },
+    {
+      "$oid": "68e20a0c8c9f43ad16792e5a"
+    },
+    {
+      "$oid": "68e20e988c9f43ad16793444"
+    },
+    {
+      "$oid": "68e20fec8c9f43ad167935de"
+    },
+    {
+      "$oid": "68e210ec8c9f43ad16793719"
+    },
+    {
+      "$oid": "68e211cd8c9f43ad16793829"
+    },
+    {
+      "$oid": "68e2144d8c9f43ad16793b2b"
+    }
+  ],
+  "accessDuration": 2592000,
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "courseDuration": 1209600,
+  "seatLimit": 30,
+  "cover": {
+    "$oid": "68dfc9438c9f43ad16763665"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "difficultyLevel": "intermediate",
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "everyday-english-for-parents",
+  "createdAt": {
+    "$date": "2025-10-03T13:03:04.422Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T06:48:56.527Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68dfdef68c9f43ad167650a5"
+  },
+  "title": "IELTS Reading Quick Strategies",
+  "shortDescription": "IELTS Reading Quick Strategies — A fast, focused course to boost your score with repeatable tactics: skim, scan, read for detail, and master T/F/NG, Matching Headings, MCQs, and gap-fills.",
+  "description": "<p>Master the must-know tactics to boost your Reading band in minimal time. This fast, focused course teaches you how to <strong>skim for gist, scan for keywords, and read for detail</strong>, with proven methods for <strong>T/F/NG &amp; Yes/No/Not Given, Matching Headings, MCQs, and gap-fills</strong>. Each lesson includes a short demo, a timed mini-drill, and quick feedback so you can apply strategies immediately. Ideal for busy learners aiming for <strong>Band 6–8</strong> who want practical shortcuts, error-traps to avoid, and a repeatable plan for test day.</p>",
+  "hasLiveClass": false,
+  "hasRecordedClass": true,
+  "displayOrder": 1,
+  "topics": [
+    "A repeatable game plan for the 60-minute test (how to split time, when to skip, how to guess smartly).",
+    "Skimming & scanning mastery to find gist, keywords, names, dates, and numbers fast.",
+    "Detail reading techniques to avoid traps and confirm answers efficiently.",
+    "T/F/NG & Yes/No/Not Given: a step-by-step method to judge facts vs. opinions and spot “Not Given.”",
+    "Matching Headings: identify main ideas vs. examples and choose between close options."
+  ],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "liveClass": [],
+  "lesson": [
+    {
+      "$oid": "68dfdee28c9f43ad1676508c"
+    },
+    {
+      "$oid": "68dff59c8c9f43ad16767487"
+    }
+  ],
+  "accessDuration": 1764000,
+  "category": [
+    {
+      "$oid": "683d5084f4a9bf6b14989156"
+    }
+  ],
+  "courseDuration": 2592000,
+  "seatLimit": 30,
+  "cover": {
+    "$oid": "68dfdbd18c9f43ad16764cc4"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "difficultyLevel": "beginner",
+  "active": true,
+  "review": {
+    "rating": 5,
+    "count": 1
+  },
+  "url": "ielts-reading-quick-strategies",
+  "createdAt": {
+    "$date": "2025-10-03T14:34:30.179Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-02T11:10:15.888Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68dffe218c9f43ad1676991b"
+  },
+  "title": "IELTS Writing Common Mistakes & Solutions",
+  "shortDescription": "A fast, hands-on guide to fixing the errors that quietly lower your band: weak overviews, unclear paragraphing, vague vocabulary, grammar slips, and off-topic ideas.",
+  "description": "<p>Stop losing easy points. This practical course pinpoints the errors that most candidates make in <strong>Task 1</strong> (data/diagram description) and <strong>Task 2</strong> (essay)—then shows you exactly how to fix them. You’ll learn to avoid <strong>off-topic answers, weak overviews, poor paragraphing, repetition, vague vocabulary, grammar slips</strong>, and <strong>timing traps</strong>. Each lesson pairs a <strong>typical mistake</strong> with a <strong>clear fix</strong>, model rewrites, and quick checklists you can apply immediately.</p><p><strong>You’ll get:</strong></p><ul><li>High-impact fixes for <strong>Task Achievement, Coherence &amp; Cohesion, Lexical Resource,</strong> and <strong>Grammar</strong></li><li>Rewrite demos for band-lifting introductions, overviews, and body paragraphs</li><li>“Before → After” examples, sentence templates, and editing checklists</li><li>Timed mini-drills to practice under real exam pressure</li></ul><p><br></p><p><strong>Best for:</strong> IELTS Academic/General candidates targeting <strong>Band 6–8</strong> who want fast, measurable improvements through smart corrections—not more theory.</p>",
+  "hasLiveClass": true,
+  "hasRecordedClass": true,
+  "displayOrder": 2,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "liveClass": [
+    {
+      "$oid": "68dffd8f8c9f43ad1676986c"
+    }
+  ],
+  "lesson": [
+    {
+      "$oid": "68dffaa58c9f43ad167694d5"
+    },
+    {
+      "$oid": "68e000968c9f43ad16769c14"
+    }
+  ],
+  "accessDuration": 7776000,
+  "category": [
+    {
+      "$oid": "66c577ea7b59fe8218f645c8"
+    }
+  ],
+  "courseDuration": 16588800,
+  "seatLimit": 40,
+  "cover": {
+    "$oid": "68dffc9f8c9f43ad16769736"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "difficultyLevel": "advanced",
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "ielts-writing-common-mistakes-solutions",
+  "createdAt": {
+    "$date": "2025-10-03T16:47:29.547Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-03T17:37:50.763Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e009d68c9f43ad1676c38b"
+  },
+  "title": "IELTS Speaking Daily Practice",
+  "shortDescription": "IELTS Speaking Daily Practice — Bite-size, daily drills for Part 1, Part 2, and Part 3 to build fluency, coherence, vocabulary, grammar, and pronunciation.",
+  "description": "<p><strong>IELTS Speaking Daily Practice</strong></p><p>Build confident, natural speech one day at a time. This course gives you <strong>short, structured daily drills</strong> that mirror the real test—Part 1 warm-ups, Part 2 cue cards with planning frames, and Part 3 discussion questions—so you improve <strong>fluency, coherence, vocabulary, grammar, and pronunciation</strong> without overwhelm. Each session includes a <strong>timed practice</strong>, a <strong>model scaffold</strong> (how to start, extend, and conclude), and a <strong>self-check rubric</strong> mapped to IELTS band descriptors.</p><p><br></p><p><strong>Best for:</strong> Academic or General candidates targeting <strong>Band 6–8</strong> who want consistent, bite-size practice and clear, repeatable speaking frameworks.</p>",
+  "hasLiveClass": true,
+  "hasRecordedClass": true,
+  "displayOrder": 3,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "liveClass": [
+    {
+      "$oid": "68e009c38c9f43ad1676c372"
+    }
+  ],
+  "lesson": [
+    {
+      "$oid": "68e007ee8c9f43ad1676c125"
+    }
+  ],
+  "accessDuration": 4320000,
+  "category": [
+    {
+      "$oid": "66e2a16fc3b390df7ba4950b"
+    }
+  ],
+  "courseDuration": 8640000,
+  "seatLimit": 50,
+  "cover": {
+    "$oid": "68e009238c9f43ad1676c29a"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "difficultyLevel": "beginner",
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "ielts-speaking-daily-practice",
+  "createdAt": {
+    "$date": "2025-10-03T17:37:26.272Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-03T17:44:02.274Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e00d068c9f43ad1676c77d"
+  },
+  "title": "IELTS Listening Foundation Techniques",
+  "shortDescription": "A short, skills-first course to master the basics: active prediction, keyword tracking, note-taking, and clean answer writing across all 4 sections.",
+  "description": "<p>Build rock-solid listening skills from the ground up. This course teaches the core techniques every candidate needs before chasing speed: <strong>active prediction, keyword tracking, note-taking, and error-proof answer writing</strong>. You’ll learn how to handle all four sections—<strong>conversations, monologues, training talks, and academic lectures</strong>—with simple routines you can repeat under pressure.</p><p><strong>What you’ll get</strong></p><ul><li>Step-by-step methods for <strong>MCQ, matching, map/diagram labeling, and gap-fills</strong></li><li><strong>Accent awareness</strong> (UK, AU, NA) with stress, connected speech, and number/date recognition</li><li><strong>Preview–Listen–Confirm</strong> framework to use pauses effectively and avoid distractors</li><li>Clean <strong>answer formatting</strong> (spelling, hyphenation, word-limit rules) and common trap avoidance</li><li>Short drills with transcripts, keyword highlights, and self-check rubrics</li></ul><p><br></p><p><strong>Best for:</strong> Beginners to lower-intermediate learners or anyone needing a clear foundation before advanced strategy and full mocks.</p>",
+  "hasLiveClass": false,
+  "hasRecordedClass": true,
+  "displayOrder": 4,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "liveClass": [],
+  "lesson": [
+    {
+      "$oid": "68e00b3d8c9f43ad1676c53b"
+    }
+  ],
+  "accessDuration": 500400,
+  "category": [
+    {
+      "$oid": "66c577ec7b59fe8218f645ce"
+    }
+  ],
+  "courseDuration": 601200,
+  "seatLimit": 45,
+  "cover": {
+    "$oid": "68e00cec8c9f43ad1676c746"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "difficultyLevel": "intermediate",
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "ielts-listening-foundation-techniques",
+  "createdAt": {
+    "$date": "2025-10-03T17:51:02.913Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T10:40:58.718Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e24b3578315e8514893c93"
+  },
+  "title": "Course With Assignment #1",
+  "shortDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+  "description": "",
+  "hasLiveClass": false,
+  "hasRecordedClass": true,
+  "displayOrder": 6,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "liveClass": [],
+  "lesson": [
+    {
+      "$oid": "68e24a9f78315e8514893bde"
+    }
+  ],
+  "accessDuration": 864000,
+  "category": [
+    {
+      "$oid": "66c577ec7b59fe8218f645ce"
+    }
+  ],
+  "courseDuration": 432000,
+  "seatLimit": 20,
+  "cover": {
+    "$oid": "68e00cec8c9f43ad1676c746"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "difficultyLevel": "intermediate",
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "course-with-assignment-1",
+  "createdAt": {
+    "$date": "2025-10-05T10:40:53.325Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-06T09:16:49.895Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e5e20c154935f886048648"
+  },
+  "title": "Everyday English For Parents - P",
+  "shortDescription": "Build your confidence and bond with your child by learning simple, everyday English phrases for home use.",
+  "description": "<p>Do you have anxiety about using English at home as a parent?</p><p><br></p><p>This easy-to-learn course is specifically made for Bangladeshi parents who wish to encourage their children's acquisition of English by incorporating simple, everyday expressions into their interactions. Learn how to speak English fluently during everyday tasks like getting your child up, assisting with schoolwork, controlling your emotions, and more with these ten captivating lessons.</p><p><br></p><p>Start with brief but meaningful statements; flawless grammar is not necessary. The first step in enhancing your English and improving your relationship with your child is this course.</p>",
+  "hasLiveClass": false,
+  "hasRecordedClass": true,
+  "displayOrder": 11,
+  "topics": [
+    "Speak English in daily routines like mornings, meals, and study time.",
+    "Encourage your child’s learning and confidence with supportive phrases.",
+    "Use polite instructions and guide your child with kindness.",
+    "Communicate emotions and discipline positively in English.",
+    "Talk about your family and experiences using simple English.",
+    "Practice English daily using real-life situations at home."
+  ],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "paid",
+    "price": 300,
+    "offerPrice": 250
+  },
+  "liveClass": [],
+  "lesson": [
+    {
+      "$oid": "68dfc8368c9f43ad16763520"
+    },
+    {
+      "$oid": "68e1f5848c9f43ad167911b1"
+    },
+    {
+      "$oid": "68e206ee8c9f43ad16792756"
+    },
+    {
+      "$oid": "68e208a98c9f43ad16792b94"
+    },
+    {
+      "$oid": "68e20a0c8c9f43ad16792e5a"
+    },
+    {
+      "$oid": "68e20e988c9f43ad16793444"
+    },
+    {
+      "$oid": "68e20fec8c9f43ad167935de"
+    },
+    {
+      "$oid": "68e210ec8c9f43ad16793719"
+    },
+    {
+      "$oid": "68e211cd8c9f43ad16793829"
+    },
+    {
+      "$oid": "68e2144d8c9f43ad16793b2b"
+    }
+  ],
+  "accessDuration": 2592000,
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "courseDuration": 1209600,
+  "seatLimit": 30,
+  "cover": {
+    "$oid": "68dfc9438c9f43ad16763665"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "difficultyLevel": "intermediate",
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "everyday-english-for-parents-p",
+  "createdAt": {
+    "$date": "2025-10-03T13:03:04.422Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-08T04:14:08.285Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e5e4a5154935f886048649"
+  },
+  "title": "IELTS Reading Quick Strategies - P",
+  "shortDescription": "IELTS Reading Quick Strategies — A fast, focused course to boost your score with repeatable tactics: skim, scan, read for detail, and master T/F/NG, Matching Headings, MCQs, and gap-fills.",
+  "description": "<p>Master the must-know tactics to boost your Reading band in minimal time. This fast, focused course teaches you how to <strong>skim for gist, scan for keywords, and read for detail</strong>, with proven methods for <strong>T/F/NG &amp; Yes/No/Not Given, Matching Headings, MCQs, and gap-fills</strong>. Each lesson includes a short demo, a timed mini-drill, and quick feedback so you can apply strategies immediately. Ideal for busy learners aiming for <strong>Band 6–8</strong> who want practical shortcuts, error-traps to avoid, and a repeatable plan for test day.</p>",
+  "hasLiveClass": false,
+  "hasRecordedClass": true,
+  "displayOrder": 7,
+  "topics": [
+    "A repeatable game plan for the 60-minute test (how to split time, when to skip, how to guess smartly).",
+    "Skimming & scanning mastery to find gist, keywords, names, dates, and numbers fast.",
+    "Detail reading techniques to avoid traps and confirm answers efficiently.",
+    "T/F/NG & Yes/No/Not Given: a step-by-step method to judge facts vs. opinions and spot “Not Given.”",
+    "Matching Headings: identify main ideas vs. examples and choose between close options."
+  ],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "paid",
+    "price": 200,
+    "offerPrice": 150
+  },
+  "liveClass": [],
+  "lesson": [
+    {
+      "$oid": "68dfdee28c9f43ad1676508c"
+    },
+    {
+      "$oid": "68dff59c8c9f43ad16767487"
+    }
+  ],
+  "accessDuration": 1764000,
+  "category": [
+    {
+      "$oid": "683d5084f4a9bf6b14989156"
+    }
+  ],
+  "courseDuration": 2592000,
+  "seatLimit": 30,
+  "cover": {
+    "$oid": "68dfdbd18c9f43ad16764cc4"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "difficultyLevel": "advanced",
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "ielts-reading-quick-strategies-p",
+  "createdAt": {
+    "$date": "2025-10-03T14:34:30.179Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-08T04:13:08.393Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e5e6b2154935f88604864a"
+  },
+  "title": "IELTS Writing Common Mistakes & Solutions - P",
+  "shortDescription": "A fast, hands-on guide to fixing the errors that quietly lower your band: weak overviews, unclear paragraphing, vague vocabulary, grammar slips, and off-topic ideas.",
+  "description": "<p>Stop losing easy points. This practical course pinpoints the errors that most candidates make in <strong>Task 1</strong> (data/diagram description) and <strong>Task 2</strong> (essay)—then shows you exactly how to fix them. You’ll learn to avoid <strong>off-topic answers, weak overviews, poor paragraphing, repetition, vague vocabulary, grammar slips</strong>, and <strong>timing traps</strong>. Each lesson pairs a <strong>typical mistake</strong> with a <strong>clear fix</strong>, model rewrites, and quick checklists you can apply immediately.</p><p><strong>You’ll get:</strong></p><ul><li>High-impact fixes for <strong>Task Achievement, Coherence &amp; Cohesion, Lexical Resource,</strong> and <strong>Grammar</strong></li><li>Rewrite demos for band-lifting introductions, overviews, and body paragraphs</li><li>“Before → After” examples, sentence templates, and editing checklists</li><li>Timed mini-drills to practice under real exam pressure</li></ul><p><br></p><p><strong>Best for:</strong> IELTS Academic/General candidates targeting <strong>Band 6–8</strong> who want fast, measurable improvements through smart corrections—not more theory.</p>",
+  "hasLiveClass": true,
+  "hasRecordedClass": true,
+  "displayOrder": 8,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "paid",
+    "price": 250,
+    "offerPrice": 200
+  },
+  "liveClass": [
+    {
+      "$oid": "68dffd8f8c9f43ad1676986c"
+    }
+  ],
+  "lesson": [
+    {
+      "$oid": "68dffaa58c9f43ad167694d5"
+    },
+    {
+      "$oid": "68e000968c9f43ad16769c14"
+    }
+  ],
+  "accessDuration": 7776000,
+  "category": [
+    {
+      "$oid": "66c577ea7b59fe8218f645c8"
+    }
+  ],
+  "courseDuration": 16588800,
+  "seatLimit": 40,
+  "cover": {
+    "$oid": "68dffc9f8c9f43ad16769736"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "difficultyLevel": "intermediate",
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "ielts-writing-common-mistakes-solutions-p",
+  "createdAt": {
+    "$date": "2025-10-03T16:47:29.547Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-08T10:04:28.670Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e5e982154935f88604864b"
+  },
+  "title": "IELTS Speaking Daily Practice - P",
+  "shortDescription": "IELTS Speaking Daily Practice — Bite-size, daily drills for Part 1, Part 2, and Part 3 to build fluency, coherence, vocabulary, grammar, and pronunciation.",
+  "description": "<p><strong>IELTS Speaking Daily Practice</strong></p><p>Build confident, natural speech one day at a time. This course gives you <strong>short, structured daily drills</strong> that mirror the real test—Part 1 warm-ups, Part 2 cue cards with planning frames, and Part 3 discussion questions—so you improve <strong>fluency, coherence, vocabulary, grammar, and pronunciation</strong> without overwhelm. Each session includes a <strong>timed practice</strong>, a <strong>model scaffold</strong> (how to start, extend, and conclude), and a <strong>self-check rubric</strong> mapped to IELTS band descriptors.</p><p><br></p><p><strong>Best for:</strong> Academic or General candidates targeting <strong>Band 6–8</strong> who want consistent, bite-size practice and clear, repeatable speaking frameworks.</p>",
+  "hasLiveClass": true,
+  "hasRecordedClass": true,
+  "displayOrder": 9,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "paid",
+    "price": 400,
+    "offerPrice": 375
+  },
+  "liveClass": [
+    {
+      "$oid": "68e009c38c9f43ad1676c372"
+    }
+  ],
+  "lesson": [
+    {
+      "$oid": "68e007ee8c9f43ad1676c125"
+    }
+  ],
+  "accessDuration": 4320000,
+  "category": [
+    {
+      "$oid": "66e2a16fc3b390df7ba4950b"
+    }
+  ],
+  "courseDuration": 8640000,
+  "seatLimit": 50,
+  "cover": {
+    "$oid": "68e009238c9f43ad1676c29a"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "difficultyLevel": "intermediate",
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "ielts-speaking-daily-practice-p",
+  "createdAt": {
+    "$date": "2025-10-03T17:37:26.272Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-08T04:33:50.913Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e5ea18154935f88604864c"
+  },
+  "title": "IELTS Listening Foundation Techniques - P",
+  "shortDescription": "A short, skills-first course to master the basics: active prediction, keyword tracking, note-taking, and clean answer writing across all 4 sections.",
+  "description": "<p>Build rock-solid listening skills from the ground up. This course teaches the core techniques every candidate needs before chasing speed: <strong>active prediction, keyword tracking, note-taking, and error-proof answer writing</strong>. You’ll learn how to handle all four sections—<strong>conversations, monologues, training talks, and academic lectures</strong>—with simple routines you can repeat under pressure.</p><p><strong>What you’ll get</strong></p><ul><li>Step-by-step methods for <strong>MCQ, matching, map/diagram labeling, and gap-fills</strong></li><li><strong>Accent awareness</strong> (UK, AU, NA) with stress, connected speech, and number/date recognition</li><li><strong>Preview–Listen–Confirm</strong> framework to use pauses effectively and avoid distractors</li><li>Clean <strong>answer formatting</strong> (spelling, hyphenation, word-limit rules) and common trap avoidance</li><li>Short drills with transcripts, keyword highlights, and self-check rubrics</li></ul><p><br></p><p><strong>Best for:</strong> Beginners to lower-intermediate learners or anyone needing a clear foundation before advanced strategy and full mocks.</p>",
+  "hasLiveClass": false,
+  "hasRecordedClass": true,
+  "displayOrder": 10,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "paid",
+    "price": 499
+  },
+  "liveClass": [],
+  "lesson": [
+    {
+      "$oid": "68e00b3d8c9f43ad1676c53b"
+    }
+  ],
+  "accessDuration": 500400,
+  "category": [
+    {
+      "$oid": "66c577ec7b59fe8218f645ce"
+    }
+  ],
+  "courseDuration": 601200,
+  "seatLimit": 45,
+  "cover": {
+    "$oid": "68e00cec8c9f43ad1676c746"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "difficultyLevel": "advanced",
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "ielts-listening-foundation-techniques-p",
+  "createdAt": {
+    "$date": "2025-10-03T17:51:02.913Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-08T04:36:29.421Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e621affb0179761e158697"
+  },
+  "title": "test course",
+  "shortDescription": "test",
+  "description": "",
+  "hasLiveClass": false,
+  "hasRecordedClass": true,
+  "displayOrder": 2,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    },
+    {
+      "$oid": "67cd1839f3019dccb5e9a642"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "liveClass": [],
+  "lesson": [
+    {
+      "$oid": "68e24a9f78315e8514893bde"
+    },
+    {
+      "$oid": "68dfc8368c9f43ad16763520"
+    },
+    {
+      "$oid": "68e2144d8c9f43ad16793b2b"
+    }
+  ],
+  "accessDuration": 2592000,
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "courseDuration": 5184000,
+  "seatLimit": 20,
+  "difficultyLevel": "beginner",
+  "cover": null,
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "active": false,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "test-course",
+  "createdAt": {
+    "$date": "2025-10-08T08:32:47.387Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-08T08:32:47.387Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e755bcbf94189d03383a62"
+  },
+  "title": "Test with all lesson types",
+  "shortDescription": "Test short description",
+  "description": "<p>Test description</p>",
+  "hasLiveClass": true,
+  "hasRecordedClass": true,
+  "displayOrder": 5,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "liveClass": [
+    {
+      "$oid": "68f0761841410e21b7120174"
+    }
+  ],
+  "lesson": [
+    {
+      "$oid": "68e75373bf94189d0338379a"
+    },
+    {
+      "$oid": "68e75511bf94189d03383995"
+    }
+  ],
+  "accessDuration": 1728000,
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "courseDuration": 3456000,
+  "seatLimit": 30,
+  "cover": {
+    "$oid": "68905d2067ec42775f28fb70"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "difficultyLevel": "beginner",
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "course-for-testing-with-all-lesson-types",
+  "createdAt": {
+    "$date": "2025-10-09T06:27:08.263Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-16T04:44:12.521Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68eb3803823868c54e9aadd6"
+  },
+  "title": "Course With Assignment (For Assignment test)",
+  "shortDescription": "Test Short Description",
+  "description": "<p>\t</p>",
+  "hasLiveClass": false,
+  "hasRecordedClass": true,
+  "displayOrder": 13,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "liveClass": [],
+  "lesson": [
+    {
+      "$oid": "68e24a9f78315e8514893bde"
+    }
+  ],
+  "accessDuration": 2592000,
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "courseDuration": 4320000,
+  "seatLimit": 40,
+  "cover": {
+    "$oid": "68ea48bb823868c54e998d07"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "difficultyLevel": "beginner",
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "course-with-two-assignments",
+  "createdAt": {
+    "$date": "2025-10-12T05:09:23.333Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-12T09:07:51.028Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68ec9d43a674bdd6e6054904"
+  },
+  "title": "Course with live class",
+  "shortDescription": "etc",
+  "description": "",
+  "hasLiveClass": true,
+  "hasRecordedClass": false,
+  "displayOrder": 2,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "67cd1839f3019dccb5e9a642"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "liveClass": [
+    {
+      "$oid": "68ec9ceda674bdd6e605489a"
+    }
+  ],
+  "lesson": [],
+  "accessDuration": 2592000,
+  "category": [
+    {
+      "$oid": "66c577e67b59fe8218f645bf"
+    }
+  ],
+  "courseDuration": 1728000,
+  "seatLimit": 40,
+  "difficultyLevel": "beginner",
+  "cover": {
+    "$oid": "68f721c47b64cf56349f9ba7"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "course-live-class",
+  "createdAt": {
+    "$date": "2025-10-13T06:33:39.267Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-21T06:01:55.042Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68eccf8fa674bdd6e60586eb"
+  },
+  "title": "Course for Live Class Recording Test",
+  "shortDescription": "Test",
+  "description": "<p>Test</p>",
+  "hasLiveClass": true,
+  "hasRecordedClass": true,
+  "displayOrder": 2,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "liveClass": [
+    {
+      "$oid": "68dffd8f8c9f43ad1676986c"
+    },
+    {
+      "$oid": "68eccf25a674bdd6e605866c"
+    }
+  ],
+  "lesson": [
+    {
+      "$oid": "68e007ee8c9f43ad1676c125"
+    }
+  ],
+  "accessDuration": 1728000,
+  "category": [
+    {
+      "$oid": "66c577e67b59fe8218f645bf"
+    }
+  ],
+  "courseDuration": 2592000,
+  "seatLimit": 20,
+  "difficultyLevel": "beginner",
+  "cover": {
+    "$oid": "68f60a540bb119e7a2170021"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "course-for-live-class-recording-test",
+  "createdAt": {
+    "$date": "2025-10-13T10:08:15.185Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-20T10:09:33.084Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68edf5625fcb2181963529cc"
+  },
+  "title": "Duplicate Course for testing with all lesson types #2",
+  "shortDescription": "Test short description",
+  "description": "<p>Test description</p>",
+  "hasLiveClass": true,
+  "hasRecordedClass": true,
+  "displayOrder": 5,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "liveClass": [
+    {
+      "$oid": "68e667f08181b054a11df347"
+    }
+  ],
+  "lesson": [
+    {
+      "$oid": "68e75373bf94189d0338379a"
+    },
+    {
+      "$oid": "68e75511bf94189d03383995"
+    }
+  ],
+  "accessDuration": 1728000,
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "courseDuration": 3456000,
+  "seatLimit": 30,
+  "cover": {
+    "$oid": "68905d2067ec42775f28fb70"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "difficultyLevel": "beginner",
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "duplicate-course-for-testing-with-all-lesson-types-2",
+  "createdAt": {
+    "$date": "2025-10-09T06:27:08.263Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-09T06:27:10.936Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f5cf1895fc82365e4ccf6d"
+  },
+  "title": "English Communication for Parent",
+  "shortDescription": "Develop your ability to speak English fluently in a variety of contexts, such as family introductions, meetings at school, and crises.",
+  "description": "<p>The purpose of this online course is to help Bangladeshi parents become more confident communicators in English in everyday scenarios.</p><p>Every session demonstrates how to interact in everyday settings like school, shopping, doctor's appointments, and family time via basic, realistic conversations between parents, kids, and others.</p><p>You will discover how to use English spontaneously without worrying about grammar through brief, narrative-based video tutorials. Speaking English as a tool to connect, not simply to learn, can give you more confidence when interacting with family members, friends, instructors, and even your child.</p>",
+  "hasLiveClass": true,
+  "hasRecordedClass": true,
+  "displayOrder": 2,
+  "topics": [
+    "Speak English confidently in common situations (home, school, market, doctor’s office, travel).",
+    "Communicate politely and clearly with teachers, neighbors, and family.",
+    "Help your child learn English through daily conversations.",
+    "Use simple English for health, shopping, and emergency situations.",
+    "Practice real-life English in safe, story-based lessons.",
+    "Build natural pronunciation and speaking rhythm through repetition."
+  ],
+  "faq": [
+    {
+      "title": "Is this course only for parents who already know English?",
+      "answer": "<p>No. It’s made for beginners; all lessons use simple English with Bangla explanations.</p>"
+    },
+    {
+      "title": "Are all the lessons video-based?",
+      "answer": "<p>Yes! Every lesson is a short, story-style video showing real-life conversations.</p>"
+    },
+    {
+      "title": "How long is the course?",
+      "answer": "<p>The course includes 10 lessons, which are self-paced. Each video is 6–10 minutes long with easy practice parts.</p>"
+    },
+    {
+      "title": "What if I make mistakes while speaking?",
+      "answer": "<p>That’s okay! The goal is to practice not perfection.</p>"
+    },
+    {
+      "title": "Will my child also learn from this?",
+      "answer": "<p>Yes. Each lesson includes parent-child examples you can practice together.</p>"
+    },
+    {
+      "title": "Are there practice materials?",
+      "answer": "<p>Yes, each lesson ends with short practice and homework prompts for real use at home.</p>"
+    }
+  ],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "paid",
+    "price": 2500
+  },
+  "liveClass": [
+    {
+      "$oid": "68f5d3f495fc82365e4cd5af"
+    }
+  ],
+  "lesson": [
+    {
+      "$oid": "68f5cb9395fc82365e4ccafb"
+    },
+    {
+      "$oid": "68f5cc2595fc82365e4ccbae"
+    },
+    {
+      "$oid": "68f5bfa582c0b33b3d42dd60"
+    },
+    {
+      "$oid": "68f5c04482c0b33b3d42de22"
+    },
+    {
+      "$oid": "68f5c0c982c0b33b3d42ded3"
+    },
+    {
+      "$oid": "68f5c15a82c0b33b3d42df83"
+    },
+    {
+      "$oid": "68f5c1df82c0b33b3d42e03d"
+    },
+    {
+      "$oid": "68f5c26f82c0b33b3d42e0f8"
+    },
+    {
+      "$oid": "68f5c30b82c0b33b3d42e1c9"
+    },
+    {
+      "$oid": "68f5c44882c0b33b3d42e348"
+    },
+    {
+      "$oid": "68f5c9f295fc82365e4cc8d3"
+    },
+    {
+      "$oid": "68f5cab495fc82365e4cc9d2"
+    },
+    {
+      "$oid": "68f5cb3695fc82365e4cca83"
+    }
+  ],
+  "accessDuration": 5184000,
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "courseDuration": 2419200,
+  "seatLimit": 40,
+  "difficultyLevel": "intermediate",
+  "cover": {
+    "$oid": "68f7213b7b64cf56349f9ac3"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "english-communication-for-parents",
+  "createdAt": {
+    "$date": "2025-10-20T05:56:40.065Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-21T06:00:38.578Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f88438faa689434d6532c4"
+  },
+  "title": "test course for testing recorded price",
+  "shortDescription": "test",
+  "description": "",
+  "hasLiveClass": true,
+  "hasRecordedClass": false,
+  "displayOrder": 1,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "paid",
+    "price": 4000
+  },
+  "liveClass": [
+    {
+      "$oid": "68f5d3f495fc82365e4cd5af"
+    }
+  ],
+  "lesson": [],
+  "accessDuration": 2592000,
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "courseDuration": 2592000,
+  "seatLimit": 1,
+  "difficultyLevel": "beginner",
+  "cover": null,
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "active": false,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "test-course-for-testing-recorded-price",
+  "createdAt": {
+    "$date": "2025-10-22T07:14:00.507Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-22T07:16:17.002Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f8a42084744527005712da"
+  },
+  "title": "test course for testing offerprice",
+  "shortDescription": "test",
+  "description": "<p>te</p>",
+  "hasLiveClass": true,
+  "hasRecordedClass": false,
+  "displayOrder": 2,
+  "difficultyLevel": "beginner",
+  "topics": [],
+  "faq": [],
+  "pricing": {
+    "type": "paid",
+    "price": 4
+  },
+  "liveClass": [
+    {
+      "$oid": "68f5d3f495fc82365e4cd5af"
+    }
+  ],
+  "lesson": [],
+  "accessDuration": 2592000,
+  "category": [
+    {
+      "$oid": "66c577e97b59fe8218f645c5"
+    }
+  ],
+  "courseDuration": 2592000,
+  "seatLimit": 1,
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "active": false,
+  "cover": null,
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "test-course-for-testing-offerprice",
+  "createdAt": {
+    "$date": "2025-10-22T09:30:08.991Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-22T09:30:08.991Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68fdafc5b3024ffed0170b50"
+  },
+  "title": "ABN Paget",
+  "shortDescription": "ABN Paget: An intermediate English course with live classes and focused spoken English lessons to boost your confidence and fluency.",
+  "description": "",
+  "hasLiveClass": true,
+  "hasRecordedClass": true,
+  "displayOrder": 1,
+  "topics": [
+    "nothing",
+    "nothing more",
+    "more nothing"
+  ],
+  "faq": [
+    {
+      "title": "Should I Enroll ?",
+      "answer": "<p>No. It's a test course intended for developers only.</p>"
+    }
+  ],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "paid",
+    "price": 399,
+    "offerPrice": 299
+  },
+  "liveClass": [
+    {
+      "$oid": "68fdaf68b3024ffed0170add"
+    }
+  ],
+  "lesson": [
+    {
+      "$oid": "68f5cc2595fc82365e4ccbae"
+    }
+  ],
+  "accessDuration": 2592000,
+  "category": [
+    {
+      "$oid": "67345b1544b617720203cf5c"
+    }
+  ],
+  "courseDuration": 2160000,
+  "seatLimit": 1,
+  "cover": {
+    "$oid": "68fa1a711fec07a49b2e0437"
+  },
+  "banner": {
+    "$oid": "68e73e988181b054a11ef57a"
+  },
+  "difficultyLevel": "advanced",
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "abn-paget",
+  "createdAt": {
+    "$date": "2025-10-26T05:21:09.233Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-26T05:21:12.974Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68ff405d89f6ba8d14953bca"
+  },
+  "title": "test course for testing video banner",
+  "shortDescription": "test What is Lorem Ipsum?\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown print",
+  "description": "",
+  "hasLiveClass": true,
+  "hasRecordedClass": false,
+  "displayOrder": 2,
+  "difficultyLevel": "beginner",
+  "topics": [],
+  "faq": [],
+  "pricing": {
+    "type": "free"
+  },
+  "liveClass": [
+    {
+      "$oid": "68fdaf68b3024ffed0170add"
+    }
+  ],
+  "lesson": [],
+  "accessDuration": 2592000,
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "courseDuration": 2592000,
+  "seatLimit": 4,
+  "cover": {
+    "$oid": "68fa1a711fec07a49b2e0437"
+  },
+  "banner": {
+    "$oid": "68f5aa25db6ecadedc549590"
+  },
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "active": false,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "test-course-for-testing-video-banner",
+  "createdAt": {
+    "$date": "2025-10-27T09:50:21.546Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-02T06:41:19.068Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+}]
