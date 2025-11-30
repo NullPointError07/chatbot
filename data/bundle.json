@@ -1,0 +1,526 @@
+[{
+  "_id": {
+    "$oid": "68f9b3d79bea090fff6fa417"
+  },
+  "title": "Test Bundle For testing price",
+  "shortDescription": "test description test description test description test description",
+  "description": "<p>test</p>",
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "price": 4000,
+  "liveClass": [],
+  "lesson": [],
+  "course": [
+    {
+      "$oid": "68f5cf1895fc82365e4ccf6d"
+    },
+    {
+      "$oid": "68e5e20c154935f886048648"
+    },
+    {
+      "$oid": "68e5e4a5154935f886048649"
+    },
+    {
+      "$oid": "68e5e6b2154935f88604864a"
+    },
+    {
+      "$oid": "68e5e982154935f88604864b"
+    },
+    {
+      "$oid": "68e5ea18154935f88604864c"
+    }
+  ],
+  "studentType": "student",
+  "exam": [],
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "offerPrice": 1,
+  "cover": {
+    "$oid": "690f8356b84f4f44ee848b8a"
+  },
+  "banner": {
+    "$oid": "6908941621174a863d5cca4d"
+  },
+  "url": "test-bundle-for-testing-price",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-23T04:49:27.839Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-20T12:12:35.286Z"
+  },
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2025-11-20T12:19:47.387Z"
+  },
+  "noOfVideos": 32,
+  "noOfLiveClasses": 3,
+  "noOfMockTests": 2,
+  "noOfAssignments": 12
+},
+{
+  "_id": {
+    "$oid": "68ff41ee89f6ba8d14953dad"
+  },
+  "title": "test bundle for testing video banner",
+  "shortDescription": "test test test test test test test test test test test test test test test test test test",
+  "description": "<p>test</p>",
+  "faq": [],
+  "price": 4000,
+  "liveClass": [],
+  "lesson": [],
+  "course": [
+    {
+      "$oid": "68f5cf1895fc82365e4ccf6d"
+    }
+  ],
+  "studentType": "student",
+  "exam": [],
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "cover": {
+    "$oid": "68f721c47b64cf56349f9ba7"
+  },
+  "banner": {
+    "$oid": "68f4d924237c497b9585395f"
+  },
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "active": true,
+  "url": "test-bundle-for-testing-video-banner",
+  "createdAt": {
+    "$date": "2025-10-27T09:57:02.600Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-05T05:58:30.700Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "offerPrice": 3400
+},
+{
+  "_id": {
+    "$oid": "6907023ed7c1b05b5ff90482"
+  },
+  "title": "test bundle for testing short desc",
+  "shortDescription": "What is Lorem Ipsum?\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the indust",
+  "description": "<p>test</p>",
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "price": 40000,
+  "liveClass": [],
+  "lesson": [],
+  "course": [
+    {
+      "$oid": "68fdafc5b3024ffed0170b50"
+    }
+  ],
+  "studentType": "student",
+  "exam": [
+    {
+      "$oid": "6901fd363354ecb0b214c0df"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "banner": null,
+  "cover": null,
+  "url": "test-bundle-for-testing-short-desc",
+  "active": false,
+  "createdAt": {
+    "$date": "2025-11-02T07:03:26.898Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-02T07:04:28.734Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6909d894dd0760152f04eab2"
+  },
+  "title": "Another test bundle to do whatever",
+  "shortDescription": "Another test bundle to do whatever Another test bundle to do whatever",
+  "description": "<p>Another test bundle to do whatever Another test bundle to do whatever</p>",
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "price": 10000,
+  "liveClass": [
+    {
+      "$oid": "69009839f5dc75325f9a1b93"
+    }
+  ],
+  "lesson": [
+    {
+      "$oid": "68eb3712823868c54e9aacb3"
+    }
+  ],
+  "course": [
+    {
+      "$oid": "68f5cf1895fc82365e4ccf6d"
+    },
+    {
+      "$oid": "68e24b3578315e8514893c93"
+    }
+  ],
+  "studentType": "student",
+  "exam": [
+    {
+      "$oid": "68fdd7dcb3024ffed0173ce6"
+    },
+    {
+      "$oid": "6901fd363354ecb0b214c0df"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "offerPrice": 1000,
+  "banner": null,
+  "cover": null,
+  "url": "another-test-bundle-to-do-whatever",
+  "active": false,
+  "noOfVideos": 16,
+  "noOfMockTests": 3,
+  "noOfLiveClasses": 2,
+  "noOfAssignments": 13,
+  "createdAt": {
+    "$date": "2025-11-04T10:42:28.708Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-04T11:39:02.815Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "691168c2147248aa85ae0db5"
+  },
+  "title": "test bundle to test lesson and live class",
+  "shortDescription": "this is a short decription that",
+  "description": "<p>required</p>",
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "price": 1200,
+  "liveClass": [
+    {
+      "$oid": "68edddac2ba343a780ccad3f"
+    }
+  ],
+  "lesson": [
+    {
+      "$oid": "68eb3712823868c54e9aacb3"
+    }
+  ],
+  "course": [
+    {
+      "$oid": "68fdafc5b3024ffed0170b50"
+    }
+  ],
+  "studentType": "student",
+  "exam": [],
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "banner": null,
+  "cover": null,
+  "url": "test-bundle-to-test-lesson-and-live-class",
+  "active": false,
+  "noOfVideos": 0,
+  "noOfMockTests": 0,
+  "noOfLiveClasses": 0,
+  "noOfAssignments": 0,
+  "createdAt": {
+    "$date": "2025-11-10T04:23:30.249Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-10T04:23:34.545Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "691418b32b04a129eba25273"
+  },
+  "title": "test bundle to test in bundle courses 1",
+  "shortDescription": "test test test testtest testtest testtest testtest test",
+  "description": "<p>test</p>",
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "price": 4000,
+  "liveClass": [],
+  "lesson": [],
+  "course": [
+    {
+      "$oid": "6914178e2b04a129eba25113"
+    }
+  ],
+  "studentType": "student",
+  "exam": [],
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "cover": {
+    "$oid": "690f8356b84f4f44ee848b8b"
+  },
+  "banner": {
+    "$oid": "690f8356b84f4f44ee848b8b"
+  },
+  "url": "test-bundle-to-test-in-bundle-courses-1",
+  "active": false,
+  "noOfVideos": 0,
+  "noOfMockTests": 0,
+  "noOfLiveClasses": 0,
+  "noOfAssignments": 0,
+  "createdAt": {
+    "$date": "2025-11-12T05:18:43.058Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-12T05:46:36.624Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "69141fb12b04a129eba25ada"
+  },
+  "title": "test bundle to test only bundle courses 2",
+  "shortDescription": "test test test test test test test test test test",
+  "description": "<p>test</p>",
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "price": 45,
+  "liveClass": [
+    {
+      "$oid": "69009839f5dc75325f9a1b93"
+    }
+  ],
+  "lesson": [
+    {
+      "$oid": "68eb3712823868c54e9aacb3"
+    }
+  ],
+  "course": [
+    {
+      "$oid": "69141eeb2b04a129eba259e8"
+    },
+    {
+      "$oid": "6914178e2b04a129eba25113"
+    }
+  ],
+  "studentType": "student",
+  "exam": [],
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "banner": null,
+  "cover": null,
+  "url": "test-bundle-to-test-only-bundle-courses-2",
+  "active": false,
+  "noOfVideos": 3,
+  "noOfMockTests": 0,
+  "noOfLiveClasses": 2,
+  "noOfAssignments": 2,
+  "createdAt": {
+    "$date": "2025-11-12T05:48:33.885Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-12T05:49:37.588Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "691426542b04a129eba262ef"
+  },
+  "title": "test bundle to test bundle courses t1",
+  "shortDescription": "test test test test test test test",
+  "description": "<p>test</p>",
+  "faq": [],
+  "price": 4500,
+  "liveClass": [],
+  "lesson": [],
+  "course": [
+    {
+      "$oid": "6914178e2b04a129eba25113"
+    }
+  ],
+  "studentType": "student",
+  "exam": [],
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "active": false,
+  "banner": null,
+  "cover": null,
+  "url": "test-bundle-to-test-bundle-courses-t1",
+  "noOfVideos": 0,
+  "noOfMockTests": 0,
+  "noOfLiveClasses": 1,
+  "noOfAssignments": 0,
+  "createdAt": {
+    "$date": "2025-11-12T06:16:52.231Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-12T09:28:37.475Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6914569855c3b2ec31ca741f"
+  },
+  "title": "test bundle for testing in bundle courses",
+  "shortDescription": "test test test test test test test test test test test",
+  "faq": [],
+  "price": 4500,
+  "liveClass": [],
+  "lesson": [],
+  "course": [
+    {
+      "$oid": "69141eeb2b04a129eba259e8"
+    },
+    {
+      "$oid": "6914178e2b04a129eba25113"
+    }
+  ],
+  "studentType": "student",
+  "exam": [],
+  "category": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "active": false,
+  "banner": null,
+  "cover": null,
+  "url": "test-bundle-for-testing-in-bundle-courses",
+  "noOfVideos": 2,
+  "noOfMockTests": 0,
+  "noOfLiveClasses": 1,
+  "noOfAssignments": 0,
+  "createdAt": {
+    "$date": "2025-11-12T09:42:48.895Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-12T09:42:48.895Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "691f091566227a4d5e6958dc"
+  },
+  "title": "IELTS Foundation To Fluency",
+  "shortDescription": "Test Test Test Test Test Test Test Test Test",
+  "description": "<p>Test</p>",
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "price": 6000,
+  "liveClass": [],
+  "lesson": [],
+  "course": [
+    {
+      "$oid": "68e5e4a5154935f886048649"
+    },
+    {
+      "$oid": "68e5e6b2154935f88604864a"
+    },
+    {
+      "$oid": "68e5e982154935f88604864b"
+    },
+    {
+      "$oid": "68e5ea18154935f88604864c"
+    }
+  ],
+  "studentType": "student",
+  "exam": [],
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "cover": {
+    "$oid": "691f08ea66227a4d5e6958a0"
+  },
+  "banner": {
+    "$oid": "691f08ea66227a4d5e6958a0"
+  },
+  "url": "ielts-foundation-to-fluency",
+  "active": true,
+  "noOfVideos": 8,
+  "noOfMockTests": 1,
+  "noOfLiveClasses": 2,
+  "noOfAssignments": 0,
+  "createdAt": {
+    "$date": "2025-11-20T12:27:01.942Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-20T12:27:01.942Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+}]

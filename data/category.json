@@ -1,0 +1,1268 @@
+[{
+  "_id": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "title": "IELTS",
+  "shortDescription": "Master all four IELTS modules through our courses, tests and expert tips to boost your band score.",
+  "displayOrder": 2,
+  "active": true,
+  "parent": null,
+  "icon": {
+    "$oid": "68375707e41f6053d241670b"
+  },
+  "cover": {
+    "$oid": "6715ff3eca806cbbe3dd56dd"
+  },
+  "banner": {
+    "$oid": "673077d1ae81d63521458748"
+  },
+  "createdAt": {
+    "$date": "2024-08-21T05:15:16.812Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-05-28T18:33:50.133Z"
+  },
+  "url": "ielts",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c577e67b59fe8218f645bf"
+  },
+  "title": "Academic Reading",
+  "shortDescription": "Academic Reading is the process of reading academic texts.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "683d5084f4a9bf6b14989156"
+  },
+  "icon": {
+    "$oid": "67a8964e22cd104881330b10"
+  },
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:15:18.413Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-02-09T11:49:40.343Z"
+  },
+  "url": "reading/reading/academic-reading",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c577e67b59fe8218f645c0"
+  },
+  "title": "General Reading",
+  "shortDescription": "General Reading is the process of reading general texts.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "683d5084f4a9bf6b14989156"
+  },
+  "icon": {
+    "$oid": "67a8966722cd104881330b39"
+  },
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:15:18.816Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-02-09T11:50:06.020Z"
+  },
+  "url": "reading/reading/general-reading",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c577e77b59fe8218f645c1"
+  },
+  "title": "Comprehensive Reading",
+  "shortDescription": "Comprehensive Reading is the process of reading comprehensive texts.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "683d5084f4a9bf6b14989156"
+  },
+  "icon": {
+    "$oid": "67a8967e22cd104881330b5f"
+  },
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:15:19.473Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-02-09T11:50:28.355Z"
+  },
+  "url": "reading/reading/comprehensive-reading",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c577e77b59fe8218f645c2"
+  },
+  "title": "Narrative Reading",
+  "shortDescription": "Narrative Reading is the process of reading narrative texts.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "683d5084f4a9bf6b14989156"
+  },
+  "icon": {
+    "$oid": "67a8969422cd104881330b87"
+  },
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:15:19.853Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-02-09T11:50:50.045Z"
+  },
+  "url": "reading/reading/reading/narrative-reading",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c577e87b59fe8218f645c3"
+  },
+  "title": "Skimming & Scanning",
+  "shortDescription": "Skimming & Scanning is the process of reading skimming & scanning texts.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "683d5084f4a9bf6b14989156"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:15:20.253Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-09-07T06:51:04.315Z"
+  },
+  "url": "reading/skimming-&-scanning",
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2024-09-11T11:05:30.915Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c577e97b59fe8218f645c5"
+  },
+  "title": "Academic Writing",
+  "shortDescription": "Academic Writing is the process of writing academic texts.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "66c577ea7b59fe8218f645c8"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:15:21.071Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-01-28T09:08:54.813Z"
+  },
+  "url": "writing/academic-writing",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c577e97b59fe8218f645c6"
+  },
+  "title": "Formal Writing",
+  "shortDescription": "Formal Writing is the process of writing formal texts.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "66c577ea7b59fe8218f645c8"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:15:21.484Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-01-28T09:08:53.484Z"
+  },
+  "url": "writing/formal-writing",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c577e97b59fe8218f645c7"
+  },
+  "title": "Narrative Writing",
+  "shortDescription": "Narrative Writing is the process of writing narrative texts.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "66c577ea7b59fe8218f645c8"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:15:21.887Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-01-28T09:08:52.296Z"
+  },
+  "url": "writing/narrative-writing",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c577ea7b59fe8218f645c8"
+  },
+  "title": "Writing",
+  "shortDescription": "The IELTS Writing module evaluates your ability to present ideas clearly, organize information effectively, and use accurate grammar and vocabulary.",
+  "displayOrder": 2,
+  "active": true,
+  "parent": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "icon": {
+    "$oid": "673491779f10370a8efa659a"
+  },
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:15:22.197Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-12-12T06:14:10.205Z"
+  },
+  "url": "ielts/ielts/ielts/writing",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c577eb7b59fe8218f645ca"
+  },
+  "title": "Introduction & Interview",
+  "shortDescription": "Introduction & Interview is the process of speaking introduction & interview texts.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "66e2a16fc3b390df7ba4950b"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:15:23.010Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-01-28T09:08:37.982Z"
+  },
+  "url": "speaking/introduction-&-interview",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c577eb7b59fe8218f645cb"
+  },
+  "title": "Fluency & Coherence",
+  "shortDescription": "Fluency & Coherence is the process of speaking fluency & coherence texts.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "66e2a16fc3b390df7ba4950b"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:15:23.421Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-01-28T09:08:36.486Z"
+  },
+  "url": "speaking/fluency-&-coherence",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c577eb7b59fe8218f645cc"
+  },
+  "title": "Pronunciation",
+  "shortDescription": "Pronunciation is the process of speaking pronunciation texts.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "66e2a16fc3b390df7ba4950b"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:15:23.732Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-01-28T09:08:35.139Z"
+  },
+  "url": "speaking/pronunciation",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c577ec7b59fe8218f645cd"
+  },
+  "title": "Grammatical Usage",
+  "shortDescription": "Grammatical Usage is the process of speaking grammatical usage texts.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "66e2a16fc3b390df7ba4950b"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:15:24.136Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-01-28T09:08:33.045Z"
+  },
+  "url": "speaking/grammatical-usage",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c577ec7b59fe8218f645ce"
+  },
+  "title": "Listening",
+  "shortDescription": "The IELTS Listening module assesses your ability to understand spoken English in different contexts, such as conversations, monologues, and discussions. This section includes four recordings with increasing complexity, each followed by questions to test your comprehension.",
+  "displayOrder": 4,
+  "active": true,
+  "parent": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "icon": {
+    "$oid": "67a871fc772a78e714a4ade5"
+  },
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:15:24.554Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-02-09T09:14:42.973Z"
+  },
+  "url": "ielts/ielts/listening",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c577ec7b59fe8218f645cf"
+  },
+  "title": "Academic Listening",
+  "shortDescription": "Academic Listening is the process of listening academic texts.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "66c577ec7b59fe8218f645ce"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:15:24.963Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-01-30T12:09:39.033Z"
+  },
+  "url": "listening/academic-listening",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c577ed7b59fe8218f645d0"
+  },
+  "title": "General Listening",
+  "shortDescription": "General Listening is the process of listening general texts.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "66c577ec7b59fe8218f645ce"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:15:25.272Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-01-30T12:09:37.874Z"
+  },
+  "url": "listening/general-listening",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c577ed7b59fe8218f645d1"
+  },
+  "title": "Comprehensive Listening",
+  "shortDescription": "Comprehensive Listening is the process of listening comprehensive texts.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "66c577ec7b59fe8218f645ce"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:15:25.524Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-01-30T12:09:36.800Z"
+  },
+  "url": "listening/comprehensive-listening",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c577ed7b59fe8218f645d2"
+  },
+  "title": "Narrative Listening",
+  "shortDescription": "Narrative Listening is the process of listening narrative texts.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "66c577ec7b59fe8218f645ce"
+  },
+  "icon": {
+    "$oid": "66e03c63d2a2319bef3c7272"
+  },
+  "cover": {
+    "$oid": "66e03c73d2a2319bef3c7289"
+  },
+  "banner": {
+    "$oid": "66e03c74d2a2319bef3c7297"
+  },
+  "createdAt": {
+    "$date": "2024-08-21T05:15:25.843Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-01-30T12:09:35.926Z"
+  },
+  "url": "listening/listening/narrative-listening",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66c57a16ed07b12c908fde3b"
+  },
+  "title": "English Speaking",
+  "shortDescription": "English Speaking is the process of speaking English language.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "66c57a16ed07b12c908fde3a"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:24:38.833Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-09-07T06:00:53.692Z"
+  },
+  "url": "english-learning/english-speaking",
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2024-10-02T05:05:09.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c57a18ed07b12c908fde3f"
+  },
+  "title": "English Grammar",
+  "shortDescription": "English Grammar is the process of learning English grammar.",
+  "displayOrder": 99,
+  "active": false,
+  "parent": {
+    "$oid": "66c57a16ed07b12c908fde3a"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-08-21T05:24:40.078Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-10-24T09:34:24.648Z"
+  },
+  "url": "english-learning/english-grammar",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66dee68590f2e94c3cf7f9d7"
+  },
+  "title": "IELTS Speaking 1",
+  "shortDescription": "IELTS Speaking Category 1",
+  "displayOrder": 11,
+  "active": false,
+  "parent": {
+    "$oid": "683d5084f4a9bf6b14989156"
+  },
+  "icon": {
+    "$oid": "6658614cd4a2d97f4e22a82e"
+  },
+  "cover": {
+    "$oid": "6658614cd4a2d97f4e22a82e"
+  },
+  "banner": {
+    "$oid": "6658614cd4a2d97f4e22a82e"
+  },
+  "createdAt": {
+    "$date": "2024-09-09T12:13:57.307Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-11-07T10:33:21.170Z"
+  },
+  "url": "reading/ielts/ielts-speaking-1",
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2024-11-19T12:09:10.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66dfc52b90f2e94c3cf8abf1"
+  },
+  "title": "Enim debitis nisi mi",
+  "shortDescription": "Nostrum blanditiis q",
+  "displayOrder": 21,
+  "active": true,
+  "parent": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-09-10T04:03:55.051Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-09-26T11:20:32.564Z"
+  },
+  "url": "ielts/cupidatat-nulla-dolo",
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2024-10-02T05:05:50.395Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66dfe4c7eb40f699c6b56dbc"
+  },
+  "title": "test category",
+  "shortDescription": "what are you doing",
+  "displayOrder": 2,
+  "active": false,
+  "parent": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "icon": {
+    "$oid": "6658559dd4a2d97f4e22a364"
+  },
+  "cover": {
+    "$oid": "6658614cd4a2d97f4e22a82e"
+  },
+  "banner": {
+    "$oid": "665c31d7a934be2566b64c1f"
+  },
+  "createdAt": {
+    "$date": "2024-09-10T06:18:47.596Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-11-07T06:34:18.254Z"
+  },
+  "url": "ielts/test-category",
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2024-11-13T11:52:55.570Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66e2a16fc3b390df7ba4950b"
+  },
+  "title": "Speaking",
+  "shortDescription": "The IELTS Speaking module tests your ability to communicate effectively in spoken English across various topics. Conducted as a face-to-face interview, this section includes three parts: an introduction and interview, a short speech on a given topic and a two-way discussion.",
+  "displayOrder": 3,
+  "active": true,
+  "parent": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "icon": {
+    "$oid": "673492399f10370a8efa6690"
+  },
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-09-12T08:08:15.602Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-01-28T12:24:58.865Z"
+  },
+  "url": "ielts/ielts/speaking",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66e2b1bfaec22db0512981ba"
+  },
+  "title": "Culpa aliquip vel si",
+  "shortDescription": "Quia enim odit moles",
+  "displayOrder": 43,
+  "active": false,
+  "parent": {
+    "$oid": "66c577eb7b59fe8218f645ca"
+  },
+  "icon": {
+    "$oid": "66e03c63d2a2319bef3c7272"
+  },
+  "cover": {
+    "$oid": "66e03c63d2a2319bef3c7272"
+  },
+  "banner": {
+    "$oid": "66e03c63d2a2319bef3c7272"
+  },
+  "createdAt": {
+    "$date": "2024-09-12T09:17:51.506Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-09-26T11:20:25.018Z"
+  },
+  "url": "introduction-&-interview/speaking/eum-magnam-maiores-a",
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2024-10-02T05:05:19.371Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66f3f3b54621107205438173"
+  },
+  "title": "test with new media library",
+  "shortDescription": "kisu ache yes gfhgf",
+  "displayOrder": 12,
+  "active": false,
+  "parent": {
+    "$oid": "66c577e77b59fe8218f645c1"
+  },
+  "icon": {
+    "$oid": "66e03c73d2a2319bef3c728b"
+  },
+  "cover": {
+    "$oid": "66e03c73d2a2319bef3c7289"
+  },
+  "banner": {
+    "$oid": "66e2cfdb26320955de049f8e"
+  },
+  "createdAt": {
+    "$date": "2024-09-25T11:27:49.661Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-01-28T06:42:18.206Z"
+  },
+  "url": "comprehensive-reading/comprehensive-reading/comprehensive-reading/reading/reading/reading/test-with-new-media-library",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66f8d546dc5fc6dccc9e4014"
+  },
+  "title": "Dignissimos asperior",
+  "shortDescription": "Sint quis quos et ea",
+  "displayOrder": 48,
+  "active": false,
+  "parent": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "icon": {
+    "$oid": "66e03c73d2a2319bef3c7289"
+  },
+  "cover": {
+    "$oid": "66e03c74d2a2319bef3c7297"
+  },
+  "banner": {
+    "$oid": "66e03c74d2a2319bef3c7297"
+  },
+  "createdAt": {
+    "$date": "2024-09-29T04:19:18.376Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-11-07T06:34:12.413Z"
+  },
+  "url": "ielts/sunt-fugit-ipsum-e",
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2024-11-13T11:52:52.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66f8db57583b32cac5fed035"
+  },
+  "title": "Est sit ex ut id re",
+  "shortDescription": "Sunt voluptatem rer",
+  "displayOrder": 49,
+  "active": true,
+  "parent": {
+    "$oid": "683d5084f4a9bf6b14989156"
+  },
+  "icon": {
+    "$oid": "66e03c63d2a2319bef3c7272"
+  },
+  "cover": {
+    "$oid": "66e2cfe926320955de049fa4"
+  },
+  "banner": {
+    "$oid": "66e03c75d2a2319bef3c72ad"
+  },
+  "createdAt": {
+    "$date": "2024-09-29T04:45:11.123Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-09-29T04:45:11.123Z"
+  },
+  "url": "reading/eos-pariatur-irure-",
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2024-10-02T05:06:01.141Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66f8dce5274137f549137eaa"
+  },
+  "title": "Officiis ut corruption",
+  "shortDescription": "Reprehenderit ea tem",
+  "displayOrder": 29,
+  "active": false,
+  "parent": {
+    "$oid": "66c577ec7b59fe8218f645ce"
+  },
+  "icon": {
+    "$oid": "66e03c63d2a2319bef3c7272"
+  },
+  "cover": {
+    "$oid": "66e03c73d2a2319bef3c7289"
+  },
+  "banner": {
+    "$oid": "66e03c73d2a2319bef3c728b"
+  },
+  "createdAt": {
+    "$date": "2024-09-29T04:51:49.084Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-01-27T09:57:02.293Z"
+  },
+  "url": "listening/listening/dolor-omnis-incididu",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "66fd1ffc0b4e54d68f82bcd9"
+  },
+  "title": "IELTS AcademicSS",
+  "shortDescription": "Listening,Reading,Speaking,Writing",
+  "displayOrder": 0,
+  "active": true,
+  "parent": {
+    "$oid": "66c577e67b59fe8218f645bf"
+  },
+  "icon": {
+    "$oid": "66e03c63d2a2319bef3c7272"
+  },
+  "cover": {
+    "$oid": "66e03c73d2a2319bef3c728b"
+  },
+  "banner": {
+    "$oid": "66e03c73d2a2319bef3c728b"
+  },
+  "createdAt": {
+    "$date": "2024-10-02T10:27:08.545Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-10-02T10:29:32.046Z"
+  },
+  "url": "academic-reading/academic-reading/academic-reading/academic-reading/listening/dolor-omnis-incididu",
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2024-10-02T10:36:41.474Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fd20fe0b4e54d68f82be12"
+  },
+  "title": "PTE",
+  "shortDescription": "Listening,Reading,Speaking,Writing",
+  "displayOrder": 99,
+  "active": false,
+  "parent": {
+    "$oid": "683d5084f4a9bf6b14989156"
+  },
+  "icon": {
+    "$oid": "66e03c73d2a2319bef3c7289"
+  },
+  "cover": {
+    "$oid": "66e03c73d2a2319bef3c728b"
+  },
+  "banner": {
+    "$oid": "66e03c74d2a2319bef3c7297"
+  },
+  "createdAt": {
+    "$date": "2024-10-02T10:31:26.842Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-01-30T12:09:33.648Z"
+  },
+  "url": "reading/reading/reading/pte",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6705fe2ffff70e3e476de706"
+  },
+  "title": "fgfg",
+  "shortDescription": "gfd",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "683d5084f4a9bf6b14989156"
+  },
+  "icon": {
+    "$oid": "66e954f15c8ef95aedd54c60"
+  },
+  "cover": {
+    "$oid": "6703710f83fcdc1c16154dbc"
+  },
+  "banner": {
+    "$oid": "66e9764d47632b375dc65217"
+  },
+  "createdAt": {
+    "$date": "2024-10-09T03:53:19.226Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-10-09T03:53:19.226Z"
+  },
+  "url": "reading/fgfg",
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2024-10-23T04:20:16.248Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670c8f31f42c65e2d3d515eb"
+  },
+  "title": "Reading List",
+  "shortDescription": "list of passage\nQuickly read through the paragraph headings so you can see what they say.\nThen look at the first paragraph.\nOften only the topic sentence needs to be read carefully because the main idea and answer are there - you may be able to just skim the rest.\nSometimes, however, the answer is not in the topic sentence and the whole paragraph needs to be read more carefully.\nIf a match is not immediately obvious, move on to the next one.\nIf you are unsure between two answers at first, put them both in. You may be able to eliminate one answer later if it fits another paragraph better.\nIf at the end you are still stuck between two answers for a question, pick which fits best.\nQuickly read through the paragraph headings so you can see what they say.\nThen look at the first paragraph.\nOften only the topic sentence needs to be read carefully because t",
+  "displayOrder": 84,
+  "active": false,
+  "parent": {
+    "$oid": "683d5084f4a9bf6b14989156"
+  },
+  "icon": {
+    "$oid": "6707bbde22a47a7392d0fae9"
+  },
+  "cover": {
+    "$oid": "66f13e54ae5cb36ca28f6388"
+  },
+  "banner": {
+    "$oid": "66ea505c47632b375dc7008e"
+  },
+  "createdAt": {
+    "$date": "2024-10-14T03:25:37.114Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-02-09T11:51:05.494Z"
+  },
+  "url": "reading/academic-reading/academic-reading",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "67147d16b9521436c1e1ff32"
+  },
+  "title": "Ut excepturi perspic",
+  "shortDescription": "Eos animi odit sae",
+  "displayOrder": 62,
+  "active": true,
+  "parent": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-10-20T03:46:30.187Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-10-20T03:46:30.187Z"
+  },
+  "url": "ielts/officia-pariatur-vi",
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2024-10-20T03:46:41.871Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67187a860b9236dccaefdbdb"
+  },
+  "title": "IELTS #2",
+  "shortDescription": "Included all modules",
+  "displayOrder": 99,
+  "active": false,
+  "parent": {
+    "$oid": "66c577e67b59fe8218f645c0"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-10-23T04:24:38.400Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-11-19T08:31:04.070Z"
+  },
+  "url": "general-reading/ielts/academic-reading/academic-reading/listening/dolor-omnis-incididu",
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2024-11-19T12:07:30.553Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "671f26bcf26647b9299dc371"
+  },
+  "title": "IELTS 1.0",
+  "shortDescription": "The International English Language Testing System (IELTS) is designed to help you achieve your ambition of working, studying or moving to a country where English is spoken",
+  "displayOrder": 99,
+  "active": true,
+  "parent": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "icon": {
+    "$oid": "66e2cfdb26320955de049f8e"
+  },
+  "cover": {
+    "$oid": "66ea6b231dd24551162fe717"
+  },
+  "banner": {
+    "$oid": "6715d1844ff112069e331b3c"
+  },
+  "createdAt": {
+    "$date": "2024-10-28T05:53:00.995Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-11-13T11:53:12.354Z"
+  },
+  "url": "ielts/ielts/ielts/ielts/ielts/academic-reading/academic-reading/listening/dolor-omnis-incididu1",
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2024-11-13T12:02:28.381Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "title": "Language Learning",
+  "shortDescription": "Learn English at your own pace with specially designed lessons focused on real life conversations and cultural context.",
+  "displayOrder": 6,
+  "active": true,
+  "parent": null,
+  "icon": {
+    "$oid": "683755dfe41f6053d241659d"
+  },
+  "cover": {
+    "$oid": "66e2cfdb26320955de049f8e"
+  },
+  "banner": {
+    "$oid": "673077d2ae81d6352145874a"
+  },
+  "createdAt": {
+    "$date": "2024-11-13T07:53:57.068Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-05-28T18:28:54.852Z"
+  },
+  "url": "language-learning",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "67346c7244b617720203e43f"
+  },
+  "title": "English for Parents",
+  "shortDescription": "English for Parents",
+  "displayOrder": 1,
+  "active": true,
+  "parent": {
+    "$oid": "66c577e67b59fe8218f645bf"
+  },
+  "icon": {
+    "$oid": "672c68c3443a6f1e4927a5f6"
+  },
+  "cover": {
+    "$oid": "679b8d0c9bb82b53df8cd501"
+  },
+  "banner": {
+    "$oid": "6798b3153202ad36bb29298c"
+  },
+  "createdAt": {
+    "$date": "2024-11-13T09:08:02.644Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-02-10T03:47:14.731Z"
+  },
+  "url": "academic-reading/ielts/language-learning/english--for-parents",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "67346c9a44b617720203e470"
+  },
+  "title": "English Beginner for Veterans",
+  "shortDescription": "English Beginner for Parents",
+  "displayOrder": 2,
+  "active": false,
+  "parent": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "icon": {
+    "$oid": "672b4542960ff361ceee8cad"
+  },
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2024-11-13T09:08:42.365Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-12-09T06:59:20.330Z"
+  },
+  "url": "language-learning/language-learning/english-learning/english-beginner-for-veterans",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "677a541d2c3b519f8affb4f6"
+  },
+  "title": "GRE",
+  "shortDescription": "asdasd",
+  "displayOrder": 3,
+  "active": false,
+  "parent": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2025-01-05T09:42:53.504Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-01-27T09:56:54.245Z"
+  },
+  "url": "language-learning/gre",
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2025-01-27T09:58:12.112Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a18d7591bee9c11456314a"
+  },
+  "title": "English Communication",
+  "shortDescription": "Fluent and effective: Improve your everyday speaking, listening and interaction skills for work, study and social situations with real world practice.",
+  "displayOrder": 1,
+  "active": true,
+  "parent": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "icon": {
+    "$oid": "68375590e41f6053d2416530"
+  },
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2025-02-04T03:45:57.278Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-05-28T18:27:40.694Z"
+  },
+  "url": "language-learning/language-learning/ielts",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "67a194b391bee9c114563ac0"
+  },
+  "title": "Speaking Fluency",
+  "shortDescription": "Speaking",
+  "displayOrder": 30,
+  "active": true,
+  "parent": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2025-02-04T04:16:51.134Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-02-04T04:16:51.134Z"
+  },
+  "url": "ielts/academic-reading/academic-reading/listening/dolor-omnis-incididu",
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2025-02-04T12:25:48.328Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a339dc6c3370f4a4890e0a"
+  },
+  "title": "Writing 1",
+  "shortDescription": "fgfg",
+  "displayOrder": 20,
+  "active": true,
+  "parent": {
+    "$oid": "683d5084f4a9bf6b14989156"
+  },
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2025-02-05T10:13:48.308Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-03-22T04:47:35.565Z"
+  },
+  "url": "reading/writing-1",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "683d5084f4a9bf6b14989156"
+  },
+  "title": "Reading",
+  "shortDescription": "The IELTS Reading module evaluates your ability to present ideas clearly, organize information effectively, and use accurate grammar and vocabulary.",
+  "displayOrder": 1,
+  "active": true,
+  "parent": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "icon": {
+    "$oid": "68402479f2c87c15fc145986"
+  },
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2025-06-02T07:19:32.112Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-06-15T11:13:56.310Z"
+  },
+  "url": "ielts/ielts/ielts/ielts/reading",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e245fc8c9f43ad16797dd9"
+  },
+  "title": "Physics",
+  "shortDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "displayOrder": 99,
+  "active": true,
+  "parent": null,
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2025-10-05T10:18:36.302Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T10:18:36.302Z"
+  },
+  "url": "physics",
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6907057ed7c1b05b5ff90869"
+  },
+  "title": "Test category for testing short description",
+  "shortDescription": "asdasdshortDescription: Yup.string()\n    .trim()\n    .required(\"Short Description is required\")",
+  "displayOrder": 1,
+  "active": false,
+  "parent": null,
+  "icon": null,
+  "cover": null,
+  "banner": null,
+  "createdAt": {
+    "$date": "2025-11-02T07:17:18.749Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-02T07:17:21.985Z"
+  },
+  "url": "test-category-for-testing-short-description",
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2025-11-02T07:17:57.612Z"
+  }
+}]

@@ -135,7 +135,7 @@
     "$oid": "68dfdbd18c9f43ad16764cc4"
   },
   "banner": {
-    "$oid": "68e73e988181b054a11ef57a"
+    "$oid": "691950a3666069831c698664"
   },
   "difficultyLevel": "beginner",
   "active": true,
@@ -148,7 +148,7 @@
     "$date": "2025-10-03T14:34:30.179Z"
   },
   "lastUpdateAt": {
-    "$date": "2025-11-02T11:10:15.888Z"
+    "$date": "2025-11-16T04:18:59.430Z"
   },
   "deleted": false,
   "deletedAt": null
@@ -504,9 +504,7 @@
     }
   ],
   "pricing": {
-    "type": "paid",
-    "price": 200,
-    "offerPrice": 150
+    "type": "inBundle"
   },
   "liveClass": [],
   "lesson": [
@@ -542,7 +540,7 @@
     "$date": "2025-10-03T14:34:30.179Z"
   },
   "lastUpdateAt": {
-    "$date": "2025-10-08T04:13:08.393Z"
+    "$date": "2025-11-20T12:11:11.292Z"
   },
   "deleted": false,
   "deletedAt": null
@@ -565,9 +563,7 @@
     }
   ],
   "pricing": {
-    "type": "paid",
-    "price": 250,
-    "offerPrice": 200
+    "type": "inBundle"
   },
   "liveClass": [
     {
@@ -607,7 +603,7 @@
     "$date": "2025-10-03T16:47:29.547Z"
   },
   "lastUpdateAt": {
-    "$date": "2025-10-08T10:04:28.670Z"
+    "$date": "2025-11-20T12:11:26.916Z"
   },
   "deleted": false,
   "deletedAt": null
@@ -630,9 +626,7 @@
     }
   ],
   "pricing": {
-    "type": "paid",
-    "price": 400,
-    "offerPrice": 375
+    "type": "inBundle"
   },
   "liveClass": [
     {
@@ -669,7 +663,7 @@
     "$date": "2025-10-03T17:37:26.272Z"
   },
   "lastUpdateAt": {
-    "$date": "2025-10-08T04:33:50.913Z"
+    "$date": "2025-11-20T12:12:08.555Z"
   },
   "deleted": false,
   "deletedAt": null
@@ -692,8 +686,7 @@
     }
   ],
   "pricing": {
-    "type": "paid",
-    "price": 499
+    "type": "inBundle"
   },
   "liveClass": [],
   "lesson": [
@@ -726,7 +719,7 @@
     "$date": "2025-10-03T17:51:02.913Z"
   },
   "lastUpdateAt": {
-    "$date": "2025-10-08T04:36:29.421Z"
+    "$date": "2025-11-20T12:12:19.862Z"
   },
   "deleted": false,
   "deletedAt": null
@@ -1099,7 +1092,7 @@
   "_id": {
     "$oid": "68f5cf1895fc82365e4ccf6d"
   },
-  "title": "English Communication for Parent",
+  "title": "English Communication for Parents",
   "shortDescription": "Develop your ability to speak English fluently in a variety of contexts, such as family introductions, meetings at school, and crises.",
   "description": "<p>The purpose of this online course is to help Bangladeshi parents become more confident communicators in English in everyday scenarios.</p><p>Every session demonstrates how to interact in everyday settings like school, shopping, doctor's appointments, and family time via basic, realistic conversations between parents, kids, and others.</p><p>You will discover how to use English spontaneously without worrying about grammar through brief, narrative-based video tutorials. Speaking English as a tool to connect, not simply to learn, can give you more confidence when interacting with family members, friends, instructors, and even your child.</p>",
   "hasLiveClass": true,
@@ -1219,7 +1212,7 @@
     "$date": "2025-10-20T05:56:40.065Z"
   },
   "lastUpdateAt": {
-    "$date": "2025-10-21T06:00:38.578Z"
+    "$date": "2025-11-11T11:07:24.832Z"
   },
   "deleted": false,
   "deletedAt": null
@@ -1460,4 +1453,378 @@
   },
   "deleted": false,
   "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6914178e2b04a129eba25113"
+  },
+  "title": "test course only for bundle 1",
+  "shortDescription": "test testtesttesttesttesttesttesttesttesttest",
+  "description": "<p>test</p>",
+  "hasLiveClass": true,
+  "hasRecordedClass": false,
+  "displayOrder": 2,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "inBundle"
+  },
+  "liveClass": [
+    {
+      "$oid": "68fdaf68b3024ffed0170add"
+    }
+  ],
+  "lesson": [],
+  "accessDuration": 2592000,
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "courseDuration": 2592000,
+  "seatLimit": 4,
+  "difficultyLevel": "beginner",
+  "cover": null,
+  "banner": null,
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "test-course-only-for-bundle-1",
+  "createdAt": {
+    "$date": "2025-11-12T05:13:50.284Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-12T05:16:09.858Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "69141eeb2b04a129eba259e8"
+  },
+  "title": "test course only for bundle 2",
+  "shortDescription": "test test test test test test test test",
+  "description": "<p>test</p>",
+  "hasLiveClass": false,
+  "hasRecordedClass": true,
+  "displayOrder": 4,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "inBundle"
+  },
+  "liveClass": [],
+  "lesson": [
+    {
+      "$oid": "68f5cc2595fc82365e4ccbae"
+    }
+  ],
+  "accessDuration": 2592000,
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "courseDuration": 2592000,
+  "seatLimit": 23,
+  "difficultyLevel": "beginner",
+  "cover": null,
+  "banner": null,
+  "active": true,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "test-course-only-for-bundle-2",
+  "createdAt": {
+    "$date": "2025-11-12T05:45:15.754Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-12T05:45:20.635Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "691425852b04a129eba261f8"
+  },
+  "title": "test course for only bundle t1",
+  "shortDescription": "test test test test test test test",
+  "description": "",
+  "hasLiveClass": true,
+  "hasRecordedClass": true,
+  "displayOrder": 2,
+  "difficultyLevel": "beginner",
+  "topics": [],
+  "faq": [],
+  "pricing": {
+    "type": "inBundle"
+  },
+  "liveClass": [
+    {
+      "$oid": "68fdaf68b3024ffed0170add"
+    }
+  ],
+  "lesson": [
+    {
+      "$oid": "68f5cc2595fc82365e4ccbae"
+    }
+  ],
+  "accessDuration": 2592000,
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "courseDuration": 864000,
+  "seatLimit": 3,
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "active": false,
+  "cover": null,
+  "banner": null,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "test-course-for-only-bundle-t1",
+  "createdAt": {
+    "$date": "2025-11-12T06:13:25.277Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-12T06:49:37.920Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6914527b55c3b2ec31ca6f18"
+  },
+  "title": "test course for testing bundle only course",
+  "shortDescription": "test test test test test test test test",
+  "description": "",
+  "hasLiveClass": false,
+  "hasRecordedClass": true,
+  "displayOrder": 2,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "pricing": {
+    "type": "inBundle"
+  },
+  "liveClass": [],
+  "lesson": [
+    {
+      "$oid": "68f5cc2595fc82365e4ccbae"
+    }
+  ],
+  "accessDuration": 2592000,
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "courseDuration": 2592000,
+  "seatLimit": 1,
+  "difficultyLevel": "beginner",
+  "cover": null,
+  "banner": null,
+  "active": false,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "test-course-for-testing-bundle-only-course",
+  "createdAt": {
+    "$date": "2025-11-12T09:25:15.185Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-12T09:25:15.185Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6914563355c3b2ec31ca7392"
+  },
+  "title": "test course for testing inbundle",
+  "shortDescription": "test test test test test test test",
+  "description": "",
+  "hasLiveClass": true,
+  "hasRecordedClass": false,
+  "displayOrder": 23,
+  "difficultyLevel": "beginner",
+  "topics": [],
+  "faq": [],
+  "pricing": {
+    "type": "inBundle"
+  },
+  "liveClass": [
+    {
+      "$oid": "68fdaf68b3024ffed0170add"
+    }
+  ],
+  "lesson": [],
+  "accessDuration": 2592000,
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "courseDuration": 2592000,
+  "seatLimit": 45,
+  "teacher": [
+    {
+      "$oid": "6836a841b348450b46f63fa5"
+    }
+  ],
+  "active": false,
+  "cover": null,
+  "banner": null,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "test-course-for-testing-inbundle",
+  "createdAt": {
+    "$date": "2025-11-12T09:41:07.762Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-12T09:41:07.762Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "69196de0d794badd476f60b7"
+  },
+  "title": "Test course to test media upload",
+  "shortDescription": "Test lesson to check media upload refactor",
+  "description": "",
+  "hasLiveClass": false,
+  "hasRecordedClass": true,
+  "displayOrder": 99,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "67cd1839f3019dccb5e9a642"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "liveClass": [],
+  "lesson": [
+    {
+      "$oid": "69196d52d794badd476f600d"
+    }
+  ],
+  "accessDuration": 864000,
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "courseDuration": 432000,
+  "seatLimit": 10,
+  "difficultyLevel": "beginner",
+  "cover": null,
+  "banner": null,
+  "active": false,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "test-course-to-test-media-upload",
+  "createdAt": {
+    "$date": "2025-11-16T06:23:28.594Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-16T07:15:12.047Z"
+  },
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2025-11-16T07:15:17.159Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69197c931e663d65076de765"
+  },
+  "title": "test course to test media upload DO NOT BUY!!!",
+  "shortDescription": "test course to test media upload truncating server url from m3u8 and vtt files",
+  "description": "",
+  "hasLiveClass": false,
+  "hasRecordedClass": true,
+  "displayOrder": 99,
+  "topics": [],
+  "faq": [],
+  "teacher": [
+    {
+      "$oid": "67cd1839f3019dccb5e9a642"
+    }
+  ],
+  "pricing": {
+    "type": "free"
+  },
+  "liveClass": [],
+  "lesson": [
+    {
+      "$oid": "69197c371e663d65076de6f2"
+    }
+  ],
+  "accessDuration": 864000,
+  "category": [
+    {
+      "$oid": "66c577e57b59fe8218f645bd"
+    }
+  ],
+  "courseDuration": 864000,
+  "seatLimit": 1,
+  "banner": {
+    "$oid": "69197bc71e663d65076de65a"
+  },
+  "difficultyLevel": "beginner",
+  "cover": null,
+  "active": false,
+  "review": {
+    "count": 0,
+    "rating": 0
+  },
+  "url": "test-course-to-test-media-upload-do-not-buy!!!",
+  "createdAt": {
+    "$date": "2025-11-16T07:26:11.994Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-16T07:36:19.280Z"
+  },
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2025-11-16T07:36:26.661Z"
+  }
 }]

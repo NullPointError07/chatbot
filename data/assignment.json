@@ -1,0 +1,636 @@
+[{
+  "_id": {
+    "$oid": "68e1eda28c9f43ad16790832"
+  },
+  "title": "Write a paragraph about current situation in Global Sumud Flotilla",
+  "description": "<p>In this task, you are required to write a short paragraph describing the <strong>current situation of the Global Sumud Flotilla</strong> — an international movement aiming to challenge the blockade of Gaza and deliver humanitarian aid. Your paragraph should briefly explain what the flotilla is, its purpose, and highlight any recent developments or ongoing events. Focus on clarity, accuracy, and relevance. Aim for 100–150 words, using formal and objective language.</p><p><br></p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "66c577ea7b59fe8218f645c8"
+  },
+  "attachment": [],
+  "url": "write-a-paragraph-about-current-situation-in-global-sumud-flotilla",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-05T04:01:38.560Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T04:04:05.534Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "scope": "ed_room"
+},
+{
+  "_id": {
+    "$oid": "68e1ee2f8c9f43ad167908dd"
+  },
+  "title": "Give Answer To The Attached Questionnaire",
+  "description": "<p>This task is a <strong>full-length IELTS mock test</strong> designed to assess your proficiency across all four modules of the IELTS exam — Listening, Reading, Writing, and Speaking. It closely follows the official IELTS format and difficulty level.</p><ul><li><strong>Listening:</strong> Includes multiple sections with note completion, multiple-choice, and labeling questions to test comprehension and attention to detail.</li><li><strong>Reading:</strong> Contains three passages with varied question types such as sentence completion, matching information, and True/False/Not Given statements to evaluate analytical reading skills.</li><li><strong>Writing:</strong> Divided into two tasks — interpreting data from a table (Task 1) and writing an argumentative essay (Task 2).</li><li><strong>Speaking:</strong> Simulates the real test with personal, descriptive, and discussion-based questions.</li></ul><p>This mock test aims to help candidates practice time management, understand question patterns, and build confidence for the real IELTS examination.</p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "attachment": [
+    {
+      "$oid": "68e1ee258c9f43ad167908cf"
+    }
+  ],
+  "url": "give-answer-to-the-attached-questionnaire",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-05T04:03:59.612Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T04:04:03.901Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "scope": "ed_room"
+},
+{
+  "_id": {
+    "$oid": "68e1ee848c9f43ad16790944"
+  },
+  "title": "Write 10 Sentences Related To Our Daily Life",
+  "description": "<p>In this task, you need to <strong>write 10 simple and meaningful sentences related to daily life</strong>. Each sentence should describe common activities, routines, or situations that people experience every day — such as eating breakfast, going to work or school, meeting friends, or relaxing at home. The goal is to help you practice using everyday vocabulary and correct sentence structure. Keep your sentences clear, grammatically correct, and relevant to daily experiences.</p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "attachment": [],
+  "url": "write-10-sentences-related-to-our-daily-life",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-05T04:05:24.386Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T04:05:26.748Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "scope": "ed_room"
+},
+{
+  "_id": {
+    "$oid": "68e25d4f32da8132ab43866b"
+  },
+  "title": "Assignment For Course #1",
+  "description": "<p class=\"ql-align-justify\"><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "attachment": [],
+  "exam": [
+    {
+      "$oid": "68e25cf332da8132ab4385fe"
+    }
+  ],
+  "submissionWindow": 864000,
+  "scope": "in_course",
+  "url": "assignment-for-course-1",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-05T11:58:07.314Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-05T11:58:10.573Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68e74ab1a7d835e42664a6dc"
+  },
+  "title": "Assignment for testing with video, audio and exam",
+  "description": "<p>Test Description</p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "attachment": [],
+  "exam": [
+    {
+      "$oid": "68e74923a7d835e42664a501"
+    }
+  ],
+  "submissionWindow": 1814400,
+  "scope": "in_course",
+  "url": "assignment-for-testing-with-video-audio-and-exam",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-09T05:40:01.337Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-09T05:40:11.501Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68ea25608263f07e7b21bbc2"
+  },
+  "title": "Parents Assessment Test",
+  "description": "<p>Complete a 7-question checkup on basic home and child-communication English: 5 Mixed MCQs + 2 short Situational responses (1–2 polite sentences each). Aim for 5–7 minutes. Focus on polite tone, clear wording, and correct spelling. MCQs are auto-scored; situational answers are graded for clarity, politeness, and correctness.</p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "attachment": [],
+  "exam": [
+    {
+      "$oid": "68ea226a8263f07e7b21b827"
+    }
+  ],
+  "submissionWindow": 1209600,
+  "scope": "in_course",
+  "url": "parents-assessment-test",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-11T09:37:36.755Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-11T09:37:39.023Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68eb6f031a506818baca5cf5"
+  },
+  "title": "Speaking Assignment",
+  "description": "<p>Test</p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "attachment": [
+    {
+      "$oid": "68ea23f98263f07e7b21ba08"
+    }
+  ],
+  "exam": [
+    {
+      "$oid": "68eb6ea51a506818baca5c88"
+    }
+  ],
+  "submissionWindow": 1209600,
+  "scope": "in_course",
+  "url": "speaking-assignment",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-12T09:04:03.263Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-12T09:04:06.109Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f752017b64cf56349fde6e"
+  },
+  "title": "Lesson 1 Assessment",
+  "description": "<p>In this assignment, you will practice translating simple Bangla sentences into English to build your everyday communication skills. The goal is to help you use English naturally while talking about yourself, your family, and your daily life.</p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "attachment": [],
+  "exam": [
+    {
+      "$oid": "68f750fd7b64cf56349fdd22"
+    }
+  ],
+  "submissionWindow": 1814400,
+  "scope": "in_course",
+  "url": "lesson-1-assessment",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-21T09:27:29.763Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-21T09:27:31.588Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f758527b64cf56349fe722"
+  },
+  "title": "Lesson 2 Assessment",
+  "description": "<p>This assessment will help you practice using English to describe health problems, doctor visits, and medicine-related conversations. You will complete both sentence-level translations and a short paragraph translation, using vocabulary and phrases from the lesson video and handouts.</p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "attachment": [],
+  "exam": [
+    {
+      "$oid": "68f757d87b64cf56349fe691"
+    }
+  ],
+  "submissionWindow": 2419200,
+  "scope": "in_course",
+  "url": "lesson-2-assessment",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-21T09:54:26.636Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-21T09:54:28.020Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f7664c98156b74705ecef1"
+  },
+  "title": "Lesson 3 Assessment",
+  "description": "<p>This assessment will help you practice how to use English while shopping at the grocery store or bazaar. You will translate common Bangla sentences and a short paragraph into English using the words and examples learned from the lesson video and vocabulary handout.</p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "attachment": [],
+  "exam": [
+    {
+      "$oid": "68f765c098156b74705ece48"
+    }
+  ],
+  "submissionWindow": 2160000,
+  "scope": "in_course",
+  "url": "lesson-3-assessment",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-21T10:54:04.164Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-21T10:54:05.645Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f89f789bea090fff6e3a38"
+  },
+  "title": "Lesson 4 Assessment",
+  "description": "<p>In this assignment, you will practice translating Bangla sentences and a short paragraph into English based on school-related situations. This includes speaking about homework, exams, teachers, attendance, and your child’s academic progress.</p><p><br></p><p>This exercise will help you feel more confident when talking to teachers or discussing your child’s education in English.</p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "attachment": [],
+  "exam": [
+    {
+      "$oid": "68f898dd9bea090fff6e3222"
+    }
+  ],
+  "submissionWindow": 2419200,
+  "scope": "in_course",
+  "url": "lesson-4-assessment",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-22T09:10:16.132Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-22T09:10:26.272Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f89fdd9bea090fff6e3ab7"
+  },
+  "title": "Lesson 5 Assessment",
+  "description": "<p>In this assignment, you will practice writing simple English sentences about shopping at the grocery store or bazaar. You will translate Bangla sentences and a short paragraph into English using common words like vegetables, fruits, price, shopkeeper, and money. This will help you use English in real-life shopping situations with confidence.</p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "attachment": [],
+  "exam": [
+    {
+      "$oid": "68f89df29bea090fff6e3861"
+    }
+  ],
+  "submissionWindow": 2419200,
+  "scope": "in_course",
+  "url": "lesson-5-assessment",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-22T09:11:57.714Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-22T09:11:59.677Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f9a27c9bea090fff6f8ea9"
+  },
+  "title": "Lesson 8 Assessment",
+  "description": "<p>In this assignment, you will practice translating Bangla sentences and a paragraph into English using weather-related vocabulary. You’ll describe different seasons, weather conditions, and daily temperature using simple English. This will help you express yourself better when talking about the weather in real life.</p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "attachment": [],
+  "exam": [
+    {
+      "$oid": "68f99f409bea090fff6f8aae"
+    }
+  ],
+  "submissionWindow": 2419200,
+  "scope": "in_course",
+  "url": "lesson-8-assessment",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-23T03:35:24.395Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-23T03:35:27.411Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f9a2f79bea090fff6f8f42"
+  },
+  "title": "Lesson 9 Assessment",
+  "description": "<p>In this assignment, you will translate Bangla sentences and a short paragraph into English using common vocabulary related to food, cooking, and shopping. You will describe everyday kitchen tasks, grocery items, and cooking activities using simple English. This practice will help you build confidence to talk about food and daily household work in real-life situations.</p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "attachment": [],
+  "exam": [
+    {
+      "$oid": "68f9a02b9bea090fff6f8bcf"
+    }
+  ],
+  "submissionWindow": 2419200,
+  "scope": "in_course",
+  "url": "lesson-9-assessment",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-23T03:37:27.564Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-23T03:37:29.154Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f9a3b99bea090fff6f902d"
+  },
+  "title": "Lesson 10 Assessment",
+  "description": "<p>In this assignment, you will practice translating sentences and a short paragraph about emergencies and urgent situations. You will learn how to ask for help, describe accidents, and respond in English during dangerous moments. This will help you speak clearly and confidently if you ever face an emergency at home or outside.</p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "attachment": [],
+  "exam": [
+    {
+      "$oid": "68f9a1379bea090fff6f8d1a"
+    }
+  ],
+  "submissionWindow": 2419200,
+  "scope": "in_course",
+  "url": "lesson-10-assessment",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-23T03:40:41.943Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-23T03:40:44.028Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f9bcac886123378240aafa"
+  },
+  "title": "Lesson 6 assessment",
+  "description": "<p>In this assignment, you will apply what you learned about public transport. Write short dialogues or sentences using key words like <em>bus</em>, <em>ticket</em>, <em>fare</em>, <em>rickshaw</em>, and <em>driver</em>. Describe a short trip you take with your child or family member using public transport, showing polite communication and correct use of vocabulary.</p>",
+  "category": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "attachment": [],
+  "exam": [
+    {
+      "$oid": "68f9b1c79bea090fff6fa19e"
+    }
+  ],
+  "submissionWindow": 2419200,
+  "scope": "in_course",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "url": "lesson-6-assessment",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-23T05:27:08.371Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-23T05:29:53.994Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "68f9bd42886123378240abbb"
+  },
+  "title": "Lesson 7 Assessment",
+  "description": "<p>In this assignment, you will practice making and answering phone calls in English. Use the vocabulary from this lesson to create short dialogues between a parent and a teacher or relative. Focus on polite greetings, clear sentences, and correct use of words like <em>call</em>, <em>answer</em>, <em>hold on</em>, and <em>hang up</em>.</p>",
+  "category": {
+    "$oid": "67345b1544b617720203cf5c"
+  },
+  "attachment": [],
+  "exam": [
+    {
+      "$oid": "68f9b5229bea090fff6fa5af"
+    }
+  ],
+  "submissionWindow": 2419200,
+  "scope": "in_course",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "url": "lesson-7-assessment",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-10-23T05:29:38.961Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-10-23T05:29:53.302Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "69142ca42b04a129eba26a83"
+  },
+  "title": "test assignment for testing exam",
+  "description": "<p>test</p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "attachment": [],
+  "scope": "in_course",
+  "url": "test-assignment-for-testing-exam",
+  "active": false,
+  "createdAt": {
+    "$date": "2025-11-12T06:43:48.039Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-12T07:16:36.354Z"
+  },
+  "deleted": false,
+  "deletedAt": null,
+  "exam": [
+    {
+      "$oid": "68f9b5229bea090fff6fa5af"
+    }
+  ],
+  "submissionWindow": 0
+},
+{
+  "_id": {
+    "$oid": "69142f752b04a129eba26de4"
+  },
+  "title": "test assignment 1",
+  "description": "<p><br></p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "attachment": [],
+  "scope": "ed_room",
+  "url": "test-assignment-1",
+  "active": false,
+  "createdAt": {
+    "$date": "2025-11-12T06:55:49.436Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-12T07:16:09.075Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6914301a2b04a129eba26eab"
+  },
+  "title": "test assignment 2",
+  "description": "<p>test</p>",
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "category": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "attachment": [],
+  "exam": [
+    {
+      "$oid": "68f9b5229bea090fff6fa5af"
+    }
+  ],
+  "submissionWindow": 0,
+  "scope": "in_course",
+  "url": "test-assignment-2",
+  "active": false,
+  "createdAt": {
+    "$date": "2025-11-12T06:58:34.886Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-12T06:58:34.886Z"
+  },
+  "deleted": true,
+  "deletedAt": {
+    "$date": "2025-11-12T06:58:39.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691db8308d978625f57d12e9"
+  },
+  "title": "Write 10 sentences we regularly use in our daily life",
+  "description": "<p><strong style=\"color: rgb(0, 0, 0);\">Lorem Ipsum</strong><span style=\"color: rgb(0, 0, 0);\">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>",
+  "category": {
+    "$oid": "66c577e57b59fe8218f645bd"
+  },
+  "attachment": [],
+  "scope": "ed_room",
+  "liveClass": {
+    "$oid": "68edddac2ba343a780ccad3f"
+  },
+  "teacher": {
+    "$oid": "6836a841b348450b46f63fa5"
+  },
+  "exam": null,
+  "submissionWindow": null,
+  "url": "write-10-sentences-we-regularly-use-in-our-daily-life",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-11-19T12:29:36.616Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2025-11-19T12:29:36.616Z"
+  },
+  "deleted": false,
+  "deletedAt": null
+}]

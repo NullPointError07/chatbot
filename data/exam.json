@@ -101,7 +101,7 @@
   },
   "deleted": false,
   "deletedAt": null,
-  "useBandDescriptor": false
+  "useBandDescriptor": true
 },
 {
   "_id": {
@@ -379,7 +379,7 @@
       "duration": 0,
       "type": "essayWritingAI",
       "_id": "68dcd26e8c9f43ad167298e9",
-      "promptMediaSummary": "The table presents the advertising expenditures of four companies—Renault, Rover, Vauxhall, and Cetirizine—across five media types, measured in millions of dollars. Renault leads in press advertising with $45 million and also has significant investments in TV at $59 million. Rover follows closely in press with $38 million but has lower allocations in other media, particularly cinema and outdoor. Vauxhall shows a modest investment in press at $8 million, with equal spending on outdoor and radio at $7 million and $15 million, respectively. Cetirizine has the lowest press expenditure at $12 million but invests the most in TV at $70 million. Overall, TV advertising appears to be the most favored medium across all companies, while cinema advertising is the least utilized.",
+      "promptMediaSummary": "The table presents the advertising expenditures of four companies—Renault, Rover, Vauxhall, and Cetirizine—across five media types, measured in millions of dollars. Renault leads in total spending with $59 million on TV, while also investing significantly in Press ($45 million) and Radio ($15 million). Rover follows with a total of $45 million, primarily on TV ($45 million) and Radio ($15 million), but spends less on other media. Vauxhall's expenditures are notably lower, with a total of $65 million, mainly on TV ($65 million) and modest amounts in other categories. Cetirizine has the highest TV spending at $70 million, but lower allocations in other media types. Overall, TV advertising dominates the budgets of all companies, with varying levels of investment in Press, Radio, Cinema, and Outdoor advertising.",
       "exampleAnswer": []
     },
     {
@@ -409,7 +409,7 @@
     "$date": "2025-10-01T07:04:14.240Z"
   },
   "lastUpdateAt": {
-    "$date": "2025-10-20T05:42:36.532Z"
+    "$date": "2025-11-11T11:11:45.565Z"
   },
   "deleted": false,
   "deletedAt": null,
@@ -6128,7 +6128,7 @@
     "$date": "2025-10-01T10:05:34.782Z"
   },
   "lastUpdateAt": {
-    "$date": "2025-10-20T05:41:49.737Z"
+    "$date": "2025-11-11T11:12:07.037Z"
   },
   "deleted": false,
   "deletedAt": null,
@@ -12839,7 +12839,7 @@
   ],
   "timeAllocation": "fullSet",
   "duration": 600,
-  "shortDescription": "test",
+  "shortDescription": "test test test test test test test",
   "pricing": {
     "type": "inCourse"
   },
@@ -12859,7 +12859,6 @@
       "duration": 0,
       "questionCount": 1,
       "instruction": "<p><strong>Translation Practice (Bangla → English)</strong></p>",
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f89df29bea090fff6e385b",
       "promptMedia": [],
@@ -12876,7 +12875,6 @@
       "marks": 1,
       "duration": 0,
       "questionCount": 1,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f89df29bea090fff6e385c",
       "prompt": null,
@@ -12894,7 +12892,6 @@
       "marks": 1,
       "duration": 0,
       "questionCount": 1,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f89df29bea090fff6e385d",
       "prompt": null,
@@ -12911,7 +12908,6 @@
       "marks": 1,
       "duration": 0,
       "questionCount": 1,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f89df29bea090fff6e385e",
       "prompt": null,
@@ -12928,7 +12924,6 @@
       "marks": 1,
       "duration": 0,
       "questionCount": 1,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f89df29bea090fff6e385f",
       "prompt": null,
@@ -12936,18 +12931,17 @@
       "exampleAnswer": []
     },
     {
-      "prompt": "<p><strong>Instruction- </strong>Translate the following Bangla paragraph into English</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use Vocabularies from the handouts and lesson video</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Add simple sentences into a paragraph </p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Don’t add any extra information’s&nbsp;</p>",
+      "prompt": "<p><strong>Instruction- </strong>Translate the following Bangla paragraph into English</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use Vocabularies from the handouts and lesson video</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Add simple sentences into a paragraph</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Don’t add any extra information’s&nbsp;</p>",
       "marks": 5,
-      "exampleAnswer": [],
-      "instruction": "<p><strong>Translation Practice (Bangla → English)</strong></p><p><br></p><p>প্রতিদিন সকালে আমি ঘুম থেকে উঠি। দাঁত মাজি এবং মুখ ধুই। তারপর নাস্তা করি। দুপুরে আমি আমার পরিবারের সাথে ভাত ও ডাল খাই। বিকেলে আমি আমার ছেলেকে পড়াশোনায় সাহায্য করি। রাতে আমরা সবাই একসাথে খাবার খাই এবং তাড়াতাড়ি ঘুমাতে যাই।</p>",
+      "instruction": "<p><strong>Translation Practice (Bangla → English)</strong></p><p><br></p><p><span style=\"color: black;\">প্রতিদিন সকালে আমি ঘুম থেকে উঠি। দাঁত মাজি এবং মুখ ধুই। তারপর নাস্তা করি। দুপুরে আমি আমার পরিবারের সাথে খাবার খাই। বিকেলে আমি আমার ছেলেকে পড়াশোনায় সাহায্য করি। রাতে আমরা সবাই একসাথে খাবার খাই এবং তাড়াতাড়ি ঘুমাতে যাই।</span></p>",
       "maxWordCount": 0,
       "minWordCount": 0,
       "questionCount": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "essayWritingAI",
       "_id": "68f89df29bea090fff6e3860",
-      "promptMedia": []
+      "promptMedia": [],
+      "exampleAnswer": []
     }
   ],
   "teacher": [
@@ -12963,7 +12957,7 @@
     "$date": "2025-10-22T09:03:46.974Z"
   },
   "lastUpdateAt": {
-    "$date": "2025-10-22T09:03:54.202Z"
+    "$date": "2025-11-12T06:25:43.541Z"
   },
   "deleted": false,
   "deletedAt": null
@@ -13257,7 +13251,7 @@
   ],
   "timeAllocation": "fullSet",
   "duration": 360,
-  "shortDescription": "Test",
+  "shortDescription": "Test Test Test Test Test Test Test",
   "pricing": {
     "type": "inCourse"
   },
@@ -13277,7 +13271,6 @@
       "marks": 1,
       "duration": 0,
       "instruction": "<p><strong>Translation Practice (Bangla → English)</strong></p>",
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9a02b9bea090fff6f8bc9",
       "promptMedia": [],
@@ -13293,7 +13286,6 @@
       "questionCount": 1,
       "marks": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9a02b9bea090fff6f8bca",
       "prompt": null,
@@ -13310,7 +13302,6 @@
       "questionCount": 1,
       "marks": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9a02b9bea090fff6f8bcb",
       "prompt": null,
@@ -13327,7 +13318,6 @@
       "questionCount": 1,
       "marks": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9a02b9bea090fff6f8bcc",
       "prompt": null,
@@ -13344,7 +13334,6 @@
       "questionCount": 1,
       "marks": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9a02b9bea090fff6f8bcd",
       "prompt": null,
@@ -13352,18 +13341,17 @@
       "exampleAnswer": []
     },
     {
-      "prompt": "<p><strong>Small Paragraph Exercise</strong></p><p>আজ আমি আমার মায়ের সাথে রান্নাঘরে ছিলাম। আমরা দুপুরের খাবার রান্না করেছি। আমি সবজি ধুয়েছি আর মা ভাত ও মাছের তরকারি রানিয়েছেন। আমরা চামচ দিয়ে নাড়াচাড়া করেছি এবং লবণ ও তেল যোগ করেছি। শেষে আমরা সবাই একসাথে খেয়েছি।</p>",
+      "prompt": "<p><strong>Small Paragraph Exercise</strong></p><p><br></p><p><span style=\"color: black;\">আজকে আমি আমার মায়ের সাথে রান্নাঘরে ছিলাম। আমরা দুপুরের খাবার রান্না করেছি। আমি সবজি ধুয়েছি আর মা&nbsp;খাবার রান্না করেছেন। আমরা চামচ দিয়ে নাড়াচাড়া করেছি এবং প্রয়োজনমত লবণ ও তেল যোগ করেছি। শেষে আমরা সবাই একসাথে খেয়েছি</span>।</p>",
       "marks": 5,
-      "exampleAnswer": [],
-      "instruction": "<p><strong>Instruction- </strong>Translate the following Bangla paragraph into English</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use Vocabularies from the handouts and lesson video</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Add simple sentences into a paragraph </p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Don’t add any extra information’s&nbsp;</p>",
+      "instruction": "<p><strong>Instruction- </strong>Translate the following Bangla paragraph into English</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use Vocabularies from the handouts and lesson video</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Add simple sentences into a paragraph</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Don’t add any extra information’s&nbsp;</p>",
       "questionCount": 1,
       "maxWordCount": 0,
       "minWordCount": 0,
       "duration": 0,
-      "suggestion": null,
       "type": "essayWritingAI",
       "_id": "68f9a02b9bea090fff6f8bce",
-      "promptMedia": []
+      "promptMedia": [],
+      "exampleAnswer": []
     }
   ],
   "banner": null,
@@ -13374,7 +13362,7 @@
     "$date": "2025-10-23T03:25:31.061Z"
   },
   "lastUpdateAt": {
-    "$date": "2025-10-23T03:30:55.492Z"
+    "$date": "2025-11-12T06:41:12.790Z"
   },
   "deleted": false,
   "deletedAt": null
@@ -13399,7 +13387,7 @@
   ],
   "timeAllocation": "fullSet",
   "duration": 360,
-  "shortDescription": "Test",
+  "shortDescription": "Test Test  Test  Test  Test  Test  Test ",
   "pricing": {
     "type": "inCourse"
   },
@@ -13410,17 +13398,16 @@
     {
       "answer": [
         [
-          "A fire has broken out here",
-          "There is a fire here"
+          "The car is on fire",
+          "The car has caught on fire"
         ]
       ],
-      "questionLine": "এখানে আগুন লেগেছে ___",
+      "questionLine": "গাড়িতে আগুন লেগেছে ___",
       "questionCount": 1,
       "prompt": "<p><strong>Instruction- </strong>Translate the following Bangla sentences into English</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use Vocabularies from the handouts and lesson video</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Don’t stress about grammar, make simple sentences</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sample- আমি ঢাকার বাসিন্দা। → I am from Dhaka.</p>",
       "marks": 1,
       "duration": 0,
       "instruction": "<p><strong>Translation Practice (Bangla → English)</strong></p>",
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9a1379bea090fff6f8d14",
       "promptMedia": [],
@@ -13429,15 +13416,13 @@
     {
       "answer": [
         [
-          "My brother was in an accident",
-          "My brother has met with an accident"
+          "I help others in danger"
         ]
       ],
-      "questionLine": "আমার ভাই দুর্ঘটনায় পড়েছে ___",
+      "questionLine": "আমি বিপদে অন্যদের সাহায্য করি ___",
       "questionCount": 1,
       "marks": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9a1379bea090fff6f8d15",
       "prompt": null,
@@ -13447,14 +13432,13 @@
     {
       "answer": [
         [
-          "Please call the doctor"
+          "Doctors treat patients in the hospital"
         ]
       ],
-      "questionLine": "দয়া করে ডাক্তার ডাকুন ___",
+      "questionLine": "ডাক্তার হাসপাতালে রোগীদের চিকিৎসা করে ___",
       "questionCount": 1,
       "marks": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9a1379bea090fff6f8d16",
       "prompt": null,
@@ -13464,15 +13448,14 @@
     {
       "answer": [
         [
-          "This is very dangerous",
-          "It is very dangerous"
+          "The police protect us from danger",
+          "The police saves us from danger"
         ]
       ],
-      "questionLine": "এটা খুব বিপজ্জনক ___",
+      "questionLine": "পুলিশ আমাদের বিপদ থেকে বাঁচায় ___",
       "questionCount": 1,
       "marks": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9a1379bea090fff6f8d17",
       "prompt": null,
@@ -13482,14 +13465,14 @@
     {
       "answer": [
         [
-          "We are safe"
+          "The injured should be given emergency treatment quickly",
+          "Injured people should be taken to emergency treatment  immediately"
         ]
       ],
-      "questionLine": "আমরা নিরাপদ আছি ___",
+      "questionLine": "আহতদের দ্রুত জরুরী চিকিৎসা দেয়া উচিত ___",
       "questionCount": 1,
       "marks": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9a1379bea090fff6f8d18",
       "prompt": null,
@@ -13499,16 +13482,15 @@
     {
       "prompt": "<p><strong>Small Paragraph Exercise</strong></p><p>গতকাল রাস্তায় একটি দুর্ঘটনা ঘটেছিল। অনেক মানুষ দৌড়ে সাহায্য করতে গিয়েছিল। একজন পুলিশ এসে পরিস্থিতি নিয়ন্ত্রণ করলেন। পরে একটি অ্যাম্বুলেন্স এসে আহত ব্যক্তিকে হাসপাতালে নিয়ে গেল। সবাই বলল, দ্রুত সাহায্য করা খুব গুরুত্বপূর্ণ।</p>",
       "marks": 5,
-      "exampleAnswer": [],
       "instruction": "<p><strong>Instruction- </strong>Translate the following Bangla paragraph into English</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use Vocabularies from the handouts and lesson video</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Add simple sentences into a paragraph </p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Don’t add any extra information’s&nbsp;</p>",
       "questionCount": 1,
       "maxWordCount": 0,
       "minWordCount": 0,
       "duration": 0,
-      "suggestion": null,
       "type": "essayWritingAI",
       "_id": "68f9a1379bea090fff6f8d19",
-      "promptMedia": []
+      "promptMedia": [],
+      "exampleAnswer": []
     }
   ],
   "banner": null,
@@ -13519,7 +13501,7 @@
     "$date": "2025-10-23T03:29:59.996Z"
   },
   "lastUpdateAt": {
-    "$date": "2025-10-23T03:30:52.719Z"
+    "$date": "2025-11-12T06:38:56.644Z"
   },
   "deleted": false,
   "deletedAt": null
@@ -13599,7 +13581,7 @@
   ],
   "timeAllocation": "fullSet",
   "duration": 300,
-  "shortDescription": "Test",
+  "shortDescription": "Test Test Test Test Test Test Test",
   "pricing": {
     "type": "inCourse"
   },
@@ -13610,14 +13592,13 @@
     {
       "prompt": "<h3><strong>Speaking Test</strong></h3><p>Choose 5 ingredients from your kitchen and find their English meaning. Make a list and record your answer. </p>",
       "marks": 5,
-      "exampleAnswer": [],
       "questionCount": 1,
       "maxRecordingTime": 0,
       "duration": 0,
-      "suggestion": null,
       "type": "voiceClipAI",
       "_id": "68f9a4de9bea090fff6f9192",
-      "promptMedia": []
+      "promptMedia": [],
+      "exampleAnswer": []
     }
   ],
   "banner": null,
@@ -13628,7 +13609,7 @@
     "$date": "2025-10-23T03:45:34.293Z"
   },
   "lastUpdateAt": {
-    "$date": "2025-10-23T03:45:36.889Z"
+    "$date": "2025-11-12T06:22:18.637Z"
   },
   "deleted": false,
   "deletedAt": null
@@ -14117,7 +14098,7 @@
   ],
   "timeAllocation": "fullSet",
   "duration": 5400,
-  "shortDescription": "This is a short description ",
+  "shortDescription": "This is a short description  This is a short description ",
   "generalInstruction": "<p>Welcome to the Final Test of the <em>English Communication for Parents Course</em>. This test is designed to assess your understanding of English for everyday life, especially for communication at home, school, market and during daily activities with your family.</p><p>Please read the following instructions carefully before you begin:</p><h3><strong>Test Format</strong></h3><ul><li><p><strong>Total Marks:</strong> 100</p></li><li><p><strong>Time Allowed:</strong> 90 minutes</p></li><li><p><strong>Number of Sections:</strong> 7 (A to G)</p></li></ul><p>You must attempt all sections:</p><ul><li><p><strong>Section A:</strong> Vocabulary (Matching + Multiple Choice)</p></li><li><p><strong>Section B:</strong> Sentence Translation (Bangla ↔ English)</p></li><li><p><strong>Section C:</strong> Dialogue Comprehension</p></li><li><p><strong>Section D:</strong> Situational Conversations &amp; Emergency Response</p></li><li><p><strong>Section E:</strong> Paragraph Writing</p></li><li><p><strong>Section F:</strong> Mixed Situational Usage &amp; Multiple Choice</p></li><li><p><strong>Section G:</strong> Listening &amp; Speaking Simulation <em>(if applicable)</em></p></li></ul><h3><strong>Answering Instructions</strong></h3><ul><li><p>Answer <strong>all questions in English</strong>, unless the question asks for Bangla.</p></li><li><p>Use <strong>simple and clear sentences</strong> — grammar is important, but communication is the main goal.</p></li><li><p><strong>Write neatly</strong> if on paper OR <strong>type clearly</strong> if online.</p></li><li><p>You may use vocabulary from <strong>lesson handouts and class videos</strong>.</p></li></ul>",
   "pricing": {
     "type": "inCourse"
@@ -14138,7 +14119,6 @@
       "marks": 1,
       "duration": 0,
       "instruction": "<h3><strong style=\"color: black;\">Section A: Vocabulary (20 marks)</strong></h3><p><span style=\"color: black;\">A1. Write the English meaning for these following Bangla words. (10 × 1 = 10 marks)</span></p>",
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df32",
       "promptMedia": [],
@@ -14154,7 +14134,6 @@
       "questionCount": 1,
       "marks": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df33",
       "prompt": null,
@@ -14171,7 +14150,6 @@
       "questionCount": 1,
       "marks": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df34",
       "prompt": null,
@@ -14188,7 +14166,6 @@
       "questionCount": 1,
       "marks": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df35",
       "prompt": null,
@@ -14205,7 +14182,6 @@
       "questionCount": 1,
       "marks": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df36",
       "prompt": null,
@@ -14222,7 +14198,6 @@
       "questionCount": 1,
       "marks": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df37",
       "prompt": null,
@@ -14239,7 +14214,6 @@
       "questionCount": 1,
       "marks": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df38",
       "prompt": null,
@@ -14256,7 +14230,6 @@
       "questionCount": 1,
       "marks": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df39",
       "prompt": null,
@@ -14273,7 +14246,6 @@
       "questionCount": 1,
       "marks": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df3a",
       "prompt": null,
@@ -14290,7 +14262,6 @@
       "questionCount": 1,
       "marks": 1,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df3b",
       "prompt": null,
@@ -14305,7 +14276,9 @@
       "questionCount": 1,
       "options": [
         "Ambulance",
-        "Bicycle"
+        "Bicycle",
+        "Car",
+        "Truck"
       ],
       "marks": 1,
       "duration": 0,
@@ -14315,10 +14288,10 @@
       "suggestion": null,
       "type": "mcq",
       "_id": "68f9f109489f5ecd8dd4df3c",
+      "answerCount": 1,
       "prompt": null,
       "promptMedia": [],
-      "exampleAnswer": [],
-      "answerCount": 1
+      "exampleAnswer": []
     },
     {
       "title": "In winter, it is very _____.",
@@ -14328,19 +14301,20 @@
       "questionCount": 1,
       "options": [
         "Hot",
-        "Cold"
+        "Cold",
+        "Sunny",
+        "Windy"
       ],
       "marks": 1,
       "duration": 0,
       "hasMultipleSelection": false,
       "markerType": "no_marker",
-      "suggestion": null,
       "type": "mcq",
       "_id": "68f9f109489f5ecd8dd4df3d",
+      "answerCount": 1,
       "prompt": null,
       "promptMedia": [],
-      "exampleAnswer": [],
-      "answerCount": 1
+      "exampleAnswer": []
     },
     {
       "title": "You should _____ your teeth every morning.",
@@ -14356,13 +14330,12 @@
       "duration": 0,
       "hasMultipleSelection": false,
       "markerType": "no_marker",
-      "suggestion": null,
       "type": "mcq",
       "_id": "68f9f109489f5ecd8dd4df3e",
+      "answerCount": 1,
       "prompt": null,
       "promptMedia": [],
-      "exampleAnswer": [],
-      "answerCount": 1
+      "exampleAnswer": []
     },
     {
       "title": "My son is a _____ in class 2.",
@@ -14378,13 +14351,12 @@
       "duration": 0,
       "hasMultipleSelection": false,
       "markerType": "no_marker",
-      "suggestion": null,
       "type": "mcq",
       "_id": "68f9f109489f5ecd8dd4df3f",
+      "answerCount": 1,
       "prompt": null,
       "promptMedia": [],
-      "exampleAnswer": [],
-      "answerCount": 1
+      "exampleAnswer": []
     },
     {
       "title": "Please take your _____ before crossing the road.",
@@ -14400,13 +14372,12 @@
       "duration": 0,
       "hasMultipleSelection": false,
       "markerType": "no_marker",
-      "suggestion": null,
       "type": "mcq",
       "_id": "68f9f109489f5ecd8dd4df40",
+      "answerCount": 1,
       "prompt": null,
       "promptMedia": [],
-      "exampleAnswer": [],
-      "answerCount": 1
+      "exampleAnswer": []
     },
     {
       "title": "I bought some _____ at the grocery store.",
@@ -14422,13 +14393,12 @@
       "duration": 0,
       "hasMultipleSelection": false,
       "markerType": "no_marker",
-      "suggestion": null,
       "type": "mcq",
       "_id": "68f9f109489f5ecd8dd4df41",
+      "answerCount": 1,
       "prompt": null,
       "promptMedia": [],
-      "exampleAnswer": [],
-      "answerCount": 1
+      "exampleAnswer": []
     },
     {
       "title": "We use a _____ to cook curry.",
@@ -14444,13 +14414,12 @@
       "duration": 0,
       "hasMultipleSelection": false,
       "markerType": "no_marker",
-      "suggestion": null,
       "type": "mcq",
       "_id": "68f9f109489f5ecd8dd4df42",
+      "answerCount": 1,
       "prompt": null,
       "promptMedia": [],
-      "exampleAnswer": [],
-      "answerCount": 1
+      "exampleAnswer": []
     },
     {
       "title": "The _____ is busy today.",
@@ -14466,13 +14435,12 @@
       "duration": 0,
       "hasMultipleSelection": false,
       "markerType": "no_marker",
-      "suggestion": null,
       "type": "mcq",
       "_id": "68f9f109489f5ecd8dd4df43",
+      "answerCount": 1,
       "prompt": null,
       "promptMedia": [],
-      "exampleAnswer": [],
-      "answerCount": 1
+      "exampleAnswer": []
     },
     {
       "title": "I like to play in the _____ season.",
@@ -14488,13 +14456,12 @@
       "duration": 0,
       "hasMultipleSelection": false,
       "markerType": "no_marker",
-      "suggestion": null,
       "type": "mcq",
       "_id": "68f9f109489f5ecd8dd4df44",
+      "answerCount": 1,
       "prompt": null,
       "promptMedia": [],
-      "exampleAnswer": [],
-      "answerCount": 1
+      "exampleAnswer": []
     },
     {
       "title": "Say “Thank you” to the ____ after the rickshaw ride.",
@@ -14510,27 +14477,26 @@
       "duration": 0,
       "hasMultipleSelection": false,
       "markerType": "no_marker",
-      "suggestion": null,
       "type": "mcq",
       "_id": "68f9f109489f5ecd8dd4df45",
+      "answerCount": 1,
       "prompt": null,
       "promptMedia": [],
-      "exampleAnswer": [],
-      "answerCount": 1
+      "exampleAnswer": []
     },
     {
       "answer": [
         [
-          "My mother is cooking rice and curry"
+          "My mother is cooking food",
+          "My mother is cooking meal"
         ]
       ],
-      "questionLine": "আমার মা ভাত এবং তরকারি রান্না করছেন ___",
+      "questionLine": "আমার মা খাবার রান্না করছেন ___",
       "questionCount": 1,
       "prompt": "<p><strong style=\"color: black;\">Instructions:</strong></p><ul><li>Answer all questions in English unless specified otherwise.</li><li>Time allowed: 90 minutes</li><li>Total marks: 100</li></ul>",
       "marks": 2,
       "duration": 0,
       "instruction": "<h3><strong style=\"color: black;\">Section B: Sentence Translation (20 marks)</strong></h3><p><span style=\"color: black;\">B1. Translate the following from English to Bangla (5 × 2 = 10 marks)</span></p>",
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df46",
       "promptMedia": [],
@@ -14539,14 +14505,14 @@
     {
       "answer": [
         [
-          "Please call the doctor"
+          "Please call the doctor",
+          "Please, call the doctor"
         ]
       ],
-      "questionLine": "দয়া করে ডাক্তারকে ফোন করুন ___",
+      "questionLine": "দয়া করে ডাক্তার ডাকুন ___",
       "questionCount": 1,
       "marks": 2,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df47",
       "prompt": null,
@@ -14559,11 +14525,10 @@
           "I will go to school after breakfast"
         ]
       ],
-      "questionLine": "আমি নাস্তার পরে স্কুলে যাব ___",
+      "questionLine": "আমি নাস্তা করে স্কুলে যাব ___",
       "questionCount": 1,
       "marks": 2,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df48",
       "prompt": null,
@@ -14580,7 +14545,6 @@
       "questionCount": 1,
       "marks": 2,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df49",
       "prompt": null,
@@ -14590,14 +14554,13 @@
     {
       "answer": [
         [
-          "Don’t forget to wear your school uniform"
+          "We should wear school uniform"
         ]
       ],
-      "questionLine": "স্কুলের ইউনিফর্ম পরতে ভুলবেন না ___",
+      "questionLine": "আমাদের স্কুলের পোশাক পরা উচিত ___",
       "questionCount": 1,
       "marks": 2,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df4a",
       "prompt": null,
@@ -14615,7 +14578,6 @@
       "marks": 2,
       "duration": 0,
       "instruction": "<p><span style=\"color: black;\">B2. Translate the following from Bangla to English (5 × 2 = 10 marks)</span></p>",
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df4b",
       "prompt": null,
@@ -14632,7 +14594,6 @@
       "questionCount": 1,
       "marks": 2,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df4c",
       "prompt": null,
@@ -14642,14 +14603,13 @@
     {
       "answer": [
         [
-          "Today is very hot and sunny"
+          "It's been raining all day today"
         ]
       ],
-      "questionLine": "আজ খুব গরম এবং রোদেলা ___",
+      "questionLine": "আজ সারাদিন বৃষ্টি হচ্ছে ___",
       "questionCount": 1,
       "marks": 2,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df4d",
       "prompt": null,
@@ -14666,7 +14626,6 @@
       "questionCount": 1,
       "marks": 2,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df4e",
       "prompt": null,
@@ -14683,7 +14642,6 @@
       "questionCount": 1,
       "marks": 2,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df4f",
       "prompt": null,
@@ -14703,7 +14661,6 @@
       "marks": 3,
       "duration": 0,
       "instruction": "<h3><strong style=\"color: black;\">Section C: Dialogue Comprehension (15 marks)</strong></h3><p><span style=\"color: black;\">Read the dialogue and answer the questions. (5 × 3 = 15 marks)</span></p><p><strong style=\"color: black;\">Dialogue:</strong></p><p><span style=\"color: black;\">Parent: Did you finish your homework?</span></p><p>Child: Yes, but I forgot to bring my notebook.</p><p>Parent: That’s okay. Please take it tomorrow.</p><p>Child: I will. Can I play now?</p><p>Parent: Only for 30 minutes, then study again.</p>",
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df50",
       "promptMedia": [],
@@ -14719,7 +14676,6 @@
       "questionCount": 1,
       "marks": 3,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df51",
       "prompt": null,
@@ -14736,7 +14692,6 @@
       "questionCount": 1,
       "marks": 3,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df52",
       "prompt": null,
@@ -14753,7 +14708,6 @@
       "questionCount": 1,
       "marks": 3,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df53",
       "prompt": null,
@@ -14770,7 +14724,6 @@
       "questionCount": 1,
       "marks": 3,
       "duration": 0,
-      "suggestion": null,
       "type": "fillInTheBlankAI",
       "_id": "68f9f109489f5ecd8dd4df54",
       "prompt": null,
@@ -14781,72 +14734,67 @@
       "title": "At the doctor’s office: Parent asks about child’s fever.",
       "prompt": "<p><strong style=\"color: black;\">Instructions:</strong></p><ul><li>Answer all questions in English unless specified otherwise.</li><li>Time allowed: 90 minutes</li><li>Total marks: 100</li></ul>",
       "marks": 3,
-      "exampleAnswer": [],
       "instruction": "<h3><strong style=\"color: black;\">Section D: Situational Conversations (15 marks)</strong></h3><p><span style=\"color: black;\">D1. Write short English dialogues (2–3 sentences each). (3 × 3 = 9 marks)</span></p>",
       "questionCount": 1,
       "maxWordCount": 0,
       "minWordCount": 0,
       "duration": 0,
-      "suggestion": null,
       "type": "essayWritingAI",
       "_id": "68f9f109489f5ecd8dd4df55",
-      "promptMedia": []
+      "promptMedia": [],
+      "exampleAnswer": []
     },
     {
       "title": "At the grocery store: Child asks the price of apples.",
       "marks": 3,
-      "exampleAnswer": [],
       "questionCount": 1,
       "maxWordCount": 0,
       "minWordCount": 0,
       "duration": 0,
-      "suggestion": null,
       "type": "essayWritingAI",
       "_id": "68f9f109489f5ecd8dd4df56",
       "prompt": null,
-      "promptMedia": []
+      "promptMedia": [],
+      "exampleAnswer": []
     },
     {
       "title": "Talking on the phone: Parent calls the teacher about homework",
       "marks": 3,
-      "exampleAnswer": [],
       "questionCount": 1,
       "maxWordCount": 0,
       "minWordCount": 0,
       "duration": 0,
-      "suggestion": null,
       "type": "essayWritingAI",
       "_id": "68f9f109489f5ecd8dd4df57",
       "prompt": null,
-      "promptMedia": []
+      "promptMedia": [],
+      "exampleAnswer": []
     },
     {
       "marks": 6,
-      "exampleAnswer": [],
       "instruction": "<p><strong style=\"color: black;\">D2. Emergency Situation: (1 × 6 = 6 marks)</strong></p><p>Your child fell and got hurt. Write 6 sentences in English explaining:</p><ul><li>What happened</li><li>Where you are</li><li>Who is helping</li><li aria-hidden=\"true\">What you need</li></ul><p><br></p>",
       "questionCount": 1,
       "maxWordCount": 0,
       "minWordCount": 0,
       "duration": 0,
-      "suggestion": null,
       "type": "essayWritingAI",
       "_id": "68f9f109489f5ecd8dd4df58",
       "prompt": null,
-      "promptMedia": []
+      "promptMedia": [],
+      "exampleAnswer": []
     },
     {
       "prompt": "<p><strong style=\"color: black;\">Instructions:</strong></p><ul><li>Answer all questions in English unless specified otherwise.</li><li>Time allowed: 90 minutes</li><li>Total marks: 100</li></ul>",
       "marks": 15,
-      "exampleAnswer": [],
       "instruction": "<h3><strong style=\"color: black;\">Section E: Paragraph Writing (15 marks)</strong></h3><p><span style=\"color: black;\">E1. Write a short paragraph (6–8 sentences) in English describing one of the following:</span></p><ol><li>Your family’s daily routine.</li><li>A recent visit to the grocery store or market.</li><li>A rainy day and what your family did.</li></ol>",
       "questionCount": 1,
       "maxWordCount": 0,
       "minWordCount": 0,
       "duration": 0,
-      "suggestion": null,
       "type": "essayWritingAI",
       "_id": "68f9f109489f5ecd8dd4df59",
-      "promptMedia": []
+      "promptMedia": [],
+      "exampleAnswer": []
     },
     {
       "title": "If the bus is crowded, you should:",
@@ -14865,12 +14813,11 @@
       "hasMultipleSelection": false,
       "instruction": "<h3><strong style=\"color: black;\">Section F: Mixed Multiple Choice / Situational Usage (15 marks)</strong></h3><p><span style=\"color: black;\">Choose the best answer (1 × 5 = 5 marks)</span></p>",
       "markerType": "no_marker",
-      "suggestion": null,
       "type": "mcq",
       "_id": "68f9f109489f5ecd8dd4df5a",
+      "answerCount": 1,
       "promptMedia": [],
-      "exampleAnswer": [],
-      "answerCount": 1
+      "exampleAnswer": []
     },
     {
       "title": "When calling a teacher on the phone, you should say:",
@@ -14887,13 +14834,12 @@
       "duration": 0,
       "hasMultipleSelection": false,
       "markerType": "no_marker",
-      "suggestion": null,
       "type": "mcq",
       "_id": "68f9f109489f5ecd8dd4df5b",
+      "answerCount": 1,
       "prompt": null,
       "promptMedia": [],
-      "exampleAnswer": [],
-      "answerCount": 1
+      "exampleAnswer": []
     },
     {
       "title": "If you see a fire, you should:",
@@ -14910,13 +14856,12 @@
       "duration": 0,
       "hasMultipleSelection": false,
       "markerType": "no_marker",
-      "suggestion": null,
       "type": "mcq",
       "_id": "68f9f109489f5ecd8dd4df5c",
+      "answerCount": 1,
       "prompt": null,
       "promptMedia": [],
-      "exampleAnswer": [],
-      "answerCount": 1
+      "exampleAnswer": []
     },
     {
       "title": "Before crossing the road, always:",
@@ -14933,13 +14878,12 @@
       "duration": 0,
       "hasMultipleSelection": false,
       "markerType": "no_marker",
-      "suggestion": null,
       "type": "mcq",
       "_id": "68f9f109489f5ecd8dd4df5d",
+      "answerCount": 1,
       "prompt": null,
       "promptMedia": [],
-      "exampleAnswer": [],
-      "answerCount": 1
+      "exampleAnswer": []
     },
     {
       "title": "If your child has a headache, you should:",
@@ -14956,42 +14900,39 @@
       "duration": 0,
       "hasMultipleSelection": false,
       "markerType": "no_marker",
-      "suggestion": null,
       "type": "mcq",
       "_id": "68f9f109489f5ecd8dd4df5e",
+      "answerCount": 1,
       "prompt": null,
       "promptMedia": [],
-      "exampleAnswer": [],
-      "answerCount": 1
+      "exampleAnswer": []
     },
     {
       "title": "Your child is feeling sick at school. Write 3 sentences in English explaining what you will do.",
       "marks": 5,
-      "exampleAnswer": [],
       "instruction": "<p><span style=\"color: black;\">Situational Questions (2 × 5 = 10 marks)</span></p>",
       "questionCount": 1,
       "maxWordCount": 0,
       "minWordCount": 0,
       "duration": 0,
-      "suggestion": null,
       "type": "essayWritingAI",
       "_id": "68f9f109489f5ecd8dd4df5f",
       "prompt": null,
-      "promptMedia": []
+      "promptMedia": [],
+      "exampleAnswer": []
     },
     {
       "title": "You want to ask the shopkeeper for the price of vegetables politely. Write 2 sentences in English.",
       "marks": 5,
-      "exampleAnswer": [],
       "questionCount": 1,
       "maxWordCount": 0,
       "minWordCount": 0,
       "duration": 0,
-      "suggestion": null,
       "type": "essayWritingAI",
       "_id": "68f9f109489f5ecd8dd4df60",
       "prompt": null,
-      "promptMedia": []
+      "promptMedia": [],
+      "exampleAnswer": []
     }
   ],
   "banner": null,
@@ -15002,7 +14943,7 @@
     "$date": "2025-10-23T09:10:33.500Z"
   },
   "lastUpdateAt": {
-    "$date": "2025-10-23T09:10:37.623Z"
+    "$date": "2025-11-12T09:07:19.092Z"
   },
   "deleted": false,
   "deletedAt": null
