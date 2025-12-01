@@ -1,10 +1,10 @@
-import ollama from 'ollama';
+import ollama from "ollama";
 
 export class OllamaService {
   private model: string;
   private embedModel: string;
 
-  constructor(model: string = 'llama3.2:3b', embedModel: string = 'nomic-embed-text:latest') {
+  constructor(model: string = "llama3.2:3b", embedModel: string = "nomic-embed-text:latest") {
     this.model = model;
     this.embedModel = embedModel;
   }
@@ -17,7 +17,7 @@ export class OllamaService {
       });
       return response.embedding;
     } catch (error) {
-      console.error('Error generating embedding:', error);
+      console.error("Error generating embedding:", error);
       throw error;
     }
   }
@@ -28,9 +28,10 @@ export class OllamaService {
         model: this.model,
         messages: messages as any, // Type cast to satisfy library types if needed
       });
+      console.log("response", response);
       return response.message.content;
     } catch (error) {
-      console.error('Error generating chat response:', error);
+      console.error("Error generating chat response:", error);
       throw error;
     }
   }
@@ -49,7 +50,7 @@ export class OllamaService {
         }
       }
     } catch (error) {
-      console.error('Error generating streaming chat response:', error);
+      console.error("Error generating streaming chat response:", error);
       throw error;
     }
   }
