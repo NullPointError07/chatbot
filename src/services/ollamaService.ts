@@ -28,7 +28,7 @@ export class OllamaService {
         model: this.model,
         messages: messages as any, // Type cast to satisfy library types if needed
       });
-      console.log("response", response);
+      console.log("[Response]", response);
       return response.message.content;
     } catch (error) {
       console.error("Error generating chat response:", error);

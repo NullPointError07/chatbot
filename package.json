@@ -13,10 +13,14 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "@types/ioredis": "^4.28.10",
+    "@types/uuid": "^10.0.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
-    "ollama": "^0.6.3"
+    "ioredis": "^5.8.2",
+    "ollama": "^0.6.3",
+    "uuid": "^13.0.0"
   },
   "devDependencies": {
     "@types/cors": "^2.8.19",

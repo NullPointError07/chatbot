@@ -1,10 +1,12 @@
 import express from "express";
 import cors from "cors";
 import path from "path";
+import dotenv from "dotenv";
 import { OllamaService } from "./services/ollamaService";
 import { VectorStore } from "./services/vectorStore";
 import { ChatService } from "./services/chatService";
 
+dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 3000;
 
@@ -25,35 +27,26 @@ vectorStore.loadData(dataDir).catch((err) => console.error("Failed to load data:
 // Routes
 app.post("/api/chat", async (req, res) => {
   try {
-    const { message, history, type } = req.body;
+    const { message, sessionId, type } = req.body;
 
-    if (type !== "text") {
-      return res.status(400).json({ error: "Invalid type" });
+    if (type !== "text" || !message) {
+      return res.status(400).json({ error: "Invalid request" });
     }
 
-    if (!message) {
-      return res.status(400).json({ error: "Message is required" });
-    }
-
-    const response = await chatService.handleMessage(message, history || []);
-    res.json({ response });
+    const result = await chatService.handleMessage(message, sessionId);
+    res.json(result);
   } catch (error) {
     console.error("Chat error:", error);
     res.status(500).json({ error: "Internal server error" });
   }
 });
 
-// Streaming Chat Route
 app.post("/api/chat/stream", async (req, res) => {
   try {
-    const { message, history, type } = req.body;
+    const { message, sessionId, type } = req.body;
 
-    if (type !== "text") {
-      return res.status(400).json({ error: "Invalid type" });
-    }
-
-    if (!message) {
-      return res.status(400).json({ error: "Message is required" });
+    if (type !== "text" || !message) {
+      return res.status(400).json({ error: "Invalid request" });
     }
 
     // Set headers for Server-Sent Events
@@ -62,8 +55,14 @@ app.post("/api/chat/stream", async (req, res) => {
     res.setHeader("Connection", "keep-alive");
 
     // Stream the response
-    for await (const chunk of chatService.handleMessageStream(message, history || [])) {
-      res.write(`data: ${JSON.stringify({ chunk })}\n\n`);
+    for await (const chunk of chatService.handleMessageStream(message, sessionId)) {
+      // If chunk is JSON (sessionId), send as data
+      if (chunk.startsWith("{")) {
+        res.write(`data: ${chunk}\n\n`);
+      } else {
+        // Otherwise send as chunk
+        res.write(`data: ${JSON.stringify({ chunk })}\n\n`);
+      }
     }
 
     // Send done signal
