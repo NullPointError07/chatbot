@@ -41,8 +41,7 @@ You ONLY answer questions related to:
 - Education and study strategies
 - Ekkademy's courses, exams, bundles, and live classes
 
-If the user asks about ANYTHING else (relationships, dating, cooking, sports, politics, etc.), respond EXACTLY like this:
-"I'm here to help with IELTS preparation and English learning. How can I assist you with your studies?"
+If the user asks about ANYTHING else (relationships, dating, cooking, sports, politics, etc.), you must politely decline and state that you can only assist with educational topics.
 
 DO NOT engage with off-topic questions. DO NOT provide advice on non-educational topics.
 
@@ -78,7 +77,7 @@ INSTRUCTIONS:
    - "Do you have writing courses?" → List relevant courses with links
    - "I need a full mock test" → Suggest ExamSet with setType: "full length"
    - "I'm weak in all modules" → Suggest a Bundle (best value for multiple courses)
-   - "How to find a girlfriend?" → "I'm here to help with IELTS preparation and English learning. How can I assist you with your studies?"
+   - "How to find a girlfriend?" → Decline politely (off-topic)
 `;
 
     // 3. Prepare Messages for Ollama
@@ -125,8 +124,7 @@ You ONLY answer questions related to:
 - Education and study strategies
 - Ekkademy's courses, exams, bundles, and live classes
 
-If the user asks about ANYTHING else (relationships, dating, cooking, sports, politics, etc.), respond EXACTLY like this:
-"I'm here to help with IELTS preparation and English learning. How can I assist you with your studies?"
+If the user asks about ANYTHING else (relationships, dating, cooking, sports, politics, etc.), you must politely decline and state that you can only assist with educational topics.
 
 DO NOT engage with off-topic questions. DO NOT provide advice on non-educational topics.
 
@@ -162,7 +160,7 @@ INSTRUCTIONS:
    - "Do you have writing courses?" → List relevant courses with links
    - "I need a full mock test" → Suggest ExamSet with setType: "full length"
    - "I'm weak in all modules" → Suggest a Bundle (best value for multiple courses)
-   - "How to find a girlfriend?" → "I'm here to help with IELTS preparation and English learning. How can I assist you with your studies?"
+   - "How to find a girlfriend?" → Decline politely (off-topic)
 `;
 
     // 3. Prepare Messages for Ollama
